@@ -1,0 +1,1365 @@
+{
+  "_note": "含移植自「懒人提示词工具」的镜头 / 运镜 / 画幅参数",
+  "order": [
+    "画质",
+    "人物",
+    "身体",
+    "表情",
+    "动作",
+    "服饰",
+    "材质",
+    "道具",
+    "食物",
+    "动物",
+    "场景",
+    "天气",
+    "时间",
+    "特效",
+    "光照",
+    "色调",
+    "摄影",
+    "画风",
+    "氛围",
+    "题材",
+    "NSFW·身体",
+    "NSFW·行为",
+    "NSFW·特殊",
+    "写实负面",
+    "负面"
+  ],
+  "tags": {
+    "光照": [
+      {
+        "t": "cinematic lighting",
+        "z": "电影级打光"
+      },
+      {
+        "t": "soft lighting",
+        "z": "柔和光"
+      },
+      {
+        "t": "backlighting",
+        "z": "逆光"
+      },
+      {
+        "t": "rim lighting",
+        "z": "轮廓光"
+      },
+      {
+        "t": "sunlight",
+        "z": "阳光"
+      },
+      {
+        "t": "dappled sunlight",
+        "z": "树影斑驳光"
+      },
+      {
+        "t": "golden hour",
+        "z": "黄昏暖光"
+      },
+      {
+        "t": "volumetric lighting",
+        "z": "体积光"
+      },
+      {
+        "t": "light rays",
+        "z": "光束"
+      },
+      {
+        "t": "light particles",
+        "z": "漂浮光点"
+      },
+      {
+        "t": "glowing",
+        "z": "发光效果"
+      },
+      {
+        "t": "dark",
+        "z": "黑暗环境"
+      },
+      {
+        "t": "dim light",
+        "z": "朦胧微光"
+      },
+      {
+        "t": "dramatic shadows",
+        "z": "浓重阴影"
+      },
+      {
+        "t": "neon lights",
+        "z": "霓虹灯光"
+      },
+      {
+        "t": "candlelight",
+        "z": "烛光"
+      },
+      {
+        "t": "moonlight",
+        "z": "月光"
+      },
+      {
+        "t": "firelight",
+        "z": "火光"
+      },
+      {
+        "t": "glow effect",
+        "z": "柔光效果"
+      },
+      {
+        "t": "natural lighting",
+        "z": "自然光",
+        "d": "来自太阳、月亮等自然光源，光线柔和自然，适合户外拍摄"
+      },
+      {
+        "t": "sunset light",
+        "z": "日落光",
+        "d": "日落时分的暖红色光线，带有金色调，氛围感强"
+      },
+      {
+        "t": "artificial lighting",
+        "z": "人工光",
+        "d": "来自灯光、闪光灯等人造光源，可控制强度和色温，适合室内拍摄"
+      },
+      {
+        "t": "harsh lighting",
+        "z": "硬光",
+        "d": "直射光线，阴影明显锐利，适合创造戏剧性效果和强烈对比"
+      },
+      {
+        "t": "side lighting",
+        "z": "侧光",
+        "d": "从主体侧面照射的光线，增强立体感和纹理，适合展现质感"
+      },
+      {
+        "t": "overhead lighting",
+        "z": "顶光",
+        "d": "从上方照射的光线，常用于营造神秘氛围或戏剧性效果"
+      },
+      {
+        "t": "ring light",
+        "z": "环形光",
+        "d": "环绕主体的均匀光线，常见于产品拍摄和人像摄影，减少阴影"
+      },
+      {
+        "t": "window light",
+        "z": "窗光",
+        "d": "模拟窗户透入的光线，呈现长方形光效，柔和自然"
+      },
+      {
+        "t": "spotlight",
+        "z": "聚光灯",
+        "d": "强烈的点光源，产生明显的阴影和高光，适合突出特定区域"
+      },
+      {
+        "t": "bounce lighting",
+        "z": "反射光",
+        "d": "通过反射板或反光伞反射的光线，柔和且均匀，适合补光"
+      },
+      {
+        "t": "ambient light",
+        "z": "环境光",
+        "d": "微弱的环境光，通常作为补光使用，提供基础照明"
+      },
+      {
+        "t": "butterfly lighting",
+        "z": "蝴蝶光",
+        "d": "具有方向性的柔和光线，常用于人像拍摄，产生蝴蝶形阴影"
+      },
+      {
+        "t": "underlighting",
+        "z": "底光",
+        "d": "从下方照射的光线，创造特殊效果或恐怖氛围，不常见于常规拍摄"
+      },
+      {
+        "t": "god rays",
+        "z": "神圣光柱"
+      },
+      {
+        "t": "bioluminescence",
+        "z": "生物荧光"
+      },
+      {
+        "t": "pink lighting",
+        "z": "粉色打光"
+      },
+      {
+        "t": "blue lighting",
+        "z": "蓝色打光"
+      },
+      {
+        "t": "red lighting",
+        "z": "红色打光"
+      },
+      {
+        "t": "green lighting",
+        "z": "绿色打光"
+      },
+      {
+        "t": "purple lighting",
+        "z": "紫色打光"
+      },
+      {
+        "t": "orange lighting",
+        "z": "橙色打光"
+      },
+      {
+        "t": "warm lighting",
+        "z": "暖色打光"
+      },
+      {
+        "t": "cool lighting",
+        "z": "冷色打光"
+      },
+      {
+        "t": "fluorescent lighting",
+        "z": "荧光灯照明"
+      },
+      {
+        "t": "studio lighting",
+        "z": "影棚灯光"
+      },
+      {
+        "t": "dramatic lighting",
+        "z": "戏剧性打光"
+      },
+      {
+        "t": "chiaroscuro",
+        "z": "明暗对照"
+      },
+      {
+        "t": "sunrays",
+        "z": "阳光光束"
+      },
+      {
+        "t": "starlight",
+        "z": "星光"
+      },
+      {
+        "t": "key light",
+        "z": "主光"
+      },
+      {
+        "t": "fill light",
+        "z": "补光"
+      },
+      {
+        "t": "tyndall effect",
+        "z": "丁达尔效应",
+        "d": "光束穿透烟雾、树叶或云层产生的立体光路"
+      },
+      {
+        "t": "caustic lighting",
+        "z": "水波焦散光"
+      },
+      {
+        "t": "stained glass light",
+        "z": "彩窗斑斓投影"
+      },
+      {
+        "t": "venetian blinds shadow",
+        "z": "百叶窗条纹光影"
+      },
+      {
+        "t": "split lighting",
+        "z": "半明半暗分割光"
+      },
+      {
+        "t": "rembrandt lighting",
+        "z": "伦勃朗三角光",
+        "d": "经典人像布光，面颊暗侧呈现三角形亮区"
+      },
+      {
+        "t": "loop lighting",
+        "z": "环形/鳄鱼布光"
+      },
+      {
+        "t": "high-key lighting",
+        "z": "高调明亮布光"
+      },
+      {
+        "t": "low-key lighting",
+        "z": "低调暗调布光"
+      },
+      {
+        "t": "silhouette lighting",
+        "z": "剪影逆光"
+      },
+      {
+        "t": "hair light",
+        "z": "发丝轮廓光"
+      },
+      {
+        "t": "screen glow",
+        "z": "屏幕冷光映照"
+      },
+      {
+        "t": "lantern light",
+        "z": "灯笼暖光"
+      },
+      {
+        "t": "campfire light",
+        "z": "篝火摇曳光"
+      },
+      {
+        "t": "streetlamp light",
+        "z": "路灯光晕"
+      },
+      {
+        "t": "neon reflection",
+        "z": "霓虹光反射"
+      },
+      {
+        "t": "iridescent lighting",
+        "z": "炫彩虹光"
+      },
+      {
+        "t": "diffused light",
+        "z": "柔化漫射光"
+      },
+      {
+        "t": "overcast light",
+        "z": "阴天均匀柔光"
+      },
+      {
+        "t": "edge light",
+        "z": "边缘勾边光"
+      },
+      {
+        "t": "warm glow",
+        "z": "温暖光辉"
+      },
+      {
+        "t": "ethereal glow",
+        "z": "空灵柔辉"
+      },
+      {
+        "t": "neon sign glow",
+        "z": "霓虹招牌光"
+      },
+      {
+        "t": "firefly light",
+        "z": "萤火光"
+      },
+      {
+        "t": "candle glow close-up",
+        "z": "近距烛焰光"
+      },
+      {
+        "t": "headlight beam",
+        "z": "车灯光束"
+      },
+      {
+        "t": "moonbeam through window",
+        "z": "窗棂月光"
+      },
+      {
+        "t": "low-key boudoir lighting",
+        "z": "低调闺房布光"
+      }
+    ],
+    "色调": [
+      {
+        "t": "greyscale",
+        "z": "灰度"
+      },
+      {
+        "t": "limited palette",
+        "z": "限定配色"
+      },
+      {
+        "t": "vivid colors",
+        "z": "高饱和色彩"
+      },
+      {
+        "t": "pastel colors",
+        "z": "粉彩色调"
+      },
+      {
+        "t": "muted colors",
+        "z": "低饱和度",
+        "d": "色彩淡雅，适合文艺风格和情绪表达"
+      },
+      {
+        "t": "warm color palette",
+        "z": "暖色调",
+        "d": "暖色调为主，营造温馨氛围，适合家庭和情感场景"
+      },
+      {
+        "t": "cool color palette",
+        "z": "冷色调",
+        "d": "冷色调为主，营造冷静氛围，适合科技和悬疑场景"
+      },
+      {
+        "t": "high contrast",
+        "z": "高对比度",
+        "d": "高对比度，明暗分明，色彩鲜艳，适合表现强烈视觉冲击力"
+      },
+      {
+        "t": "low contrast",
+        "z": "低对比度",
+        "d": "低对比度，色调柔和，色彩过渡平滑，适合表现温柔和宁静氛围"
+      },
+      {
+        "t": "cinematic color grading",
+        "z": "电影色调",
+        "d": "复古电影色彩风格，通常带有特定的色彩分级，营造电影感"
+      },
+      {
+        "t": "black and white",
+        "z": "黑白",
+        "d": "黑白效果，强调光影和构图，去除色彩干扰，突出形式和纹理"
+      },
+      {
+        "t": "monochromatic color scheme",
+        "z": "单色",
+        "d": "单色调画面，使用单一色调或相近色调，营造特殊氛围和统一感"
+      },
+      {
+        "t": "vibrant cartoon colors",
+        "z": "卡通色彩",
+        "d": "色彩鲜艳，如同漫画效果，饱和度高，适合表现活泼和创意场景"
+      },
+      {
+        "t": "retro faded color palette",
+        "z": "褪色复古调",
+        "d": "带有褪色效果的复古色彩，营造怀旧氛围，通常带有轻微褐色调"
+      },
+      {
+        "t": "vignette",
+        "z": "暗角"
+      },
+      {
+        "t": "hdr",
+        "z": "HDR"
+      },
+      {
+        "t": "tone mapping",
+        "z": "色调映射"
+      },
+      {
+        "t": "chromatic aberration",
+        "z": "色差"
+      },
+      {
+        "t": "bloom",
+        "z": "光晕"
+      },
+      {
+        "t": "diffusion filter",
+        "z": "柔光镜"
+      },
+      {
+        "t": "sharpen",
+        "z": "锐化"
+      },
+      {
+        "t": "dehaze",
+        "z": "去雾"
+      },
+      {
+        "t": "highlight clipping",
+        "z": "高光溢出"
+      },
+      {
+        "t": "washed out colors",
+        "z": "褪色"
+      },
+      {
+        "t": "gradient filter",
+        "z": "渐变滤镜"
+      },
+      {
+        "t": "film scan",
+        "z": "胶片扫描"
+      },
+      {
+        "t": "teal and orange",
+        "z": "青橙色调"
+      },
+      {
+        "t": "sepia",
+        "z": "棕褐色调"
+      },
+      {
+        "t": "warm tones",
+        "z": "暖色氛围"
+      },
+      {
+        "t": "cool tones",
+        "z": "冷色氛围"
+      },
+      {
+        "t": "duotone",
+        "z": "双色调"
+      },
+      {
+        "t": "triadic colors",
+        "z": "三色对比配色"
+      },
+      {
+        "t": "complementary colors",
+        "z": "互补撞色"
+      },
+      {
+        "t": "earth tones",
+        "z": "大地色系"
+      },
+      {
+        "t": "autumn palette",
+        "z": "秋日暖棕配色"
+      },
+      {
+        "t": "spring pastel",
+        "z": "春日粉嫩配色"
+      },
+      {
+        "t": "morandi colors",
+        "z": "莫兰迪低饱和高级灰",
+        "z2": "莫兰迪色系"
+      },
+      {
+        "t": "macaron colors",
+        "z": "马卡龙甜美色系"
+      },
+      {
+        "t": "neon palette",
+        "z": "高对比霓虹配色"
+      },
+      {
+        "t": "cyberpunk palette",
+        "z": "赛博蓝紫品红配色"
+      },
+      {
+        "t": "vaporwave palette",
+        "z": "蒸汽波粉青配色"
+      },
+      {
+        "t": "kodak portra",
+        "z": "柯达Portra人像胶片色",
+        "d": "温暖自然的肤色与柔和胶片反差"
+      },
+      {
+        "t": "fujifilm velvia",
+        "z": "富士Velvia浓郁风光色"
+      },
+      {
+        "t": "cinestill 800t",
+        "z": "CineStill 800T夜景电影色",
+        "d": "冷调夜色配红晕高光的电影胶片感"
+      },
+      {
+        "t": "emerald and gold",
+        "z": "祖母绿配金色"
+      },
+      {
+        "t": "crimson and black",
+        "z": "绯红配暗黑"
+      },
+      {
+        "t": "sakura pink palette",
+        "z": "樱花粉白配色"
+      },
+      {
+        "t": "indigo and silver",
+        "z": "靛蓝配银白配色"
+      },
+      {
+        "t": "desaturated",
+        "z": "低饱和度克制色彩"
+      },
+      {
+        "t": "luminous colors",
+        "z": "通透荧光感色彩"
+      },
+      {
+        "t": "rich colors",
+        "z": "浓烈饱满色彩"
+      },
+      {
+        "t": "cyanotype",
+        "z": "蓝晒色调"
+      },
+      {
+        "t": "cross-processed",
+        "z": "交叉冲洗色"
+      },
+      {
+        "t": "bleach bypass",
+        "z": "漂白留色"
+      },
+      {
+        "t": "split toning",
+        "z": "分离色调"
+      },
+      {
+        "t": "garish color",
+        "z": "刺眼撞色"
+      }
+    ],
+    "摄影": [
+      {
+        "t": "from above",
+        "z": "俯视"
+      },
+      {
+        "t": "from below",
+        "z": "仰视"
+      },
+      {
+        "t": "from side",
+        "z": "侧面视角"
+      },
+      {
+        "t": "from behind",
+        "z": "背后视角"
+      },
+      {
+        "t": "portrait",
+        "z": "胸像特写"
+      },
+      {
+        "t": "upper body",
+        "z": "上半身"
+      },
+      {
+        "t": "full body",
+        "z": "全身"
+      },
+      {
+        "t": "cowboy shot",
+        "z": "七分身构图"
+      },
+      {
+        "t": "close-up",
+        "z": "面部特写"
+      },
+      {
+        "t": "wide shot",
+        "z": "大远景"
+      },
+      {
+        "t": "dynamic angle",
+        "z": "动感视角"
+      },
+      {
+        "t": "dutch angle",
+        "z": "斜角构图"
+      },
+      {
+        "t": "profile",
+        "z": "侧脸轮廓"
+      },
+      {
+        "t": "lens flare",
+        "z": "镜头光斑"
+      },
+      {
+        "t": "depth of field",
+        "z": "景深虚化"
+      },
+      {
+        "t": "bokeh",
+        "z": "光斑虚化"
+      },
+      {
+        "t": "cinematic composition",
+        "z": "电影感构图"
+      },
+      {
+        "t": "standard lens",
+        "z": "标准镜头",
+        "d": "标准视角，接近人眼观察效果，适合大多数场景"
+      },
+      {
+        "t": "wide-angle lens",
+        "z": "广角镜头",
+        "d": "视角宽广，适合拍摄风景和大型场景"
+      },
+      {
+        "t": "telephoto lens",
+        "z": "长焦镜头",
+        "d": "焦距长，适合远距离拍摄和特写，背景压缩感强"
+      },
+      {
+        "t": "macro lens",
+        "z": "微距镜头",
+        "d": "可以拍摄非常近的物体，展现细节，适合拍摄小物件"
+      },
+      {
+        "t": "zoom lens",
+        "z": "变焦镜头",
+        "d": "焦距可调节，适合多种场景，灵活调整构图，无需更换镜头"
+      },
+      {
+        "t": "prime lens",
+        "z": "定焦镜头",
+        "d": "大光圈镜头，适合弱光环境和浅景深，画质优秀，轻便易携带"
+      },
+      {
+        "t": "fisheye lens",
+        "z": "鱼眼镜头",
+        "d": "超广角镜头，视角极广，边缘有畸变，适合创意拍摄和特殊效果"
+      },
+      {
+        "t": "wide-angle macro lens",
+        "z": "广角微距镜头",
+        "d": "能够在很近的距离拍摄宽视角画面，结合微距和广角特点"
+      },
+      {
+        "t": "truck left",
+        "z": "左移",
+        "d": "相机从左向右平稳移动，画面中物体从左往右转场"
+      },
+      {
+        "t": "truck right",
+        "z": "右移",
+        "d": "相机从右向左平稳移动，画面中物体从右往左转场"
+      },
+      {
+        "t": "dolly in",
+        "z": "推进",
+        "d": "相机慢慢靠近拍摄主体，画面中的主体会越来越大、越来越清晰"
+      },
+      {
+        "t": "dolly out",
+        "z": "拉远",
+        "d": "相机慢慢远离拍摄主体，画面中的主体会越来越小，周围环境逐渐显现"
+      },
+      {
+        "t": "pan left",
+        "z": "左摇",
+        "d": "相机位置不动，镜头向左缓慢转动，像人转头看左边一样"
+      },
+      {
+        "t": "pan right",
+        "z": "右摇",
+        "d": "相机位置不动，镜头向右缓慢转动，像人转头看右边一样"
+      },
+      {
+        "t": "crane up",
+        "z": "上升",
+        "d": "相机整体向上移动，画面从低处慢慢拍到高处的内容"
+      },
+      {
+        "t": "crane down",
+        "z": "下降",
+        "d": "相机整体向下移动，画面从高处慢慢拍到低处的内容"
+      },
+      {
+        "t": "tilt up",
+        "z": "上摇",
+        "d": "相机位置不动，镜头向上转动，像人抬头看天空一样"
+      },
+      {
+        "t": "tilt down",
+        "z": "下摇",
+        "d": "相机位置不动，镜头向下转动，像人低头看地面一样"
+      },
+      {
+        "t": "zoom in",
+        "z": "变焦推进",
+        "d": "相机位置不动，通过调镜头焦距让画面像拉近一样，主体逐渐变大"
+      },
+      {
+        "t": "zoom out",
+        "z": "变焦拉远",
+        "d": "相机位置不动，通过调镜头焦距让画面像推远一样，主体逐渐变小"
+      },
+      {
+        "t": "shaky handheld camera",
+        "z": "晃动",
+        "d": "相机故意产生上下左右的抖动，营造紧张、混乱或手持拍摄的感觉"
+      },
+      {
+        "t": "tracking shot",
+        "z": "跟随",
+        "d": "相机跟着移动的人或物体走，始终让主体保持在画面中"
+      },
+      {
+        "t": "static locked shot",
+        "z": "固定镜头",
+        "d": "相机固定在一个位置不动，镜头也不转，像架在三脚架上拍固定画面"
+      },
+      {
+        "t": "subject enters frame",
+        "z": "登场",
+        "d": "让人物或物体从画面外慢慢进入画面中，像演员登场一样"
+      },
+      {
+        "t": "free camera movement",
+        "z": "自由",
+        "d": "相机可以随意移动，没有固定方向和轨迹，灵活拍摄想要的画面"
+      },
+      {
+        "t": "orbit left around subject",
+        "z": "左环移",
+        "d": "相机围绕着主体向左转圈拍摄，能看到主体的各个侧面"
+      },
+      {
+        "t": "orbit right around subject",
+        "z": "右环移",
+        "d": "相机围绕着主体向右转圈拍摄，能看到主体的各个侧面"
+      },
+      {
+        "t": "camera rising to low angle",
+        "z": "上扬",
+        "d": "相机镜头向上抬起，画面从平视慢慢变成仰视，突出高大感"
+      },
+      {
+        "t": "tracking left",
+        "z": "左跟移",
+        "d": "相机跟着主体一起向左移动，始终让主体保持在画面里"
+      },
+      {
+        "t": "tracking right",
+        "z": "右跟移",
+        "d": "相机跟着主体一起向右移动，始终让主体保持在画面里"
+      },
+      {
+        "t": "slow tilt down",
+        "z": "降摇",
+        "d": "相机位置不动，镜头向下转动，从高处慢慢拍到低处，像低头看东西"
+      },
+      {
+        "t": "rack focus to left",
+        "z": "左聚焦",
+        "d": "画面焦点从右边慢慢移到左边，让左边的物体变得清晰"
+      },
+      {
+        "t": "rack focus to right",
+        "z": "右聚焦",
+        "d": "画面焦点从左边慢慢移到右边，让右边的物体变得清晰"
+      },
+      {
+        "t": "establishing shot",
+        "z": "场景镜头",
+        "d": "专门拍整个场景的镜头，能让人看清周围环境和整体布局"
+      },
+      {
+        "t": "1:1 aspect ratio",
+        "z": "1:1",
+        "d": "正方形构图，常用于Instagram、头像、产品展示等"
+      },
+      {
+        "t": "3:2 aspect ratio",
+        "z": "3:2",
+        "d": "传统35mm胶片比例，适合人像和风景摄影，打印友好"
+      },
+      {
+        "t": "4:3 aspect ratio",
+        "z": "4:3",
+        "d": "传统电视和显示器比例，适合传统摄影和部分视频内容"
+      },
+      {
+        "t": "16:9 widescreen aspect ratio",
+        "z": "16:9",
+        "d": "高清电视、视频标准比例，主流电脑显示器比例，适合电影、电视和在线视频"
+      },
+      {
+        "t": "16:10 aspect ratio",
+        "z": "16:10",
+        "d": "笔记本电脑和宽屏显示器常用比例，适合网页设计和办公应用"
+      },
+      {
+        "t": "2.35:1 cinemascope aspect ratio",
+        "z": "2.35:1",
+        "d": "影院级宽屏比例，电影感强烈，适合史诗场景和电影制作"
+      },
+      {
+        "t": "21:9 ultrawide aspect ratio",
+        "z": "21:9",
+        "d": "超宽屏显示器比例，沉浸感强，适合游戏和创意工作"
+      },
+      {
+        "t": "9:16 vertical aspect ratio",
+        "z": "9:16",
+        "d": "手机竖屏视频标准，适合抖音/快手、TikTok、Instagram Reels、短视频平台"
+      },
+      {
+        "t": "2:3 portrait aspect ratio",
+        "z": "2:3",
+        "d": "竖屏照片比例，适合手机壁纸、社交媒体封面和肖像摄影"
+      },
+      {
+        "t": "4:5 portrait aspect ratio",
+        "z": "4:5",
+        "d": "Instagram推荐竖屏比例，适合人像和产品展示，在手机上显示效果好"
+      },
+      {
+        "t": "5:4 aspect ratio",
+        "z": "5:4",
+        "d": "传统方形显示器比例，适合文档处理和传统应用"
+      },
+      {
+        "t": "3:4 portrait aspect ratio",
+        "z": "3:4",
+        "d": "传统竖屏照片比例，适合杂志封面和打印照片"
+      },
+      {
+        "t": "rule of thirds composition",
+        "z": "三分法构图",
+        "d": "两横两竖线分画面为九宫格，主体放交叉点或分割线以突出平衡。"
+      },
+      {
+        "t": "symmetrical composition",
+        "z": "对称构图",
+        "d": "画面元素左右或上下对称，呈现稳定感和秩序感"
+      },
+      {
+        "t": "leading lines composition",
+        "z": "引导线构图",
+        "d": "利用线条引导观众视线到主体，增强画面深度"
+      },
+      {
+        "t": "centered composition",
+        "z": "中心构图",
+        "d": "主体位于画面中心，强调主体，适合肖像和产品拍摄"
+      },
+      {
+        "t": "framed composition",
+        "z": "框架构图",
+        "d": "通过前景元素框架突出主体，增强画面层次感和深度"
+      },
+      {
+        "t": "triangular composition",
+        "z": "三角形构图",
+        "d": "利用画面中的三角形结构创造稳定感，适合表现稳固和平衡"
+      },
+      {
+        "t": "contrast composition",
+        "z": "对比构图",
+        "d": "主体与背景形成对比，突出主体，增强视觉冲击力"
+      },
+      {
+        "t": "repeating pattern composition",
+        "z": "重复构图",
+        "d": "利用重复元素创造节奏感，增强画面的统一性和秩序感"
+      },
+      {
+        "t": "negative space composition",
+        "z": "留白构图",
+        "d": "将主体放在画面边缘，营造留白意境，增强想象空间"
+      },
+      {
+        "t": "diagonal composition",
+        "z": "对角线构图",
+        "d": "利用对角线形成动态感，增强画面的活力和引导性"
+      },
+      {
+        "t": "high angle view",
+        "z": "俯视角",
+        "d": "从上向下拍摄，突出轮廓和层次，适合表现渺小感"
+      },
+      {
+        "t": "low angle view",
+        "z": "仰视角",
+        "d": "从下向上拍摄，增强高大感和威严感"
+      },
+      {
+        "t": "eye level shot",
+        "z": "平视角",
+        "d": "与主体平行，呈现自然真实状态，适合大多数场景"
+      },
+      {
+        "t": "side view",
+        "z": "侧视角",
+        "d": "与主体侧面平行，突出形状和轮廓"
+      },
+      {
+        "t": "backlit silhouette angle",
+        "z": "逆光角度",
+        "d": "背对光源拍摄，产生剪影效果，突出轮廓和氛围感"
+      },
+      {
+        "t": "vanishing point perspective",
+        "z": "透视角度",
+        "d": "通过透视线突出空间感和深度，增强画面的立体感"
+      },
+      {
+        "t": "wide-angle view",
+        "z": "广角视角",
+        "d": "广角镜头拍摄，展现广阔场景，增强空间感和视觉冲击力"
+      },
+      {
+        "t": "telephoto view",
+        "z": "长焦视角",
+        "d": "长焦镜头拍摄，拉近远处主体，压缩空间感，突出细节"
+      },
+      {
+        "t": "long shot",
+        "z": "全景",
+        "d": "展示主体全貌和周围环境，适合建立场景"
+      },
+      {
+        "t": "medium shot",
+        "z": "中景",
+        "d": "展示主体大部分，兼顾细节和环境，适合对话场景"
+      },
+      {
+        "t": "close-up shot",
+        "z": "特写",
+        "d": "聚焦主体局部细节，强调情感或重要元素"
+      },
+      {
+        "t": "extreme long shot",
+        "z": "远景",
+        "d": "展示广阔场景和环境，适合表现规模和气势"
+      },
+      {
+        "t": "medium close-up",
+        "z": "近景",
+        "d": "介于中景和特写之间，突出主体，适合表现人物表情和上半身动作"
+      },
+      {
+        "t": "extreme close-up",
+        "z": "大特写",
+        "d": "非常近的特写，展示细微细节，如眼睛、嘴唇等，强调情感或重要元素"
+      },
+      {
+        "t": "scenery shot",
+        "z": "空镜",
+        "d": "无人物的风景或建筑镜头，用于氛围营造或场景过渡"
+      },
+      {
+        "t": "shallow depth of field",
+        "z": "浅景深",
+        "d": "模糊背景，突出主体，适合人像和产品拍摄"
+      },
+      {
+        "t": "motion blur",
+        "z": "运动模糊",
+        "d": "画面呈现电影般的动态模糊，增强速度感"
+      },
+      {
+        "t": "soft focus",
+        "z": "柔焦",
+        "d": "画面边缘失焦，模拟梦幻效果，适合浪漫场景"
+      },
+      {
+        "t": "perfect composition",
+        "z": "完美构图"
+      },
+      {
+        "t": "long exposure",
+        "z": "长曝光"
+      },
+      {
+        "t": "double exposure",
+        "z": "双重曝光"
+      },
+      {
+        "t": "panning shot",
+        "z": "追焦"
+      },
+      {
+        "t": "slow shutter",
+        "z": "慢门"
+      },
+      {
+        "t": "light painting",
+        "z": "光绘"
+      },
+      {
+        "t": "infrared photography",
+        "z": "红外摄影"
+      },
+      {
+        "t": "tilt-shift",
+        "z": "移轴"
+      },
+      {
+        "t": "polarizing filter",
+        "z": "偏振镜"
+      },
+      {
+        "t": "nd filter",
+        "z": "ND减光镜"
+      },
+      {
+        "t": "black mist filter",
+        "z": "黑柔滤镜"
+      },
+      {
+        "t": "flash",
+        "z": "闪光灯"
+      },
+      {
+        "t": "softbox",
+        "z": "柔光箱"
+      },
+      {
+        "t": "reflector",
+        "z": "反光板"
+      },
+      {
+        "t": "light leak",
+        "z": "漏光"
+      },
+      {
+        "t": "high-speed photography",
+        "z": "高速摄影"
+      },
+      {
+        "t": "macro shot",
+        "z": "微距特写"
+      },
+      {
+        "t": "front view",
+        "z": "正面视角"
+      },
+      {
+        "t": "three-quarter view",
+        "z": "四分之三侧面"
+      },
+      {
+        "t": "35mm lens",
+        "z": "35mm人文广角"
+      },
+      {
+        "t": "50mm lens",
+        "z": "50mm标准定焦"
+      },
+      {
+        "t": "85mm lens",
+        "z": "85mm人像神镜"
+      },
+      {
+        "t": "24mm wide angle",
+        "z": "24mm广角冲击"
+      },
+      {
+        "t": "135mm telephoto",
+        "z": "135mm长焦空气切割"
+      },
+      {
+        "t": "f/1.4",
+        "z": "F1.4大光圈浅景深"
+      },
+      {
+        "t": "f/1.8",
+        "z": "F1.8大光圈虚化"
+      },
+      {
+        "t": "f/2.8",
+        "z": "F2.8人像光圈"
+      },
+      {
+        "t": "creamy bokeh",
+        "z": "奶油般焦外虚化"
+      },
+      {
+        "t": "candid shot",
+        "z": "自然抓拍瞬间"
+      },
+      {
+        "t": "editorial photography",
+        "z": "时尚杂志大片"
+      },
+      {
+        "t": "fashion photography",
+        "z": "时装摄影"
+      },
+      {
+        "t": "street photography",
+        "z": "街头纪实摄影"
+      },
+      {
+        "t": "environmental portrait",
+        "z": "环境人像"
+      },
+      {
+        "t": "full-body portrait",
+        "z": "全身人像"
+      },
+      {
+        "t": "headshot",
+        "z": "头像大头照"
+      },
+      {
+        "t": "over-the-shoulder shot",
+        "z": "过肩镜头"
+      },
+      {
+        "t": "pov",
+        "z": "第一人称视角",
+        "z2": "主观视角"
+      },
+      {
+        "t": "bird's-eye view",
+        "z": "上帝鸟瞰俯拍"
+      },
+      {
+        "t": "worm's-eye view",
+        "z": "贴地仰拍视角"
+      },
+      {
+        "t": "isometric view",
+        "z": "等距轴测视角"
+      },
+      {
+        "t": "aerial view",
+        "z": "高空航拍"
+      },
+      {
+        "t": "drone shot",
+        "z": "无人机航拍"
+      },
+      {
+        "t": "mirror shot",
+        "z": "镜面反射构图"
+      },
+      {
+        "t": "through window",
+        "z": "隔窗偷窥构图"
+      },
+      {
+        "t": "silhouette shot",
+        "z": "剪影大片"
+      },
+      {
+        "t": "golden ratio composition",
+        "z": "黄金比例构图"
+      },
+      {
+        "t": "anamorphic lens flare",
+        "z": "变形宽银幕拉丝眩光"
+      },
+      {
+        "t": "35mm film",
+        "z": "35mm胶片摄影"
+      },
+      {
+        "t": "medium format",
+        "z": "中画幅质感"
+      },
+      {
+        "t": "leica look",
+        "z": "徕卡德味色彩与暗部"
+      },
+      {
+        "t": "foreshortening",
+        "z": "强透视近大远小"
+      },
+      {
+        "t": "split screen",
+        "z": "分屏/多格构图"
+      },
+      {
+        "t": "long lens compression",
+        "z": "长焦压缩感"
+      },
+      {
+        "t": "underwater photography",
+        "z": "水下摄影"
+      },
+      {
+        "t": "thermal camera",
+        "z": "热成像画面"
+      },
+      {
+        "t": "night vision",
+        "z": "夜视画面"
+      },
+      {
+        "t": "cctv footage",
+        "z": "监控画面"
+      },
+      {
+        "t": "webcam shot",
+        "z": "网络摄像头画面"
+      },
+      {
+        "t": "phone camera",
+        "z": "手机拍摄"
+      },
+      {
+        "t": "disposable camera",
+        "z": "一次性相机"
+      },
+      {
+        "t": "large format",
+        "z": "大画幅"
+      },
+      {
+        "t": "8mm film",
+        "z": "8毫米胶片"
+      },
+      {
+        "t": "bust shot",
+        "z": "半身胸像构图"
+      },
+      {
+        "t": "handheld selfie",
+        "z": "手持自拍"
+      },
+      {
+        "t": "silhouette through sheer fabric",
+        "z": "薄纱透出的轮廓"
+      },
+      {
+        "t": "body partially concealed by drapery",
+        "z": "垂布遮住部分身体"
+      },
+      {
+        "t": "reclining figure under a sheer veil",
+        "z": "薄纱下的斜卧身影"
+      },
+      {
+        "t": "strategic shadow coverage",
+        "z": "阴影遮挡"
+      },
+      {
+        "t": "kiss reflected in a vanity mirror",
+        "z": "梳妆镜中映出亲吻"
+      },
+      {
+        "t": "vintage pin-up editorial",
+        "z": "复古海报女郎写真"
+      },
+      {
+        "t": "lingerie editorial",
+        "z": "内衣时尚大片"
+      },
+      {
+        "t": "latex fashion editorial",
+        "z": "乳胶服饰时尚大片"
+      },
+      {
+        "t": "monochrome boudoir contact sheet",
+        "z": "黑白闺房写真接触印样"
+      },
+      {
+        "t": "boudoir portrait in a vanity mirror",
+        "z": "梳妆镜中的闺房写真"
+      },
+      {
+        "t": "lace shadows on a boudoir portrait",
+        "z": "蕾丝投影闺房人像"
+      },
+      {
+        "t": "anonymous silhouette behind a folding screen",
+        "z": "折屏后的匿名剪影"
+      },
+      {
+        "t": "blurred reflection in steamy glass",
+        "z": "雾气玻璃上的模糊倒影"
+      },
+      {
+        "t": "soft-focus retro lingerie campaign",
+        "z": "柔焦复古内衣广告"
+      },
+      {
+        "t": "frosted glass silhouette",
+        "z": "磨砂玻璃后剪影"
+      },
+      {
+        "t": "solo adult boudoir portrait",
+        "z": "成年单人闺房写真"
+      },
+      {
+        "t": "adult couple boudoir photography",
+        "z": "成年伴侣闺房摄影"
+      }
+    ]
+  }
+}

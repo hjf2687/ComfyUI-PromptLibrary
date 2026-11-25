@@ -1,0 +1,1202 @@
+{
+  "_note": "基准文件：分类栏顺序以本文件的 order 为准",
+  "order": [
+    "画质",
+    "人物",
+    "身体",
+    "表情",
+    "动作",
+    "服饰",
+    "材质",
+    "道具",
+    "食物",
+    "动物",
+    "场景",
+    "天气",
+    "时间",
+    "特效",
+    "光照",
+    "色调",
+    "摄影",
+    "画风",
+    "氛围",
+    "题材",
+    "NSFW·身体",
+    "NSFW·行为",
+    "NSFW·特殊",
+    "人物名",
+    "写实负面",
+    "负面"
+  ],
+  "tags": {
+    "画质": [
+      {
+        "t": "masterpiece",
+        "z": "大师之作"
+      },
+      {
+        "t": "best quality",
+        "z": "最佳质量"
+      },
+      {
+        "t": "absurdres",
+        "z": "超高分辨率"
+      },
+      {
+        "t": "highres",
+        "z": "高分辨率"
+      },
+      {
+        "t": "very aesthetic",
+        "z": "极具美感"
+      },
+      {
+        "t": "newest",
+        "z": "最新画作"
+      },
+      {
+        "t": "ultra-detailed",
+        "z": "超高细节"
+      },
+      {
+        "t": "intricate details",
+        "z": "精密细节"
+      },
+      {
+        "t": "official art",
+        "z": "官方画作"
+      },
+      {
+        "t": "anime screenshot",
+        "z": "动画截图"
+      },
+      {
+        "t": "key visual",
+        "z": "关键视觉图"
+      },
+      {
+        "t": "game cg",
+        "z": "游戏CG"
+      },
+      {
+        "t": "poster",
+        "z": "海报"
+      },
+      {
+        "t": "8k wallpaper",
+        "z": "8K壁纸"
+      },
+      {
+        "t": "detailed background",
+        "z": "精细背景"
+      },
+      {
+        "t": "beautiful detailed eyes",
+        "z": "精致眼睛"
+      },
+      {
+        "t": "beautiful detailed hair",
+        "z": "精致头发"
+      },
+      {
+        "t": "ultra high quality",
+        "z": "极高画质",
+        "d": "超高清晰度，细节丰富，适用于专业影视制作"
+      },
+      {
+        "t": "extremely detailed",
+        "z": "极致细节",
+        "d": "画面细节极致呈现，适合微距和特写拍摄"
+      },
+      {
+        "t": "2k resolution",
+        "z": "2K超清",
+        "d": "2K分辨率，清晰细腻，适合大多数显示设备"
+      },
+      {
+        "t": "4k resolution",
+        "z": "4K超清",
+        "d": "4K分辨率，影院级清晰度，细节表现力强"
+      },
+      {
+        "t": "8k resolution",
+        "z": "8K超清",
+        "d": "8K超高清，细节分毫毕现，适合专业影视制作"
+      },
+      {
+        "t": "high quality",
+        "z": "高质量",
+        "d": "高于平均水平的画面质量，适合日常专业拍摄"
+      },
+      {
+        "t": "amazing quality",
+        "z": "惊艳画质"
+      },
+      {
+        "t": "incredibly absurdres",
+        "z": "超绝分辨率"
+      },
+      {
+        "t": "hyper-detailed",
+        "z": "超精细细节"
+      },
+      {
+        "t": "crisp focus",
+        "z": "清晰对焦"
+      },
+      {
+        "t": "sharp focus",
+        "z": "锐利对焦"
+      },
+      {
+        "t": "detailed face",
+        "z": "精致面部",
+        "z2": "五官刻画"
+      },
+      {
+        "t": "detailed skin",
+        "z": "细腻肤质",
+        "z2": "皮肤细节"
+      },
+      {
+        "t": "skin texture",
+        "z": "真实皮肤纹理"
+      },
+      {
+        "t": "detailed clothes",
+        "z": "精致服饰细节"
+      },
+      {
+        "t": "intricate",
+        "z": "繁复精细"
+      },
+      {
+        "t": "finely detailed",
+        "z": "精雕细琢"
+      },
+      {
+        "t": "rich details",
+        "z": "丰富细节"
+      },
+      {
+        "t": "studio quality",
+        "z": "工作室级品质"
+      },
+      {
+        "t": "award winning",
+        "z": "获奖级作品"
+      },
+      {
+        "t": "ray tracing",
+        "z": "光线追踪",
+        "d": "真实反射、折射与全局光影计算效果"
+      },
+      {
+        "t": "global illumination",
+        "z": "全局光照",
+        "d": "环境漫反射与柔和间接地光影过渡"
+      },
+      {
+        "t": "subsurface scattering",
+        "z": "次表面散射",
+        "d": "皮肤、玉石、花瓣等半透明材质的透光质感"
+      },
+      {
+        "t": "clean lineart",
+        "z": "干净线稿"
+      },
+      {
+        "t": "crisp lines",
+        "z": "利落线条"
+      },
+      {
+        "t": "smooth gradients",
+        "z": "顺滑渐变"
+      },
+      {
+        "t": "no text",
+        "z": "无多余文字"
+      },
+      {
+        "t": "cover art",
+        "z": "封面插画"
+      },
+      {
+        "t": "splash art",
+        "z": "立绘原画",
+        "z2": "游戏宣传图"
+      },
+      {
+        "t": "promotional art",
+        "z": "宣传美术图"
+      },
+      {
+        "t": "album cover",
+        "z": "专辑封面"
+      },
+      {
+        "t": "magazine cover",
+        "z": "杂志封面"
+      },
+      {
+        "t": "photorealistic skin",
+        "z": "写实级肤质"
+      },
+      {
+        "t": "depth and texture",
+        "z": "层次与质感"
+      },
+      {
+        "t": "professional",
+        "z": "专业水准"
+      }
+    ],
+    "人物": [
+      {
+        "t": "1girl",
+        "z": "一个女孩"
+      },
+      {
+        "t": "2girls",
+        "z": "两个女孩"
+      },
+      {
+        "t": "1boy",
+        "z": "一个男孩"
+      },
+      {
+        "t": "solo",
+        "z": "单人"
+      },
+      {
+        "t": "multiple girls",
+        "z": "多个女孩"
+      },
+      {
+        "t": "multiple boys",
+        "z": "多个男孩"
+      },
+      {
+        "t": "loli",
+        "z": "萝莉"
+      },
+      {
+        "t": "mature female",
+        "z": "成熟女性"
+      },
+      {
+        "t": "elf",
+        "z": "精灵"
+      },
+      {
+        "t": "animal ears",
+        "z": "兽耳"
+      },
+      {
+        "t": "cat ears",
+        "z": "猫耳"
+      },
+      {
+        "t": "fox ears",
+        "z": "狐耳"
+      },
+      {
+        "t": "cat tail",
+        "z": "猫尾"
+      },
+      {
+        "t": "fox girl",
+        "z": "狐娘"
+      },
+      {
+        "t": "catgirl",
+        "z": "猫娘"
+      },
+      {
+        "t": "angel",
+        "z": "天使"
+      },
+      {
+        "t": "angel wings",
+        "z": "天使翅膀"
+      },
+      {
+        "t": "demon girl",
+        "z": "恶魔少女"
+      },
+      {
+        "t": "demon horns",
+        "z": "恶魔角"
+      },
+      {
+        "t": "mermaid",
+        "z": "人鱼"
+      },
+      {
+        "t": "vampire",
+        "z": "吸血鬼"
+      },
+      {
+        "t": "witch",
+        "z": "女巫"
+      },
+      {
+        "t": "mecha musume",
+        "z": "机娘"
+      },
+      {
+        "t": "doll",
+        "z": "人偶"
+      },
+      {
+        "t": "2boys",
+        "z": "两个男孩"
+      },
+      {
+        "t": "crowd",
+        "z": "人群"
+      },
+      {
+        "t": "oni",
+        "z": "鬼族"
+      },
+      {
+        "t": "tengu",
+        "z": "天狗"
+      },
+      {
+        "t": "succubus",
+        "z": "魅魔"
+      },
+      {
+        "t": "incubus",
+        "z": "梦魔"
+      },
+      {
+        "t": "lamia",
+        "z": "蛇女"
+      },
+      {
+        "t": "harpy",
+        "z": "鹰身女妖"
+      },
+      {
+        "t": "centaur",
+        "z": "半人马"
+      },
+      {
+        "t": "merman",
+        "z": "男美人鱼"
+      },
+      {
+        "t": "fairy",
+        "z": "小仙子"
+      },
+      {
+        "t": "dark elf",
+        "z": "黑暗精灵"
+      },
+      {
+        "t": "half-elf",
+        "z": "半精灵"
+      },
+      {
+        "t": "beastman",
+        "z": "兽人"
+      },
+      {
+        "t": "android",
+        "z": "仿生人"
+      },
+      {
+        "t": "cyborg",
+        "z": "改造人"
+      },
+      {
+        "t": "robot",
+        "z": "机器人"
+      },
+      {
+        "t": "alien",
+        "z": "外星人"
+      },
+      {
+        "t": "ghost",
+        "z": "幽灵"
+      },
+      {
+        "t": "zombie",
+        "z": "僵尸"
+      },
+      {
+        "t": "skeleton",
+        "z": "骷髅"
+      },
+      {
+        "t": "werewolf",
+        "z": "狼人"
+      },
+      {
+        "t": "mummy",
+        "z": "木乃伊"
+      },
+      {
+        "t": "valkyrie",
+        "z": "女武神"
+      },
+      {
+        "t": "kitsune",
+        "z": "狐仙"
+      },
+      {
+        "t": "fairy wings",
+        "z": "仙子翅膀"
+      },
+      {
+        "t": "butterfly wings",
+        "z": "蝴蝶翅膀"
+      },
+      {
+        "t": "dragon wings",
+        "z": "龙翼"
+      },
+      {
+        "t": "bat wings",
+        "z": "蝙蝠翅膀"
+      },
+      {
+        "t": "crossdressing",
+        "z": "反串装扮"
+      },
+      {
+        "t": "femboy",
+        "z": "伪娘"
+      },
+      {
+        "t": "tomboy",
+        "z": "假小子"
+      },
+      {
+        "t": "androgynous",
+        "z": "中性美"
+      },
+      {
+        "t": "bishounen",
+        "z": "美少年"
+      },
+      {
+        "t": "bishoujo",
+        "z": "美少女"
+      },
+      {
+        "t": "student",
+        "z": "学生"
+      },
+      {
+        "t": "schoolgirl",
+        "z": "女学生"
+      },
+      {
+        "t": "schoolboy",
+        "z": "男学生"
+      },
+      {
+        "t": "teacher",
+        "z": "教师"
+      },
+      {
+        "t": "doctor",
+        "z": "医生"
+      },
+      {
+        "t": "scientist",
+        "z": "科学家"
+      },
+      {
+        "t": "engineer",
+        "z": "工程师"
+      },
+      {
+        "t": "astronaut",
+        "z": "宇航员"
+      },
+      {
+        "t": "pilot",
+        "z": "飞行员"
+      },
+      {
+        "t": "police officer",
+        "z": "警察"
+      },
+      {
+        "t": "detective",
+        "z": "侦探"
+      },
+      {
+        "t": "firefighter",
+        "z": "消防员"
+      },
+      {
+        "t": "soldier",
+        "z": "军人"
+      },
+      {
+        "t": "knight",
+        "z": "骑士"
+      },
+      {
+        "t": "samurai",
+        "z": "武士"
+      },
+      {
+        "t": "ninja",
+        "z": "忍者"
+      },
+      {
+        "t": "kunoichi",
+        "z": "女忍者"
+      },
+      {
+        "t": "pirate",
+        "z": "海盗"
+      },
+      {
+        "t": "cowboy",
+        "z": "牛仔"
+      },
+      {
+        "t": "cowgirl",
+        "z": "女牛仔"
+      },
+      {
+        "t": "wizard",
+        "z": "巫师"
+      },
+      {
+        "t": "alchemist",
+        "z": "炼金术士"
+      },
+      {
+        "t": "necromancer",
+        "z": "死灵法师"
+      },
+      {
+        "t": "priestess",
+        "z": "女祭司"
+      },
+      {
+        "t": "nun",
+        "z": "修女"
+      },
+      {
+        "t": "monk",
+        "z": "僧侣"
+      },
+      {
+        "t": "priest",
+        "z": "牧师"
+      },
+      {
+        "t": "fortune teller",
+        "z": "占卜师"
+      },
+      {
+        "t": "geisha",
+        "z": "艺伎"
+      },
+      {
+        "t": "idol",
+        "z": "偶像"
+      },
+      {
+        "t": "singer",
+        "z": "歌手"
+      },
+      {
+        "t": "dancer",
+        "z": "舞者"
+      },
+      {
+        "t": "musician",
+        "z": "音乐家"
+      },
+      {
+        "t": "barista",
+        "z": "咖啡师"
+      },
+      {
+        "t": "chef",
+        "z": "厨师"
+      },
+      {
+        "t": "waitress",
+        "z": "女服务生"
+      },
+      {
+        "t": "flight attendant",
+        "z": "空乘"
+      },
+      {
+        "t": "butler",
+        "z": "管家"
+      },
+      {
+        "t": "secretary",
+        "z": "秘书"
+      },
+      {
+        "t": "reporter",
+        "z": "记者"
+      },
+      {
+        "t": "photographer",
+        "z": "摄影师"
+      },
+      {
+        "t": "painter",
+        "z": "画家"
+      },
+      {
+        "t": "gamer",
+        "z": "游戏玩家"
+      },
+      {
+        "t": "streamer",
+        "z": "主播"
+      },
+      {
+        "t": "vtuber",
+        "z": "虚拟主播"
+      },
+      {
+        "t": "athlete",
+        "z": "运动员"
+      },
+      {
+        "t": "cheerleader",
+        "z": "啦啦队员"
+      },
+      {
+        "t": "model",
+        "z": "模特"
+      },
+      {
+        "t": "actress",
+        "z": "女演员"
+      },
+      {
+        "t": "princess",
+        "z": "公主"
+      },
+      {
+        "t": "prince",
+        "z": "王子"
+      },
+      {
+        "t": "queen",
+        "z": "女王"
+      },
+      {
+        "t": "goddess",
+        "z": "女神"
+      },
+      {
+        "t": "noble",
+        "z": "贵族"
+      },
+      {
+        "t": "heiress",
+        "z": "千金小姐"
+      },
+      {
+        "t": "bride",
+        "z": "新娘"
+      },
+      {
+        "t": "groom",
+        "z": "新郎"
+      },
+      {
+        "t": "adventurer",
+        "z": "冒险者"
+      },
+      {
+        "t": "hero",
+        "z": "英雄"
+      },
+      {
+        "t": "villain",
+        "z": "反派"
+      },
+      {
+        "t": "assassin",
+        "z": "刺客"
+      },
+      {
+        "t": "mercenary",
+        "z": "佣兵"
+      },
+      {
+        "t": "spy",
+        "z": "间谍"
+      },
+      {
+        "t": "hacker",
+        "z": "黑客"
+      },
+      {
+        "t": "magical girl",
+        "z": "魔法少女"
+      },
+      {
+        "t": "baby",
+        "z": "婴儿"
+      },
+      {
+        "t": "toddler",
+        "z": "幼儿"
+      },
+      {
+        "t": "child",
+        "z": "儿童"
+      },
+      {
+        "t": "teenager",
+        "z": "少年"
+      },
+      {
+        "t": "young adult",
+        "z": "青年"
+      },
+      {
+        "t": "20 years old",
+        "z": "二十岁"
+      },
+      {
+        "t": "30 years old",
+        "z": "三十岁"
+      },
+      {
+        "t": "40 years old",
+        "z": "四十岁"
+      },
+      {
+        "t": "middle-aged",
+        "z": "中年"
+      },
+      {
+        "t": "senior",
+        "z": "中老年"
+      },
+      {
+        "t": "elderly",
+        "z": "老年"
+      },
+      {
+        "t": "asian",
+        "z": "亚洲面孔"
+      },
+      {
+        "t": "east asian",
+        "z": "东亚面孔"
+      },
+      {
+        "t": "caucasian",
+        "z": "白人面孔"
+      },
+      {
+        "t": "black",
+        "z": "黑人面孔"
+      },
+      {
+        "t": "latina",
+        "z": "拉丁裔面孔"
+      },
+      {
+        "t": "middle eastern",
+        "z": "中东面孔"
+      },
+      {
+        "t": "south asian",
+        "z": "南亚面孔"
+      },
+      {
+        "t": "mixed race",
+        "z": "混血面孔"
+      },
+      {
+        "t": "native american",
+        "z": "原住民面孔"
+      },
+      {
+        "t": "male focus",
+        "z": "男性焦点"
+      },
+      {
+        "t": "female focus",
+        "z": "女性焦点"
+      },
+      {
+        "t": "1girl 1boy",
+        "z": "一女一男",
+        "z2": "情侣组合"
+      },
+      {
+        "t": "couple",
+        "z": "情侣",
+        "z2": "伴侣"
+      },
+      {
+        "t": "lovers",
+        "z": "恋人"
+      },
+      {
+        "t": "siblings",
+        "z": "兄弟姐妹"
+      },
+      {
+        "t": "sisters",
+        "z": "姐妹"
+      },
+      {
+        "t": "brothers",
+        "z": "兄弟"
+      },
+      {
+        "t": "twins",
+        "z": "双胞胎"
+      },
+      {
+        "t": "friends",
+        "z": "好友"
+      },
+      {
+        "t": "trio",
+        "z": "三人组"
+      },
+      {
+        "t": "2girls 1boy",
+        "z": "两女一男"
+      },
+      {
+        "t": "group",
+        "z": "多人小队"
+      },
+      {
+        "t": "mother and daughter",
+        "z": "母女"
+      },
+      {
+        "t": "father and daughter",
+        "z": "父女"
+      },
+      {
+        "t": "dragon girl",
+        "z": "龙娘"
+      },
+      {
+        "t": "wolf girl",
+        "z": "狼娘"
+      },
+      {
+        "t": "bunny girl",
+        "z": "兔女郎角色",
+        "z2": "兔耳娘"
+      },
+      {
+        "t": "dog girl",
+        "z": "犬娘"
+      },
+      {
+        "t": "sheep girl",
+        "z": "羊娘"
+      },
+      {
+        "t": "snake girl",
+        "z": "蛇娘"
+      },
+      {
+        "t": "spider girl",
+        "z": "蜘蛛娘"
+      },
+      {
+        "t": "slime girl",
+        "z": "史莱姆娘"
+      },
+      {
+        "t": "oni girl",
+        "z": "鬼娘"
+      },
+      {
+        "t": "wolf ears",
+        "z": "狼耳"
+      },
+      {
+        "t": "dog ears",
+        "z": "狗耳"
+      },
+      {
+        "t": "rabbit tail",
+        "z": "兔尾"
+      },
+      {
+        "t": "fox tail",
+        "z": "狐尾"
+      },
+      {
+        "t": "wolf tail",
+        "z": "狼尾"
+      },
+      {
+        "t": "demon tail",
+        "z": "恶魔尾"
+      },
+      {
+        "t": "dragon tail",
+        "z": "龙尾"
+      },
+      {
+        "t": "dragon horns",
+        "z": "龙角"
+      },
+      {
+        "t": "oni horns",
+        "z": "鬼角"
+      },
+      {
+        "t": "spirit",
+        "z": "精怪灵体",
+        "z2": "灵"
+      },
+      {
+        "t": "elemental",
+        "z": "元素精灵"
+      },
+      {
+        "t": "shrine maiden",
+        "z": "巫女"
+      },
+      {
+        "t": "mage",
+        "z": "魔法师"
+      },
+      {
+        "t": "archmage",
+        "z": "大魔法师"
+      },
+      {
+        "t": "summoner",
+        "z": "召唤师"
+      },
+      {
+        "t": "paladin",
+        "z": "圣骑士"
+      },
+      {
+        "t": "ranger",
+        "z": "游侠"
+      },
+      {
+        "t": "bard",
+        "z": "吟游诗人"
+      },
+      {
+        "t": "blacksmith",
+        "z": "铁匠"
+      },
+      {
+        "t": "scholar",
+        "z": "学者"
+      },
+      {
+        "t": "librarian",
+        "z": "图书管理员"
+      },
+      {
+        "t": "bartender",
+        "z": "调酒师"
+      },
+      {
+        "t": "florist",
+        "z": "花艺师"
+      },
+      {
+        "t": "train conductor",
+        "z": "列车员"
+      },
+      {
+        "t": "racing driver",
+        "z": "赛车手"
+      },
+      {
+        "t": "diver",
+        "z": "潜水员"
+      },
+      {
+        "t": "explorer",
+        "z": "探险家"
+      },
+      {
+        "t": "royal guard",
+        "z": "皇家卫士"
+      },
+      {
+        "t": "empress",
+        "z": "女皇"
+      },
+      {
+        "t": "emperor",
+        "z": "皇帝"
+      },
+      {
+        "t": "pirate captain",
+        "z": "海盗船长"
+      },
+      {
+        "t": "magical boy",
+        "z": "魔法少年"
+      },
+      {
+        "t": "chibi",
+        "z": "Q版人物",
+        "z2": "二头身"
+      },
+      {
+        "t": "maid",
+        "z": "女仆"
+      },
+      {
+        "t": "king",
+        "z": "国王"
+      },
+      {
+        "t": "duke",
+        "z": "公爵"
+      },
+      {
+        "t": "servant",
+        "z": "仆人"
+      },
+      {
+        "t": "postman",
+        "z": "邮差"
+      },
+      {
+        "t": "paramedic",
+        "z": "急救员"
+      },
+      {
+        "t": "mechanic",
+        "z": "机械师"
+      },
+      {
+        "t": "sailor",
+        "z": "水手"
+      },
+      {
+        "t": "fisherman",
+        "z": "渔夫"
+      },
+      {
+        "t": "farmer",
+        "z": "农夫"
+      },
+      {
+        "t": "shopkeeper",
+        "z": "店主"
+      },
+      {
+        "t": "cashier",
+        "z": "收银员"
+      },
+      {
+        "t": "lawyer",
+        "z": "律师"
+      },
+      {
+        "t": "architect",
+        "z": "建筑师"
+      },
+      {
+        "t": "veterinarian",
+        "z": "兽医"
+      },
+      {
+        "t": "pharmacist",
+        "z": "药剂师"
+      },
+      {
+        "t": "dentist",
+        "z": "牙医"
+      },
+      {
+        "t": "surgeon",
+        "z": "外科医生"
+      },
+      {
+        "t": "editor",
+        "z": "编辑"
+      },
+      {
+        "t": "translator",
+        "z": "翻译"
+      },
+      {
+        "t": "programmer",
+        "z": "程序员"
+      },
+      {
+        "t": "esports player",
+        "z": "电竞选手"
+      },
+      {
+        "t": "nanny",
+        "z": "保姆"
+      },
+      {
+        "t": "referee",
+        "z": "裁判"
+      },
+      {
+        "t": "coach",
+        "z": "教练"
+      },
+      {
+        "t": "gladiator",
+        "z": "角斗士"
+      },
+      {
+        "t": "shogun",
+        "z": "将军"
+      },
+      {
+        "t": "bandit",
+        "z": "盗贼"
+      },
+      {
+        "t": "druid",
+        "z": "德鲁伊"
+      },
+      {
+        "t": "shaman",
+        "z": "萨满"
+      },
+      {
+        "t": "warlock",
+        "z": "术士"
+      },
+      {
+        "t": "gunslinger",
+        "z": "枪手"
+      },
+      {
+        "t": "superhero",
+        "z": "超级英雄"
+      },
+      {
+        "t": "vampire hunter",
+        "z": "吸血鬼猎人"
+      }
+    ]
+  }
+}

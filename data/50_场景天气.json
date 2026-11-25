@@ -1,0 +1,1368 @@
+{
+  "order": [
+    "画质",
+    "人物",
+    "身体",
+    "表情",
+    "动作",
+    "服饰",
+    "材质",
+    "道具",
+    "食物",
+    "动物",
+    "场景",
+    "天气",
+    "时间",
+    "特效",
+    "光照",
+    "色调",
+    "摄影",
+    "画风",
+    "氛围",
+    "题材",
+    "NSFW·身体",
+    "NSFW·行为",
+    "NSFW·特殊",
+    "写实负面",
+    "负面"
+  ],
+  "tags": {
+    "场景": [
+      {
+        "t": "outdoors",
+        "z": "户外"
+      },
+      {
+        "t": "indoors",
+        "z": "室内"
+      },
+      {
+        "t": "simple background",
+        "z": "简约背景"
+      },
+      {
+        "t": "white background",
+        "z": "白色背景"
+      },
+      {
+        "t": "beach",
+        "z": "海滩"
+      },
+      {
+        "t": "ocean",
+        "z": "大海"
+      },
+      {
+        "t": "forest",
+        "z": "森林"
+      },
+      {
+        "t": "mountain",
+        "z": "青山"
+      },
+      {
+        "t": "city",
+        "z": "城市"
+      },
+      {
+        "t": "city lights",
+        "z": "城市灯火"
+      },
+      {
+        "t": "street",
+        "z": "街头"
+      },
+      {
+        "t": "cherry blossoms",
+        "z": "樱花"
+      },
+      {
+        "t": "flower field",
+        "z": "花海"
+      },
+      {
+        "t": "roses",
+        "z": "玫瑰花"
+      },
+      {
+        "t": "sunflower",
+        "z": "向日葵"
+      },
+      {
+        "t": "classroom",
+        "z": "教室"
+      },
+      {
+        "t": "bedroom",
+        "z": "卧室"
+      },
+      {
+        "t": "living room",
+        "z": "客厅"
+      },
+      {
+        "t": "kitchen",
+        "z": "厨房"
+      },
+      {
+        "t": "cafe",
+        "z": "咖啡馆"
+      },
+      {
+        "t": "library",
+        "z": "图书馆"
+      },
+      {
+        "t": "convenience store",
+        "z": "便利店"
+      },
+      {
+        "t": "shrine",
+        "z": "神社"
+      },
+      {
+        "t": "amusement park",
+        "z": "游乐园"
+      },
+      {
+        "t": "ferris wheel",
+        "z": "摩天轮"
+      },
+      {
+        "t": "train interior",
+        "z": "电车内"
+      },
+      {
+        "t": "car interior",
+        "z": "车内"
+      },
+      {
+        "t": "rooftop",
+        "z": "天台"
+      },
+      {
+        "t": "stairs",
+        "z": "楼梯"
+      },
+      {
+        "t": "window",
+        "z": "窗边"
+      },
+      {
+        "t": "river",
+        "z": "河流"
+      },
+      {
+        "t": "lake",
+        "z": "湖畔"
+      },
+      {
+        "t": "waterfall",
+        "z": "瀑布"
+      },
+      {
+        "t": "hot spring",
+        "z": "温泉"
+      },
+      {
+        "t": "festival",
+        "z": "祭典"
+      },
+      {
+        "t": "fireworks",
+        "z": "烟花"
+      },
+      {
+        "t": "lantern",
+        "z": "灯笼"
+      },
+      {
+        "t": "reflection",
+        "z": "倒影"
+      },
+      {
+        "t": "school hallway",
+        "z": "校园走廊"
+      },
+      {
+        "t": "schoolyard",
+        "z": "校园"
+      },
+      {
+        "t": "gymnasium",
+        "z": "体育馆"
+      },
+      {
+        "t": "auditorium",
+        "z": "大礼堂"
+      },
+      {
+        "t": "swimming pool",
+        "z": "游泳池"
+      },
+      {
+        "t": "bathroom",
+        "z": "浴室"
+      },
+      {
+        "t": "balcony",
+        "z": "阳台"
+      },
+      {
+        "t": "garden",
+        "z": "庭院"
+      },
+      {
+        "t": "courtyard",
+        "z": "中庭"
+      },
+      {
+        "t": "park",
+        "z": "公园"
+      },
+      {
+        "t": "playground",
+        "z": "操场"
+      },
+      {
+        "t": "zoo",
+        "z": "动物园"
+      },
+      {
+        "t": "aquarium",
+        "z": "水族馆"
+      },
+      {
+        "t": "museum",
+        "z": "博物馆"
+      },
+      {
+        "t": "art gallery",
+        "z": "美术馆"
+      },
+      {
+        "t": "theater",
+        "z": "剧院"
+      },
+      {
+        "t": "cinema",
+        "z": "电影院"
+      },
+      {
+        "t": "concert",
+        "z": "演唱会"
+      },
+      {
+        "t": "concert hall",
+        "z": "音乐厅"
+      },
+      {
+        "t": "stadium",
+        "z": "体育场"
+      },
+      {
+        "t": "train station",
+        "z": "火车站"
+      },
+      {
+        "t": "airport",
+        "z": "机场"
+      },
+      {
+        "t": "airplane interior",
+        "z": "机舱内"
+      },
+      {
+        "t": "ship",
+        "z": "轮船"
+      },
+      {
+        "t": "boat",
+        "z": "小船"
+      },
+      {
+        "t": "harbor",
+        "z": "港湾"
+      },
+      {
+        "t": "lighthouse",
+        "z": "灯塔"
+      },
+      {
+        "t": "bridge",
+        "z": "桥梁"
+      },
+      {
+        "t": "tunnel",
+        "z": "隧道"
+      },
+      {
+        "t": "cave",
+        "z": "洞穴"
+      },
+      {
+        "t": "desert",
+        "z": "沙漠"
+      },
+      {
+        "t": "oasis",
+        "z": "绿洲"
+      },
+      {
+        "t": "jungle",
+        "z": "丛林"
+      },
+      {
+        "t": "plains",
+        "z": "平原"
+      },
+      {
+        "t": "meadow",
+        "z": "草地"
+      },
+      {
+        "t": "hills",
+        "z": "丘陵"
+      },
+      {
+        "t": "cliff",
+        "z": "悬崖"
+      },
+      {
+        "t": "canyon",
+        "z": "峡谷"
+      },
+      {
+        "t": "volcano",
+        "z": "火山"
+      },
+      {
+        "t": "glacier",
+        "z": "冰川"
+      },
+      {
+        "t": "snowfield",
+        "z": "雪原"
+      },
+      {
+        "t": "bamboo forest",
+        "z": "竹林"
+      },
+      {
+        "t": "rice field",
+        "z": "稻田"
+      },
+      {
+        "t": "vineyard",
+        "z": "葡萄园"
+      },
+      {
+        "t": "farm",
+        "z": "农场"
+      },
+      {
+        "t": "barn",
+        "z": "谷仓"
+      },
+      {
+        "t": "greenhouse",
+        "z": "温室"
+      },
+      {
+        "t": "castle",
+        "z": "城堡"
+      },
+      {
+        "t": "ruins",
+        "z": "遗迹"
+      },
+      {
+        "t": "temple",
+        "z": "寺庙"
+      },
+      {
+        "t": "pagoda",
+        "z": "宝塔"
+      },
+      {
+        "t": "church",
+        "z": "教堂"
+      },
+      {
+        "t": "cathedral",
+        "z": "大教堂"
+      },
+      {
+        "t": "laboratory",
+        "z": "实验室"
+      },
+      {
+        "t": "hospital room",
+        "z": "病房"
+      },
+      {
+        "t": "hair salon",
+        "z": "发廊"
+      },
+      {
+        "t": "spa",
+        "z": "水疗馆"
+      },
+      {
+        "t": "sauna",
+        "z": "桑拿房"
+      },
+      {
+        "t": "hotel room",
+        "z": "酒店客房"
+      },
+      {
+        "t": "ryokan",
+        "z": "日式旅馆"
+      },
+      {
+        "t": "cabin",
+        "z": "木屋"
+      },
+      {
+        "t": "treehouse",
+        "z": "树屋"
+      },
+      {
+        "t": "tent",
+        "z": "帐篷"
+      },
+      {
+        "t": "campsite",
+        "z": "露营地"
+      },
+      {
+        "t": "campfire",
+        "z": "篝火"
+      },
+      {
+        "t": "garage",
+        "z": "车库"
+      },
+      {
+        "t": "workshop",
+        "z": "工坊"
+      },
+      {
+        "t": "factory",
+        "z": "工厂"
+      },
+      {
+        "t": "warehouse",
+        "z": "仓库"
+      },
+      {
+        "t": "mine",
+        "z": "矿洞"
+      },
+      {
+        "t": "tower",
+        "z": "高塔"
+      },
+      {
+        "t": "skyscraper",
+        "z": "摩天楼"
+      },
+      {
+        "t": "elevator",
+        "z": "电梯"
+      },
+      {
+        "t": "hallway",
+        "z": "走廊"
+      },
+      {
+        "t": "attic",
+        "z": "阁楼"
+      },
+      {
+        "t": "basement",
+        "z": "地下室"
+      },
+      {
+        "t": "dining room",
+        "z": "餐厅房间"
+      },
+      {
+        "t": "study",
+        "z": "书房"
+      },
+      {
+        "t": "laundry room",
+        "z": "洗衣房"
+      },
+      {
+        "t": "alley",
+        "z": "小巷"
+      },
+      {
+        "t": "crosswalk",
+        "z": "斑马线"
+      },
+      {
+        "t": "shopping mall",
+        "z": "商场"
+      },
+      {
+        "t": "supermarket",
+        "z": "超市"
+      },
+      {
+        "t": "bookstore",
+        "z": "书店"
+      },
+      {
+        "t": "game arcade",
+        "z": "游戏厅"
+      },
+      {
+        "t": "internet cafe",
+        "z": "网吧"
+      },
+      {
+        "t": "karaoke",
+        "z": "KTV包间"
+      },
+      {
+        "t": "bar",
+        "z": "酒吧"
+      },
+      {
+        "t": "nightclub",
+        "z": "夜店"
+      },
+      {
+        "t": "restaurant",
+        "z": "餐馆"
+      },
+      {
+        "t": "fast food restaurant",
+        "z": "快餐店"
+      },
+      {
+        "t": "cafeteria",
+        "z": "食堂"
+      },
+      {
+        "t": "bakery",
+        "z": "面包店"
+      },
+      {
+        "t": "flower shop",
+        "z": "花店"
+      },
+      {
+        "t": "department store",
+        "z": "百货商场"
+      },
+      {
+        "t": "night market",
+        "z": "夜市"
+      },
+      {
+        "t": "food stall",
+        "z": "小吃摊"
+      },
+      {
+        "t": "carnival",
+        "z": "嘉年华"
+      },
+      {
+        "t": "circus",
+        "z": "马戏团"
+      },
+      {
+        "t": "hanami",
+        "z": "赏花"
+      },
+      {
+        "t": "wedding",
+        "z": "婚礼"
+      },
+      {
+        "t": "coral",
+        "z": "珊瑚"
+      },
+      {
+        "t": "flower",
+        "z": "花朵"
+      },
+      {
+        "t": "bouquet",
+        "z": "花束"
+      },
+      {
+        "t": "lotus",
+        "z": "莲花"
+      },
+      {
+        "t": "landscape photography",
+        "z": "风景",
+        "d": "自然风光摄影，构图宏大，色彩自然，适合户外场景"
+      },
+      {
+        "t": "sky",
+        "z": "天空"
+      },
+      {
+        "t": "clouds",
+        "z": "云"
+      },
+      {
+        "t": "space",
+        "z": "太空"
+      },
+      {
+        "t": "underwater",
+        "z": "水下"
+      },
+      {
+        "t": "sunlit bedroom",
+        "z": "阳光洒入的卧室"
+      },
+      {
+        "t": "window seat",
+        "z": "靠窗座位"
+      },
+      {
+        "t": "train platform",
+        "z": "火车/电车站台"
+      },
+      {
+        "t": "subway station",
+        "z": "地铁站"
+      },
+      {
+        "t": "overpass",
+        "z": "天桥/高架桥"
+      },
+      {
+        "t": "coastal road",
+        "z": "海滨公路"
+      },
+      {
+        "t": "boardwalk",
+        "z": "木栈道"
+      },
+      {
+        "t": "pier",
+        "z": "海边码头栈桥"
+      },
+      {
+        "t": "coral reef",
+        "z": "珊瑚礁海底"
+      },
+      {
+        "t": "deep sea",
+        "z": "深海"
+      },
+      {
+        "t": "underwater ruins",
+        "z": "海底遗迹"
+      },
+      {
+        "t": "floating islands",
+        "z": "浮空岛"
+      },
+      {
+        "t": "cloud sea",
+        "z": "云海"
+      },
+      {
+        "t": "alpine lake",
+        "z": "高山湖泊"
+      },
+      {
+        "t": "lavender field",
+        "z": "薰衣草田"
+      },
+      {
+        "t": "wheat field",
+        "z": "金色麦田"
+      },
+      {
+        "t": "rapeseed flower field",
+        "z": "油菜花田"
+      },
+      {
+        "t": "tulip field",
+        "z": "郁金香花田"
+      },
+      {
+        "t": "autumn forest",
+        "z": "秋日红叶森林"
+      },
+      {
+        "t": "pine forest",
+        "z": "松林"
+      },
+      {
+        "t": "enchanted forest",
+        "z": "奇幻魔法森林"
+      },
+      {
+        "t": "ancient library",
+        "z": "古老藏书阁"
+      },
+      {
+        "t": "observatory",
+        "z": "天文台"
+      },
+      {
+        "t": "planetarium",
+        "z": "天文馆星空穹顶"
+      },
+      {
+        "t": "cyberpunk street",
+        "z": "赛博朋克霓虹街道"
+      },
+      {
+        "t": "neon alley",
+        "z": "霓虹窄巷"
+      },
+      {
+        "t": "futuristic city",
+        "z": "未来科幻都市"
+      },
+      {
+        "t": "space station",
+        "z": "太空空间站"
+      },
+      {
+        "t": "traditional chinese courtyard",
+        "z": "中式四合院/庭院"
+      },
+      {
+        "t": "jiangnan water town",
+        "z": "江南水乡古镇"
+      },
+      {
+        "t": "pavilion",
+        "z": "古风凉亭"
+      },
+      {
+        "t": "stone bridge",
+        "z": "石拱桥"
+      },
+      {
+        "t": "tea house",
+        "z": "茶室/茶馆"
+      },
+      {
+        "t": "antique shop",
+        "z": "古董杂货铺"
+      },
+      {
+        "t": "music studio",
+        "z": "音乐录音室"
+      },
+      {
+        "t": "art studio",
+        "z": "画室"
+      },
+      {
+        "t": "dance studio",
+        "z": "练舞室"
+      },
+      {
+        "t": "infinity pool",
+        "z": "无边泳池"
+      },
+      {
+        "t": "desert dunes",
+        "z": "沙漠沙丘"
+      },
+      {
+        "t": "frozen lake",
+        "z": "冰封湖面"
+      },
+      {
+        "t": "snowy village",
+        "z": "雪夜小镇"
+      },
+      {
+        "t": "european old town",
+        "z": "欧式古城街区"
+      },
+      {
+        "t": "cobblestone street",
+        "z": "鹅卵石街道"
+      },
+      {
+        "t": "botanical garden",
+        "z": "植物园"
+      },
+      {
+        "t": "fountain square",
+        "z": "喷泉广场"
+      },
+      {
+        "t": "torii",
+        "z": "鸟居"
+      },
+      {
+        "t": "cherry blossom avenue",
+        "z": "樱花大道"
+      },
+      {
+        "t": "bamboo courtyard",
+        "z": "竹影庭院"
+      },
+      {
+        "t": "rooftop garden",
+        "z": "屋顶花园"
+      },
+      {
+        "t": "wisteria trellis",
+        "z": "紫藤花架"
+      },
+      {
+        "t": "cafe terrace",
+        "z": "咖啡馆露台"
+      },
+      {
+        "t": "photo studio",
+        "z": "摄影棚"
+      },
+      {
+        "t": "dressing room",
+        "z": "更衣室"
+      },
+      {
+        "t": "walk-in closet",
+        "z": "衣帽间"
+      },
+      {
+        "t": "bathhouse",
+        "z": "公共澡堂"
+      },
+      {
+        "t": "parking garage",
+        "z": "立体车库"
+      },
+      {
+        "t": "gas station",
+        "z": "加油站"
+      },
+      {
+        "t": "crystal cave",
+        "z": "水晶洞窟"
+      },
+      {
+        "t": "haunted mansion",
+        "z": "鬼屋宅邸"
+      },
+      {
+        "t": "fishing village",
+        "z": "渔村"
+      },
+      {
+        "t": "snow festival",
+        "z": "雪祭"
+      },
+      {
+        "t": "vending machine corner",
+        "z": "自动贩卖机角落"
+      },
+      {
+        "t": "school gate",
+        "z": "校门口"
+      },
+      {
+        "t": "shoe locker",
+        "z": "鞋柜区"
+      },
+      {
+        "t": "music room",
+        "z": "音乐教室"
+      },
+      {
+        "t": "nurse office",
+        "z": "保健室"
+      },
+      {
+        "t": "clubroom",
+        "z": "社团活动室"
+      },
+      {
+        "t": "dormitory",
+        "z": "宿舍"
+      },
+      {
+        "t": "hospital corridor",
+        "z": "医院走廊"
+      },
+      {
+        "t": "deserted island",
+        "z": "无人岛"
+      },
+      {
+        "t": "hot air balloon",
+        "z": "热气球"
+      },
+      {
+        "t": "luxury boudoir suite",
+        "z": "奢华闺房套房"
+      },
+      {
+        "t": "candlelit boudoir",
+        "z": "烛光闺房"
+      },
+      {
+        "t": "art deco boudoir interior",
+        "z": "装饰艺术风格闺房"
+      },
+      {
+        "t": "red velvet backstage boudoir",
+        "z": "红丝绒后台更衣间"
+      },
+      {
+        "t": "burlesque dressing room",
+        "z": "滑稽艳舞后台化妆间"
+      }
+    ],
+    "天气": [
+      {
+        "t": "rain",
+        "z": "下雨"
+      },
+      {
+        "t": "snowing",
+        "z": "下雪"
+      },
+      {
+        "t": "full moon",
+        "z": "圆月"
+      },
+      {
+        "t": "starry sky",
+        "z": "星空"
+      },
+      {
+        "t": "foggy weather",
+        "z": "雾天",
+        "d": "雾天，光线柔和，能见度低，有朦胧感，适合拍摄神秘或梦幻场景"
+      },
+      {
+        "t": "clear sky",
+        "z": "晴空"
+      },
+      {
+        "t": "blue sky",
+        "z": "蓝天"
+      },
+      {
+        "t": "cloudy",
+        "z": "多云"
+      },
+      {
+        "t": "overcast",
+        "z": "阴天"
+      },
+      {
+        "t": "storm clouds",
+        "z": "积雨云"
+      },
+      {
+        "t": "thunderstorm",
+        "z": "雷雨"
+      },
+      {
+        "t": "lightning",
+        "z": "闪电"
+      },
+      {
+        "t": "typhoon",
+        "z": "台风"
+      },
+      {
+        "t": "heavy rain",
+        "z": "大雨"
+      },
+      {
+        "t": "drizzle",
+        "z": "毛毛雨"
+      },
+      {
+        "t": "misty rain",
+        "z": "烟雨"
+      },
+      {
+        "t": "hail",
+        "z": "冰雹"
+      },
+      {
+        "t": "blizzard",
+        "z": "暴风雪"
+      },
+      {
+        "t": "frost",
+        "z": "霜"
+      },
+      {
+        "t": "first snow",
+        "z": "初雪"
+      },
+      {
+        "t": "thaw",
+        "z": "融雪"
+      },
+      {
+        "t": "mist",
+        "z": "薄雾"
+      },
+      {
+        "t": "haze",
+        "z": "薄霾"
+      },
+      {
+        "t": "smog",
+        "z": "雾霾"
+      },
+      {
+        "t": "windy",
+        "z": "大风天"
+      },
+      {
+        "t": "breeze",
+        "z": "微风"
+      },
+      {
+        "t": "sandstorm",
+        "z": "沙尘暴"
+      },
+      {
+        "t": "heat haze",
+        "z": "热浪"
+      },
+      {
+        "t": "aurora",
+        "z": "极光"
+      },
+      {
+        "t": "eclipse",
+        "z": "日食"
+      },
+      {
+        "t": "meteor shower",
+        "z": "流星雨"
+      },
+      {
+        "t": "shooting star",
+        "z": "流星"
+      },
+      {
+        "t": "comet",
+        "z": "彗星"
+      },
+      {
+        "t": "milky way",
+        "z": "银河"
+      },
+      {
+        "t": "constellation",
+        "z": "星座"
+      },
+      {
+        "t": "rainbow",
+        "z": "彩虹"
+      },
+      {
+        "t": "sunny",
+        "z": "晴天"
+      },
+      {
+        "t": "sunshower",
+        "z": "太阳雨"
+      },
+      {
+        "t": "pouring rain",
+        "z": "倾盆大雨"
+      },
+      {
+        "t": "rain on window",
+        "z": "窗玻璃雨滴"
+      },
+      {
+        "t": "puddles",
+        "z": "地面水洼倒影"
+      },
+      {
+        "t": "wet pavement",
+        "z": "雨后湿润路面"
+      },
+      {
+        "t": "morning mist",
+        "z": "晨雾"
+      },
+      {
+        "t": "dense fog",
+        "z": "浓雾"
+      },
+      {
+        "t": "sea fog",
+        "z": "海雾"
+      },
+      {
+        "t": "golden clouds",
+        "z": "金色晚霞云层"
+      },
+      {
+        "t": "cumulus clouds",
+        "z": "夏日积云"
+      },
+      {
+        "t": "dramatic sky",
+        "z": "戏剧性风云天空"
+      },
+      {
+        "t": "clear night",
+        "z": "晴朗夜空"
+      },
+      {
+        "t": "crescent moon",
+        "z": "弯月新月"
+      },
+      {
+        "t": "blood moon",
+        "z": "血月"
+      },
+      {
+        "t": "supermoon",
+        "z": "超级满月"
+      },
+      {
+        "t": "double rainbow",
+        "z": "双彩虹"
+      },
+      {
+        "t": "sunbeams through clouds",
+        "z": "云隙耶稣光"
+      },
+      {
+        "t": "snowstorm",
+        "z": "暴风雪天"
+      },
+      {
+        "t": "gentle breeze",
+        "z": "微风轻拂"
+      },
+      {
+        "t": "strong wind",
+        "z": "狂风大作"
+      },
+      {
+        "t": "sun dog",
+        "z": "幻日"
+      },
+      {
+        "t": "sea of clouds",
+        "z": "云海翻涌"
+      },
+      {
+        "t": "frost on glass",
+        "z": "窗上冰花"
+      }
+    ],
+    "时间": [
+      {
+        "t": "night",
+        "z": "夜晚"
+      },
+      {
+        "t": "sunset",
+        "z": "黄昏日落"
+      },
+      {
+        "t": "sunrise",
+        "z": "清晨日出"
+      },
+      {
+        "t": "autumn leaves",
+        "z": "秋日红叶"
+      },
+      {
+        "t": "morning",
+        "z": "早晨",
+        "d": "日出后几小时，光线明亮温暖，适合拍摄清新活力的场景"
+      },
+      {
+        "t": "afternoon",
+        "z": "午后",
+        "d": "下午早些时候，光线仍然充足但不刺眼，适合拍摄日常场景"
+      },
+      {
+        "t": "dusk",
+        "z": "黄昏",
+        "d": "日落前后，天空呈现橙红色调，适合拍摄浪漫和温馨场景"
+      },
+      {
+        "t": "dawn",
+        "z": "黎明",
+        "d": "日出前后，光线柔和呈金黄色，天空呈现渐变色，适合拍摄宁静场景"
+      },
+      {
+        "t": "midday",
+        "z": "中午",
+        "d": "日照最强烈的时段，光线直射，阴影短而强烈，适合表现明亮活力场景"
+      },
+      {
+        "t": "early evening",
+        "z": "傍晚",
+        "d": "日落后至天黑前，天空呈现深蓝色，光线柔和，适合拍摄温馨场景"
+      },
+      {
+        "t": "magic hour",
+        "z": "魔幻时刻",
+        "d": "日落后或日出前，天空呈现蓝紫色调，光线柔和梦幻，适合拍摄浪漫场景"
+      },
+      {
+        "t": "midnight",
+        "z": "午夜",
+        "d": "深夜，大多数人已入睡的时段，适合拍摄静谧或神秘氛围的场景"
+      },
+      {
+        "t": "first light",
+        "z": "拂晓",
+        "d": "凌晨时分，天色未亮但即将破晓，光线微弱柔和，适合拍摄宁静场景"
+      },
+      {
+        "t": "twilight",
+        "z": "暮光"
+      },
+      {
+        "t": "spring",
+        "z": "春天"
+      },
+      {
+        "t": "summer",
+        "z": "夏天"
+      },
+      {
+        "t": "autumn",
+        "z": "秋天"
+      },
+      {
+        "t": "winter",
+        "z": "冬天"
+      },
+      {
+        "t": "sakura season",
+        "z": "樱花季"
+      },
+      {
+        "t": "maple season",
+        "z": "红叶季"
+      },
+      {
+        "t": "day",
+        "z": "白天"
+      },
+      {
+        "t": "blue hour",
+        "z": "蓝调时刻"
+      },
+      {
+        "t": "late night",
+        "z": "深夜"
+      },
+      {
+        "t": "early morning",
+        "z": "清晨"
+      },
+      {
+        "t": "golden morning",
+        "z": "金色晨光时段"
+      },
+      {
+        "t": "noon",
+        "z": "正午"
+      },
+      {
+        "t": "sunny afternoon",
+        "z": "晴朗午后"
+      },
+      {
+        "t": "late afternoon",
+        "z": "傍晚前夕"
+      },
+      {
+        "t": "afterglow",
+        "z": "夕阳余晖"
+      },
+      {
+        "t": "nightfall",
+        "z": "夜幕降临"
+      },
+      {
+        "t": "starry night",
+        "z": "星夜"
+      },
+      {
+        "t": "moonlit night",
+        "z": "月夜"
+      },
+      {
+        "t": "pre-dawn",
+        "z": "黎明破晓前"
+      },
+      {
+        "t": "early spring",
+        "z": "初春"
+      },
+      {
+        "t": "midsummer",
+        "z": "盛夏"
+      },
+      {
+        "t": "late autumn",
+        "z": "深秋"
+      },
+      {
+        "t": "midwinter",
+        "z": "隆冬"
+      },
+      {
+        "t": "christmas",
+        "z": "圣诞节"
+      },
+      {
+        "t": "halloween",
+        "z": "万圣节"
+      },
+      {
+        "t": "new year",
+        "z": "新年"
+      },
+      {
+        "t": "lantern festival",
+        "z": "元宵灯节"
+      },
+      {
+        "t": "mid-autumn festival",
+        "z": "中秋佳节"
+      },
+      {
+        "t": "rainy season",
+        "z": "梅雨季"
+      },
+      {
+        "t": "summer vacation",
+        "z": "暑假"
+      },
+      {
+        "t": "holiday season",
+        "z": "节日季"
+      },
+      {
+        "t": "spring festival",
+        "z": "春节"
+      }
+    ]
+  }
+}

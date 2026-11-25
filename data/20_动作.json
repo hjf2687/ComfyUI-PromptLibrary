@@ -1,0 +1,1058 @@
+{
+  "order": [
+    "画质",
+    "人物",
+    "身体",
+    "表情",
+    "动作",
+    "服饰",
+    "材质",
+    "道具",
+    "食物",
+    "动物",
+    "场景",
+    "天气",
+    "时间",
+    "特效",
+    "光照",
+    "色调",
+    "摄影",
+    "画风",
+    "氛围",
+    "题材",
+    "NSFW·身体",
+    "NSFW·行为",
+    "NSFW·特殊",
+    "写实负面",
+    "负面"
+  ],
+  "tags": {
+    "动作": [
+      {
+        "t": "looking at viewer",
+        "z": "看向镜头"
+      },
+      {
+        "t": "standing",
+        "z": "站立"
+      },
+      {
+        "t": "sitting",
+        "z": "坐姿"
+      },
+      {
+        "t": "kneeling",
+        "z": "跪姿"
+      },
+      {
+        "t": "squatting",
+        "z": "蹲姿"
+      },
+      {
+        "t": "lying",
+        "z": "躺卧"
+      },
+      {
+        "t": "on back",
+        "z": "仰躺"
+      },
+      {
+        "t": "seiza",
+        "z": "正坐"
+      },
+      {
+        "t": "wariza",
+        "z": "W坐"
+      },
+      {
+        "t": "arms crossed",
+        "z": "双臂交叉"
+      },
+      {
+        "t": "arms behind back",
+        "z": "背后双手"
+      },
+      {
+        "t": "hands on hips",
+        "z": "双手叉腰"
+      },
+      {
+        "t": "hands in pockets",
+        "z": "手插口袋"
+      },
+      {
+        "t": "peace sign",
+        "z": "剪刀手"
+      },
+      {
+        "t": "wave",
+        "z": "挥手"
+      },
+      {
+        "t": "stretching",
+        "z": "伸懒腰"
+      },
+      {
+        "t": "jumping",
+        "z": "跳起"
+      },
+      {
+        "t": "walking",
+        "z": "行走"
+      },
+      {
+        "t": "running",
+        "z": "奔跑"
+      },
+      {
+        "t": "dancing",
+        "z": "跳舞"
+      },
+      {
+        "t": "hugging",
+        "z": "拥抱"
+      },
+      {
+        "t": "headpat",
+        "z": "摸头"
+      },
+      {
+        "t": "hand up",
+        "z": "举手"
+      },
+      {
+        "t": "pointing",
+        "z": "指向"
+      },
+      {
+        "t": "eating",
+        "z": "进食"
+      },
+      {
+        "t": "drinking",
+        "z": "饮用"
+      },
+      {
+        "t": "reading",
+        "z": "阅读"
+      },
+      {
+        "t": "sleeping",
+        "z": "熟睡"
+      },
+      {
+        "t": "twirling hair",
+        "z": "卷弄头发"
+      },
+      {
+        "t": "outstretched arms",
+        "z": "张开双臂"
+      },
+      {
+        "t": "self hug",
+        "z": "抱住自己"
+      },
+      {
+        "t": "hand on own chin",
+        "z": "手托下巴"
+      },
+      {
+        "t": "leaning",
+        "z": "斜靠"
+      },
+      {
+        "t": "leaning forward",
+        "z": "前倾"
+      },
+      {
+        "t": "leaning back",
+        "z": "后仰"
+      },
+      {
+        "t": "leaning on wall",
+        "z": "靠墙"
+      },
+      {
+        "t": "leaning on desk",
+        "z": "撑桌"
+      },
+      {
+        "t": "leaning on railing",
+        "z": "倚栏"
+      },
+      {
+        "t": "sitting on floor",
+        "z": "席地而坐"
+      },
+      {
+        "t": "sitting on chair",
+        "z": "端坐椅上"
+      },
+      {
+        "t": "sitting on bed",
+        "z": "坐于床边"
+      },
+      {
+        "t": "sitting on lap",
+        "z": "坐在膝上"
+      },
+      {
+        "t": "cross-legged",
+        "z": "盘腿坐"
+      },
+      {
+        "t": "on stomach",
+        "z": "趴伏"
+      },
+      {
+        "t": "on side",
+        "z": "侧卧"
+      },
+      {
+        "t": "fetal position",
+        "z": "蜷缩"
+      },
+      {
+        "t": "bridal carry",
+        "z": "公主抱"
+      },
+      {
+        "t": "piggyback",
+        "z": "背负"
+      },
+      {
+        "t": "shoulder ride",
+        "z": "骑在肩上"
+      },
+      {
+        "t": "holding hands",
+        "z": "牵手"
+      },
+      {
+        "t": "handshake",
+        "z": "握手"
+      },
+      {
+        "t": "fist bump",
+        "z": "碰拳"
+      },
+      {
+        "t": "thumbs up",
+        "z": "竖大拇指"
+      },
+      {
+        "t": "ok sign",
+        "z": "比OK"
+      },
+      {
+        "t": "finger heart",
+        "z": "手指比心"
+      },
+      {
+        "t": "hand heart",
+        "z": "双手比心"
+      },
+      {
+        "t": "saluting",
+        "z": "敬礼"
+      },
+      {
+        "t": "bowing",
+        "z": "鞠躬"
+      },
+      {
+        "t": "curtsying",
+        "z": "屈膝礼"
+      },
+      {
+        "t": "meditating",
+        "z": "冥想"
+      },
+      {
+        "t": "praying",
+        "z": "祈祷"
+      },
+      {
+        "t": "thinking",
+        "z": "思考"
+      },
+      {
+        "t": "scratching head",
+        "z": "挠头"
+      },
+      {
+        "t": "rubbing eyes",
+        "z": "揉眼睛"
+      },
+      {
+        "t": "covering face",
+        "z": "捂脸"
+      },
+      {
+        "t": "covering mouth",
+        "z": "捂嘴"
+      },
+      {
+        "t": "covering eyes",
+        "z": "捂眼"
+      },
+      {
+        "t": "covering ears",
+        "z": "捂耳"
+      },
+      {
+        "t": "hiding face",
+        "z": "遮脸"
+      },
+      {
+        "t": "holding cheeks",
+        "z": "捧脸"
+      },
+      {
+        "t": "clapping",
+        "z": "鼓掌"
+      },
+      {
+        "t": "beckoning",
+        "z": "勾手指"
+      },
+      {
+        "t": "snapping fingers",
+        "z": "打响指"
+      },
+      {
+        "t": "pointing at viewer",
+        "z": "指向观者"
+      },
+      {
+        "t": "pointing up",
+        "z": "指向上方"
+      },
+      {
+        "t": "arm raised",
+        "z": "举起手臂"
+      },
+      {
+        "t": "both arms raised",
+        "z": "双臂高举"
+      },
+      {
+        "t": "hands behind head",
+        "z": "双手枕脑后"
+      },
+      {
+        "t": "hands on knees",
+        "z": "手撑膝上"
+      },
+      {
+        "t": "hands on lap",
+        "z": "手放膝上"
+      },
+      {
+        "t": "hands clasped",
+        "z": "双手合握"
+      },
+      {
+        "t": "finger to lips",
+        "z": "竖指噤声"
+      },
+      {
+        "t": "blowing kiss",
+        "z": "飞吻"
+      },
+      {
+        "t": "reaching",
+        "z": "伸手"
+      },
+      {
+        "t": "twirling",
+        "z": "旋转"
+      },
+      {
+        "t": "floating",
+        "z": "悬浮"
+      },
+      {
+        "t": "levitating",
+        "z": "漂浮"
+      },
+      {
+        "t": "flying",
+        "z": "飞行"
+      },
+      {
+        "t": "falling",
+        "z": "坠落"
+      },
+      {
+        "t": "hopping",
+        "z": "蹦跳"
+      },
+      {
+        "t": "tiptoeing",
+        "z": "踮脚"
+      },
+      {
+        "t": "climbing",
+        "z": "攀爬"
+      },
+      {
+        "t": "swinging",
+        "z": "荡起"
+      },
+      {
+        "t": "on a swing",
+        "z": "荡秋千"
+      },
+      {
+        "t": "kicking",
+        "z": "踢腿"
+      },
+      {
+        "t": "punching",
+        "z": "出拳"
+      },
+      {
+        "t": "blocking",
+        "z": "格挡"
+      },
+      {
+        "t": "throwing",
+        "z": "投掷"
+      },
+      {
+        "t": "catching",
+        "z": "接住"
+      },
+      {
+        "t": "cooking",
+        "z": "烹饪"
+      },
+      {
+        "t": "cleaning",
+        "z": "打扫"
+      },
+      {
+        "t": "washing dishes",
+        "z": "洗碗"
+      },
+      {
+        "t": "watering plants",
+        "z": "浇花"
+      },
+      {
+        "t": "sweeping",
+        "z": "扫地"
+      },
+      {
+        "t": "sewing",
+        "z": "缝纫"
+      },
+      {
+        "t": "knitting",
+        "z": "编织"
+      },
+      {
+        "t": "writing",
+        "z": "书写"
+      },
+      {
+        "t": "typing",
+        "z": "打字"
+      },
+      {
+        "t": "drawing",
+        "z": "作画"
+      },
+      {
+        "t": "painting",
+        "z": "绘画"
+      },
+      {
+        "t": "playing guitar",
+        "z": "弹吉他"
+      },
+      {
+        "t": "playing piano",
+        "z": "弹钢琴"
+      },
+      {
+        "t": "playing violin",
+        "z": "拉小提琴"
+      },
+      {
+        "t": "playing flute",
+        "z": "吹长笛"
+      },
+      {
+        "t": "playing drums",
+        "z": "打鼓"
+      },
+      {
+        "t": "playing video games",
+        "z": "打游戏"
+      },
+      {
+        "t": "playing chess",
+        "z": "下棋"
+      },
+      {
+        "t": "selfie",
+        "z": "自拍"
+      },
+      {
+        "t": "posing",
+        "z": "摆姿"
+      },
+      {
+        "t": "doing a handstand",
+        "z": "倒立"
+      },
+      {
+        "t": "doing the splits",
+        "z": "劈叉"
+      },
+      {
+        "t": "yoga pose",
+        "z": "瑜伽体式"
+      },
+      {
+        "t": "lotus position",
+        "z": "莲花坐"
+      },
+      {
+        "t": "whistling",
+        "z": "吹口哨"
+      },
+      {
+        "t": "singing",
+        "z": "歌唱"
+      },
+      {
+        "t": "humming",
+        "z": "哼唱"
+      },
+      {
+        "t": "outstretched legs",
+        "z": "张开双腿"
+      },
+      {
+        "t": "head tilt",
+        "z": "歪头"
+      },
+      {
+        "t": "shrugging",
+        "z": "耸肩"
+      },
+      {
+        "t": "facepalm",
+        "z": "扶额"
+      },
+      {
+        "t": "looking back",
+        "z": "回眸",
+        "z2": "回头看"
+      },
+      {
+        "t": "looking over shoulder",
+        "z": "回首过肩看"
+      },
+      {
+        "t": "looking up",
+        "z": "仰望"
+      },
+      {
+        "t": "looking down",
+        "z": "低头俯视"
+      },
+      {
+        "t": "looking to the side",
+        "z": "侧目望去"
+      },
+      {
+        "t": "looking afar",
+        "z": "远眺"
+      },
+      {
+        "t": "facing away",
+        "z": "背对镜头"
+      },
+      {
+        "t": "turning around",
+        "z": "转身回头"
+      },
+      {
+        "t": "chin rest",
+        "z": "单手托腮"
+      },
+      {
+        "t": "hand on hip",
+        "z": "单手叉腰"
+      },
+      {
+        "t": "hand in hair",
+        "z": "手指拨发"
+      },
+      {
+        "t": "tying hair",
+        "z": "扎头发"
+      },
+      {
+        "t": "tucking hair behind ear",
+        "z": "撩发至耳后"
+      },
+      {
+        "t": "adjusting glasses",
+        "z": "推眼镜"
+      },
+      {
+        "t": "holding cup",
+        "z": "端着杯子"
+      },
+      {
+        "t": "holding umbrella",
+        "z": "撑伞"
+      },
+      {
+        "t": "holding sword",
+        "z": "持剑"
+      },
+      {
+        "t": "holding flower",
+        "z": "手持花朵"
+      },
+      {
+        "t": "holding bouquet",
+        "z": "手捧花束"
+      },
+      {
+        "t": "holding book",
+        "z": "捧书"
+      },
+      {
+        "t": "holding phone",
+        "z": "拿着手机"
+      },
+      {
+        "t": "taking photo",
+        "z": "拍照中"
+      },
+      {
+        "t": "drinking coffee",
+        "z": "喝咖啡"
+      },
+      {
+        "t": "eating ice cream",
+        "z": "吃冰淇淋"
+      },
+      {
+        "t": "blowing bubbles",
+        "z": "吹泡泡"
+      },
+      {
+        "t": "stretching arms",
+        "z": "伸展双臂"
+      },
+      {
+        "t": "crossed legs",
+        "z": "双腿交叠"
+      },
+      {
+        "t": "sitting on railing",
+        "z": "坐在栏杆上"
+      },
+      {
+        "t": "sitting on stairs",
+        "z": "坐在台阶上"
+      },
+      {
+        "t": "sitting on windowsill",
+        "z": "坐在窗台上"
+      },
+      {
+        "t": "curled up",
+        "z": "蜷缩成团"
+      },
+      {
+        "t": "hugging knees",
+        "z": "抱膝坐"
+      },
+      {
+        "t": "lying on grass",
+        "z": "躺在草地上"
+      },
+      {
+        "t": "wading",
+        "z": "涉水漫步"
+      },
+      {
+        "t": "splashing water",
+        "z": "戏水泼水"
+      },
+      {
+        "t": "walking away",
+        "z": "背影走远"
+      },
+      {
+        "t": "walking towards viewer",
+        "z": "迎面走来"
+      },
+      {
+        "t": "strolling",
+        "z": "漫步悠游"
+      },
+      {
+        "t": "sprinting",
+        "z": "全力冲刺"
+      },
+      {
+        "t": "mid-air",
+        "z": "凌空跃起"
+      },
+      {
+        "t": "casting spell",
+        "z": "施放魔法"
+      },
+      {
+        "t": "aiming",
+        "z": "瞄准"
+      },
+      {
+        "t": "drawing bow",
+        "z": "拉弓"
+      },
+      {
+        "t": "sword fighting",
+        "z": "挥剑对决"
+      },
+      {
+        "t": "cheering",
+        "z": "欢呼加油"
+      },
+      {
+        "t": "shushing",
+        "z": "食指噤声"
+      },
+      {
+        "t": "kneeling on one knee",
+        "z": "单膝跪地"
+      },
+      {
+        "t": "praying hands",
+        "z": "双手合十祈祷"
+      },
+      {
+        "t": "interlocked fingers",
+        "z": "十指相扣"
+      },
+      {
+        "t": "arm around shoulder",
+        "z": "搭肩揽住"
+      },
+      {
+        "t": "back-to-back",
+        "z": "背靠背"
+      },
+      {
+        "t": "forehead touch",
+        "z": "额头相抵"
+      },
+      {
+        "t": "reaching towards viewer",
+        "z": "向镜头伸手"
+      },
+      {
+        "t": "pulling clothes",
+        "z": "拉扯衣角"
+      },
+      {
+        "t": "lifting skirt",
+        "z": "提裙摆"
+      },
+      {
+        "t": "holding hat",
+        "z": "扶住帽子"
+      },
+      {
+        "t": "petting animal",
+        "z": "抚摸小动物"
+      },
+      {
+        "t": "skateboarding",
+        "z": "滑滑板"
+      },
+      {
+        "t": "cycling",
+        "z": "骑自行车"
+      },
+      {
+        "t": "swimming",
+        "z": "游泳"
+      },
+      {
+        "t": "flexing",
+        "z": "秀肌肉"
+      },
+      {
+        "t": "cracking knuckles",
+        "z": "掰指关节"
+      },
+      {
+        "t": "high five",
+        "z": "击掌"
+      },
+      {
+        "t": "peeking",
+        "z": "探头偷看"
+      },
+      {
+        "t": "leaning out of window",
+        "z": "探身窗外"
+      },
+      {
+        "t": "sitting backwards",
+        "z": "反坐椅子"
+      },
+      {
+        "t": "taking off shoes",
+        "z": "脱下鞋子"
+      },
+      {
+        "t": "putting on shoes",
+        "z": "穿上鞋子"
+      },
+      {
+        "t": "brushing teeth",
+        "z": "刷牙"
+      },
+      {
+        "t": "combing hair",
+        "z": "梳头发"
+      },
+      {
+        "t": "applying lipstick",
+        "z": "涂口红"
+      },
+      {
+        "t": "taking a bath",
+        "z": "泡澡"
+      },
+      {
+        "t": "showering",
+        "z": "淋浴"
+      },
+      {
+        "t": "drying hair",
+        "z": "吹干头发"
+      },
+      {
+        "t": "eating with chopsticks",
+        "z": "用筷子进食"
+      },
+      {
+        "t": "toasting",
+        "z": "举杯碰杯"
+      },
+      {
+        "t": "opening a gift",
+        "z": "拆礼物"
+      },
+      {
+        "t": "waving goodbye",
+        "z": "挥手告别"
+      },
+      {
+        "t": "praying at shrine",
+        "z": "神社参拜"
+      },
+      {
+        "t": "peeling fruit",
+        "z": "剥水果"
+      },
+      {
+        "t": "nuzzling",
+        "z": "蹭脸"
+      },
+      {
+        "t": "cheek-to-cheek",
+        "z": "贴脸"
+      },
+      {
+        "t": "forehead kiss",
+        "z": "额吻"
+      },
+      {
+        "t": "kiss on cheek",
+        "z": "吻颊"
+      },
+      {
+        "t": "kiss on hand",
+        "z": "吻手"
+      },
+      {
+        "t": "neck kiss",
+        "z": "吻颈"
+      },
+      {
+        "t": "shoulder kiss",
+        "z": "吻肩"
+      },
+      {
+        "t": "collarbone kiss",
+        "z": "吻锁骨"
+      },
+      {
+        "t": "slow kiss",
+        "z": "慢吻"
+      },
+      {
+        "t": "near kiss",
+        "z": "唇瓣将触未触"
+      },
+      {
+        "t": "kissing",
+        "z": "亲吻"
+      },
+      {
+        "t": "hand on thigh",
+        "z": "手抚大腿"
+      },
+      {
+        "t": "hand on waist",
+        "z": "手扶腰间"
+      },
+      {
+        "t": "arms around neck",
+        "z": "搂住脖颈"
+      },
+      {
+        "t": "close embrace from behind",
+        "z": "从背后贴身相拥"
+      },
+      {
+        "t": "ear whisper",
+        "z": "贴耳低语"
+      },
+      {
+        "t": "bedside embrace",
+        "z": "床边相拥"
+      },
+      {
+        "t": "sensual massage",
+        "z": "亲密按摩"
+      },
+      {
+        "t": "slow dancing in a close embrace",
+        "z": "相拥慢舞"
+      },
+      {
+        "t": "trailing fingertips along a shoulder",
+        "z": "指尖轻掠肩头"
+      },
+      {
+        "t": "leaning on shoulder",
+        "z": "倚靠肩头"
+      },
+      {
+        "t": "chin lift",
+        "z": "抬下巴"
+      },
+      {
+        "t": "wrist grab",
+        "z": "抓住手腕"
+      },
+      {
+        "t": "wall slam",
+        "z": "壁咚"
+      },
+      {
+        "t": "whispering forehead to forehead",
+        "z": "额头相抵低语"
+      },
+      {
+        "t": "leaning in with eyes half closed",
+        "z": "半阖双眼倾身靠近"
+      },
+      {
+        "t": "smiling between kisses",
+        "z": "亲吻间隙露出笑意"
+      },
+      {
+        "t": "wrapping a partner in a silk sheet",
+        "z": "用丝绸床单裹住伴侣"
+      },
+      {
+        "t": "sitting on a partner's lap facing them",
+        "z": "面对面坐在伴侣腿上"
+      },
+      {
+        "t": "standing kiss in a doorway",
+        "z": "门框间站立拥吻"
+      },
+      {
+        "t": "afterglow cuddle",
+        "z": "亲密过后依偎"
+      },
+      {
+        "t": "lap dance",
+        "z": "大腿舞"
+      },
+      {
+        "t": "pole dance",
+        "z": "钢管舞"
+      },
+      {
+        "t": "on all fours",
+        "z": "四肢着地"
+      },
+      {
+        "t": "legs up",
+        "z": "抬起双腿"
+      },
+      {
+        "t": "bent over",
+        "z": "弯腰俯身"
+      },
+      {
+        "t": "ass up",
+        "z": "翘臀俯趴"
+      },
+      {
+        "t": "jack-o' challenge",
+        "z": "Jack-O 蹲趴翘臀"
+      },
+      {
+        "t": "knees up",
+        "z": "曲膝抬腿"
+      },
+      {
+        "t": "leg lift",
+        "z": "单腿高抬"
+      },
+      {
+        "t": "standing split",
+        "z": "站立一字马"
+      },
+      {
+        "t": "presenting",
+        "z": "展示姿态"
+      },
+      {
+        "t": "hand on neck",
+        "z": "手抚脖颈"
+      },
+      {
+        "t": "lap pillow",
+        "z": "暧昧膝枕"
+      },
+      {
+        "t": "biting neck",
+        "z": "轻咬脖颈"
+      },
+      {
+        "t": "pulling hair",
+        "z": "轻扯头发"
+      }
+    ]
+  }
+}

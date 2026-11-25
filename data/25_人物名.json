@@ -1,0 +1,1888 @@
+{
+  "order": [
+    "人物名"
+  ],
+  "tags": {
+    "人物名": [
+      {
+        "t": "hatsune_miku, vocaloid",
+        "z": "初音未来（Vocaloid）",
+        "z2": "Miku / 葱娘"
+      },
+      {
+        "t": "kagamine_rin, vocaloid",
+        "z": "镜音铃（Vocaloid）",
+        "z2": "镜音双子"
+      },
+      {
+        "t": "kagamine_len, vocaloid",
+        "z": "镜音连（Vocaloid）",
+        "z2": "镜音双子"
+      },
+      {
+        "t": "megurine_luka, vocaloid",
+        "z": "巡音流歌（Vocaloid）",
+        "z2": "巡音Luka"
+      },
+      {
+        "t": "kasane_teto, utau",
+        "z": "重音Teto（UTAU）",
+        "z2": "重音 / 重音泰特 / 重音テト"
+      },
+      {
+        "t": "saber_(fate), fate_(series)",
+        "z": "Saber（Fate）",
+        "z2": "阿尔托莉雅·潘德拉贡 / 呆毛王"
+      },
+      {
+        "t": "tohsaka_rin, fate_(series)",
+        "z": "远坂凛（Fate）",
+        "z2": "崩铁联动"
+      },
+      {
+        "t": "matou_sakura, fate_(series)",
+        "z": "间桐樱（Fate）"
+      },
+      {
+        "t": "gilgamesh_(fate), fate_(series)",
+        "z": "吉尔伽美什（Fate）",
+        "z2": "金闪闪 / 英雄王 / 崩铁联动"
+      },
+      {
+        "t": "jeanne_d'arc_(fate), fate_(series)",
+        "z": "贞德（Fate）",
+        "z2": "圣女贞德"
+      },
+      {
+        "t": "mash_kyrielight, fate_(series)",
+        "z": "玛修（Fate）",
+        "z2": "学妹 / 玛修·基列莱特"
+      },
+      {
+        "t": "ishtar_(fate), fate_(series)",
+        "z": "伊什塔尔（Fate）"
+      },
+      {
+        "t": "morgan_le_fay_(fate), fate_(series)",
+        "z": "摩根（Fate）"
+      },
+      {
+        "t": "archer_(fate), fate_(series)",
+        "z": "卫宫 / Archer（Fate）",
+        "z2": "红A / 崩铁联动"
+      },
+      {
+        "t": "okita_souji_(fate), fate_(series)",
+        "z": "冲田总司（Fate）",
+        "z2": "樱Saber"
+      },
+      {
+        "t": "scathach_(fate), fate_(series)",
+        "z": "斯卡哈（Fate）",
+        "z2": "师匠"
+      },
+      {
+        "t": "nero_claudius_(fate), fate_(series)",
+        "z": "尼禄（Fate）",
+        "z2": "红Saber"
+      },
+      {
+        "t": "tamamo_no_mae_(fate), fate_(series)",
+        "z": "玉藻前（Fate）",
+        "z2": "C狐"
+      },
+      {
+        "t": "astolfo_(fate), fate_(series)",
+        "z": "阿斯托尔福（Fate）",
+        "z2": "阿福"
+      },
+      {
+        "t": "hakurei_reimu, touhou",
+        "z": "博丽灵梦（东方Project）",
+        "z2": "灵梦"
+      },
+      {
+        "t": "kirisame_marisa, touhou",
+        "z": "雾雨魔理沙（东方Project）",
+        "z2": "魔理沙"
+      },
+      {
+        "t": "izayoi_sakuya, touhou",
+        "z": "十六夜咲夜（东方Project）",
+        "z2": "咲夜"
+      },
+      {
+        "t": "remilia_scarlet, touhou",
+        "z": "蕾米莉亚（东方Project）",
+        "z2": "大小姐"
+      },
+      {
+        "t": "flandre_scarlet, touhou",
+        "z": "芙兰朵露（东方Project）",
+        "z2": "二小姐 / 芙兰"
+      },
+      {
+        "t": "kochiya_sanae, touhou",
+        "z": "东风谷早苗（东方Project）",
+        "z2": "早苗"
+      },
+      {
+        "t": "komeiji_koishi, touhou",
+        "z": "古明地恋（东方Project）",
+        "z2": "恋恋"
+      },
+      {
+        "t": "komeiji_satori, touhou",
+        "z": "古明地觉（东方Project）",
+        "z2": "小五"
+      },
+      {
+        "t": "fujiwara_no_mokou, touhou",
+        "z": "藤原妹红（东方Project）",
+        "z2": "妹红"
+      },
+      {
+        "t": "kiana_kaslana, honkai_impact_3rd",
+        "z": "琪亚娜（崩坏3）",
+        "z2": "草履虫"
+      },
+      {
+        "t": "raiden_mei, honkai_impact_3rd",
+        "z": "雷电芽衣（崩坏3）",
+        "z2": "芽衣"
+      },
+      {
+        "t": "elysia_(honkai_impact), honkai_impact_3rd",
+        "z": "爱莉希雅（崩坏3）",
+        "z2": "爱莉 / 粉色妖精小姐"
+      },
+      {
+        "t": "bronya_zaychik, honkai_impact_3rd",
+        "z": "布洛妮娅（崩坏3）",
+        "z2": "板鸭"
+      },
+      {
+        "t": "fu_hua, honkai_impact_3rd",
+        "z": "符华（崩坏3）",
+        "z2": "班长 / 识之律者"
+      },
+      {
+        "t": "theresa_apocalypse, honkai_impact_3rd",
+        "z": "德丽莎（崩坏3）",
+        "z2": "学园长"
+      },
+      {
+        "t": "shiroko_(blue_archive), blue_archive",
+        "z": "砂狼白子（蔚蓝档案）",
+        "z2": "白子 / BA"
+      },
+      {
+        "t": "hoshino_(blue_archive), blue_archive",
+        "z": "小鸟游星野（蔚蓝档案）",
+        "z2": "星野 / BA"
+      },
+      {
+        "t": "arona_(blue_archive), blue_archive",
+        "z": "阿罗娜（蔚蓝档案）",
+        "z2": "BA"
+      },
+      {
+        "t": "kisaki_(blue_archive), blue_archive",
+        "z": "龙华妃咲（蔚蓝档案）",
+        "z2": "妃咲 / BA"
+      },
+      {
+        "t": "hina_(blue_archive), blue_archive",
+        "z": "空崎日奈（蔚蓝档案）",
+        "z2": "日奈 / BA"
+      },
+      {
+        "t": "asuna_(blue_archive), blue_archive",
+        "z": "一之濑明日奈（蔚蓝档案）",
+        "z2": "兔女郎明日奈 / BA"
+      },
+      {
+        "t": "karin_(blue_archive), blue_archive",
+        "z": "角楯花凛（蔚蓝档案）",
+        "z2": "花凛 / BA"
+      },
+      {
+        "t": "yuuka_(blue_archive), blue_archive",
+        "z": "早濑优香（蔚蓝档案）",
+        "z2": "优香 / BA"
+      },
+      {
+        "t": "mika_(blue_archive), blue_archive",
+        "z": "圣园未花（蔚蓝档案）",
+        "z2": "未花 / BA"
+      },
+      {
+        "t": "toki_(blue_archive), blue_archive",
+        "z": "飞鸟马时（蔚蓝档案）",
+        "z2": "时 / BA"
+      },
+      {
+        "t": "belfast_(azur_lane), azur_lane",
+        "z": "贝尔法斯特（碧蓝航线）",
+        "z2": "贝法"
+      },
+      {
+        "t": "taihou_(azur_lane), azur_lane",
+        "z": "大凤（碧蓝航线）"
+      },
+      {
+        "t": "st._louis_(azur_lane), azur_lane",
+        "z": "圣路易斯（碧蓝航线）"
+      },
+      {
+        "t": "rapi_(nikke), goddess_of_victory:_nikke",
+        "z": "拉毗（胜利女神：NIKKE）",
+        "z2": "NIKKE"
+      },
+      {
+        "t": "anis_(nikke), goddess_of_victory:_nikke",
+        "z": "阿妮斯（胜利女神：NIKKE）",
+        "z2": "NIKKE"
+      },
+      {
+        "t": "amiya_(arknights), arknights",
+        "z": "阿米娅（明日方舟）",
+        "z2": "驴子"
+      },
+      {
+        "t": "texas_(arknights), arknights",
+        "z": "德克萨斯（明日方舟）"
+      },
+      {
+        "t": "exusiai_(arknights), arknights",
+        "z": "能天使（明日方舟）",
+        "z2": "阿能"
+      },
+      {
+        "t": "skadi_(arknights), arknights",
+        "z": "斯卡蒂（明日方舟）",
+        "z2": "蒂蒂"
+      },
+      {
+        "t": "w_(arknights), arknights",
+        "z": "W（明日方舟）"
+      },
+      {
+        "t": "ch'en_(arknights), arknights",
+        "z": "陈（明日方舟）",
+        "z2": "陈sir"
+      },
+      {
+        "t": "gold_ship_(umamusume), umamusume",
+        "z": "黄金船（赛马娘）",
+        "z2": "阿船"
+      },
+      {
+        "t": "tokai_teio_(umamusume), umamusume",
+        "z": "东海帝王（赛马娘）",
+        "z2": "帝皇"
+      },
+      {
+        "t": "souryuu_asuka_langley, neon_genesis_evangelion",
+        "z": "明日香（EVA）",
+        "z2": "惣流·明日香·兰格雷 / 新世纪福音战士"
+      },
+      {
+        "t": "ayanami_rei, neon_genesis_evangelion",
+        "z": "绫波丽（EVA）",
+        "z2": "新世纪福音战士"
+      },
+      {
+        "t": "mari_illustrious_makinami, neon_genesis_evangelion",
+        "z": "真希波（EVA）",
+        "z2": "新世纪福音战士"
+      },
+      {
+        "t": "izumi_konata, lucky_star",
+        "z": "泉此方（幸运星）",
+        "z2": "此方"
+      },
+      {
+        "t": "gotoh_hitori, bocchi_the_rock!",
+        "z": "后藤一里（孤独摇滚）",
+        "z2": "波奇 / 波奇酱 / 小孤独"
+      },
+      {
+        "t": "kita_ikuyo, bocchi_the_rock!",
+        "z": "喜多郁代（孤独摇滚）",
+        "z2": "喜多"
+      },
+      {
+        "t": "yamada_ryo, bocchi_the_rock!",
+        "z": "山田凉（孤独摇滚）",
+        "z2": "凉"
+      },
+      {
+        "t": "ijichi_nijika, bocchi_the_rock!",
+        "z": "伊地知虹夏（孤独摇滚）",
+        "z2": "虹夏"
+      },
+      {
+        "t": "rem_(re:zero), re:zero_kara_hajimeru_isekai_seikatsu",
+        "z": "蕾姆（Re:Zero）",
+        "z2": "从零开始的异世界生活"
+      },
+      {
+        "t": "ram_(re:zero), re:zero_kara_hajimeru_isekai_seikatsu",
+        "z": "拉姆（Re:Zero）",
+        "z2": "从零开始的异世界生活"
+      },
+      {
+        "t": "emilia_(re:zero), re:zero_kara_hajimeru_isekai_seikatsu",
+        "z": "爱蜜莉雅（Re:Zero）",
+        "z2": "EMT / 从零开始的异世界生活"
+      },
+      {
+        "t": "megumin, kono_subarashii_sekai_ni_shukufuku_wo!",
+        "z": "惠惠（美好世界）",
+        "z2": "Konosuba / 为美好的世界献上祝福"
+      },
+      {
+        "t": "aqua_(konosuba), kono_subarashii_sekai_ni_shukufuku_wo!",
+        "z": "阿库娅（美好世界）",
+        "z2": "智障女神 / Konosuba"
+      },
+      {
+        "t": "darkness_(konosuba), kono_subarashii_sekai_ni_shukufuku_wo!",
+        "z": "达克尼斯（美好世界）",
+        "z2": "拉拉蒂娜 / Konosuba"
+      },
+      {
+        "t": "zero_two_(darling_in_the_franxx), darling_in_the_franxx",
+        "z": "02（Darling in the Franxx）",
+        "z2": "Zero Two / 国家队"
+      },
+      {
+        "t": "violet_evergarden, violet_evergarden",
+        "z": "薇尔莉特（紫罗兰永恒花园）"
+      },
+      {
+        "t": "suzumiya_haruhi, suzumiya_haruhi_no_yuuutsu",
+        "z": "凉宫春日（凉宫春日的忧郁）",
+        "z2": "团长"
+      },
+      {
+        "t": "hirasawa_yui, k-on!",
+        "z": "平泽唯（轻音少女）",
+        "z2": "K-ON"
+      },
+      {
+        "t": "akiyama_mio, k-on!",
+        "z": "秋山澪（轻音少女）",
+        "z2": "K-ON"
+      },
+      {
+        "t": "kaname_madoka, mahou_shoujo_madoka_magica",
+        "z": "鹿目圆（魔法少女小圆）",
+        "z2": "圆神 / 小圆"
+      },
+      {
+        "t": "akemi_homura, mahou_shoujo_madoka_magica",
+        "z": "晓美焰（魔法少女小圆）",
+        "z2": "吼姆拉 / 小焰"
+      },
+      {
+        "t": "misaka_mikoto, toaru_majutsu_no_index",
+        "z": "御坂美琴（某科学的超电磁炮）",
+        "z2": "炮姐 / 魔法禁书目录"
+      },
+      {
+        "t": "asuna_(sao), sword_art_online",
+        "z": "亚丝娜（刀剑神域）",
+        "z2": "结城明日奈 / SAO"
+      },
+      {
+        "t": "hoshino_ai, oshi_no_ko",
+        "z": "星野爱（我推的孩子）"
+      },
+      {
+        "t": "arima_kana, oshi_no_ko",
+        "z": "有马加奈（我推的孩子）"
+      },
+      {
+        "t": "nishikigi_chisato, lycoris_recoil",
+        "z": "锦木千束（莉可丽丝）",
+        "z2": "千束"
+      },
+      {
+        "t": "inoue_takina, lycoris_recoil",
+        "z": "井之上泷奈（莉可丽丝）",
+        "z2": "泷奈"
+      },
+      {
+        "t": "frieren, sousou_no_frieren",
+        "z": "芙莉莲（葬送的芙莉莲）"
+      },
+      {
+        "t": "fern_(sousou_no_frieren), sousou_no_frieren",
+        "z": "菲伦（葬送的芙莉莲）"
+      },
+      {
+        "t": "maomao_(kusuriya_no_hitorigoto), kusuriya_no_hitorigoto",
+        "z": "猫猫（药屋少女）",
+        "z2": "药屋少女的呢喃"
+      },
+      {
+        "t": "anya_(spy_x_family), spy_x_family",
+        "z": "阿尼亚（间谍过家家）"
+      },
+      {
+        "t": "yor_briar, spy_x_family",
+        "z": "约尔（间谍过家家）",
+        "z2": "约尔·福杰 / 荆棘公主"
+      },
+      {
+        "t": "makima_(chainsaw_man), chainsaw_man",
+        "z": "玛奇玛（电锯人）",
+        "z2": "链锯人"
+      },
+      {
+        "t": "denji_(chainsaw_man), chainsaw_man",
+        "z": "电次（电锯人）",
+        "z2": "链锯人"
+      },
+      {
+        "t": "power_(chainsaw_man), chainsaw_man",
+        "z": "帕瓦（电锯人）",
+        "z2": "链锯人"
+      },
+      {
+        "t": "gojou_satoru, jujutsu_kaisen",
+        "z": "五条悟（咒术回战）"
+      },
+      {
+        "t": "itadori_yuuji, jujutsu_kaisen",
+        "z": "虎杖悠仁（咒术回战）"
+      },
+      {
+        "t": "fushiguro_megumi, jujutsu_kaisen",
+        "z": "伏黑惠（咒术回战）"
+      },
+      {
+        "t": "kugisaki_nobara, jujutsu_kaisen",
+        "z": "钉崎野蔷薇（咒术回战）"
+      },
+      {
+        "t": "kamado_tanjirou, kimetsu_no_yaiba",
+        "z": "灶门炭治郎（鬼灭之刃）",
+        "z2": "炭治郎"
+      },
+      {
+        "t": "kamado_nezuko, kimetsu_no_yaiba",
+        "z": "灶门祢豆子（鬼灭之刃）",
+        "z2": "祢豆子"
+      },
+      {
+        "t": "agatsuma_zenitsu, kimetsu_no_yaiba",
+        "z": "我妻善逸（鬼灭之刃）",
+        "z2": "善逸"
+      },
+      {
+        "t": "kochou_shinobu, kimetsu_no_yaiba",
+        "z": "蝴蝶忍（鬼灭之刃）"
+      },
+      {
+        "t": "mikasa_ackerman, shingeki_no_kyojin",
+        "z": "三笠（进击的巨人）",
+        "z2": "三笠·阿克曼"
+      },
+      {
+        "t": "levi_ackerman, shingeki_no_kyojin",
+        "z": "利威尔（进击的巨人）",
+        "z2": "兵长"
+      },
+      {
+        "t": "uzumaki_naruto, naruto_(series)",
+        "z": "漩涡鸣人（火影忍者）",
+        "z2": "鸣人"
+      },
+      {
+        "t": "uchiha_sasuke, naruto_(series)",
+        "z": "宇智波佐助（火影忍者）",
+        "z2": "佐助"
+      },
+      {
+        "t": "monkey_d._luffy, one_piece",
+        "z": "路飞（海贼王）",
+        "z2": "蒙奇·D·路飞 / 航海王"
+      },
+      {
+        "t": "nami_(one_piece), one_piece",
+        "z": "娜美（海贼王）",
+        "z2": "航海王"
+      },
+      {
+        "t": "lucy_(cyberpunk), cyberpunk_edgerunners",
+        "z": "露西（赛博朋克）",
+        "z2": "Lucy / 边缘行者 / 鸣潮联动"
+      },
+      {
+        "t": "rebecca_(cyberpunk), cyberpunk_edgerunners",
+        "z": "瑞贝卡（赛博朋克）",
+        "z2": "Rebecca / 边缘行者 / 鸣潮联动"
+      },
+      {
+        "t": "2b_(nier:automata), nier_(series)",
+        "z": "2B（尼尔：机械纪元）",
+        "z2": "寄叶二号B型"
+      },
+      {
+        "t": "a2_(nier:automata), nier_(series)",
+        "z": "A2（尼尔：机械纪元）",
+        "z2": "寄叶A型二号"
+      },
+      {
+        "t": "tifa_lockhart, final_fantasy_vii",
+        "z": "蒂法（FF7）",
+        "z2": "最终幻想7"
+      },
+      {
+        "t": "aerith_gainsborough, final_fantasy_vii",
+        "z": "爱丽丝（FF7）",
+        "z2": "最终幻想7"
+      },
+      {
+        "t": "cloud_strife, final_fantasy_vii",
+        "z": "克劳德（FF7）",
+        "z2": "最终幻想7"
+      },
+      {
+        "t": "ada_wong, resident_evil",
+        "z": "艾达·王（生化危机）"
+      },
+      {
+        "t": "chun-li, street_fighter",
+        "z": "春丽（街头霸王）"
+      },
+      {
+        "t": "mai_shiranui, king_of_fighters",
+        "z": "不知火舞（拳皇）",
+        "z2": "饿狼传说 / KOF"
+      },
+      {
+        "t": "bayonetta, bayonetta_(series)",
+        "z": "贝优妮塔（猎天使魔女）",
+        "z2": "贝姐"
+      },
+      {
+        "t": "takamaki_ann, persona_5",
+        "z": "高卷杏（女神异闻录5）",
+        "z2": "P5 / Panther"
+      },
+      {
+        "t": "d.va_(overwatch), overwatch",
+        "z": "D.Va（守望先锋）",
+        "z2": "宋哈娜"
+      },
+      {
+        "t": "jinx_(league_of_legends), league_of_legends",
+        "z": "金克丝（英雄联盟）",
+        "z2": "LOL / 双城之战"
+      },
+      {
+        "t": "ahri_(league_of_legends), league_of_legends",
+        "z": "阿狸（英雄联盟）",
+        "z2": "九尾妖狐 / LOL"
+      },
+      {
+        "t": "zelda, the_legend_of_zelda",
+        "z": "塞尔达公主（塞尔达传说）"
+      },
+      {
+        "t": "jean_(genshin_impact)",
+        "z": "琴（原神）"
+      },
+      {
+        "t": "lisa_(genshin_impact)",
+        "z": "丽莎（原神）"
+      },
+      {
+        "t": "barbara_(genshin_impact)",
+        "z": "芭芭拉（原神）"
+      },
+      {
+        "t": "kaeya_(genshin_impact)",
+        "z": "凯亚（原神）"
+      },
+      {
+        "t": "diluc_(genshin_impact)",
+        "z": "迪卢克（原神）"
+      },
+      {
+        "t": "razor_(genshin_impact)",
+        "z": "雷泽（原神）"
+      },
+      {
+        "t": "amber_(genshin_impact)",
+        "z": "安柏（原神）"
+      },
+      {
+        "t": "venti_(genshin_impact)",
+        "z": "温迪（原神）"
+      },
+      {
+        "t": "xiangling_(genshin_impact)",
+        "z": "香菱（原神）"
+      },
+      {
+        "t": "beidou_(genshin_impact)",
+        "z": "北斗（原神）"
+      },
+      {
+        "t": "xingqiu_(genshin_impact)",
+        "z": "行秋（原神）"
+      },
+      {
+        "t": "xiao_(genshin_impact)",
+        "z": "魈（原神）"
+      },
+      {
+        "t": "ningguang_(genshin_impact)",
+        "z": "凝光（原神）"
+      },
+      {
+        "t": "klee_(genshin_impact)",
+        "z": "可莉（原神）"
+      },
+      {
+        "t": "zhongli_(genshin_impact)",
+        "z": "钟离（原神）"
+      },
+      {
+        "t": "fischl_(genshin_impact)",
+        "z": "菲谢尔（原神）"
+      },
+      {
+        "t": "bennett_(genshin_impact)",
+        "z": "班尼特（原神）"
+      },
+      {
+        "t": "tartaglia_(genshin_impact)",
+        "z": "达达利亚（原神）",
+        "z2": "公子 / 达达利亚"
+      },
+      {
+        "t": "noelle_(genshin_impact)",
+        "z": "诺艾尔（原神）"
+      },
+      {
+        "t": "qiqi_(genshin_impact)",
+        "z": "七七（原神）"
+      },
+      {
+        "t": "chongyun_(genshin_impact)",
+        "z": "重云（原神）"
+      },
+      {
+        "t": "ganyu_(genshin_impact)",
+        "z": "甘雨（原神）"
+      },
+      {
+        "t": "albedo_(genshin_impact)",
+        "z": "阿贝多（原神）"
+      },
+      {
+        "t": "diona_(genshin_impact)",
+        "z": "迪奥娜（原神）"
+      },
+      {
+        "t": "mona_(genshin_impact)",
+        "z": "莫娜（原神）"
+      },
+      {
+        "t": "keqing_(genshin_impact)",
+        "z": "刻晴（原神）"
+      },
+      {
+        "t": "sucrose_(genshin_impact)",
+        "z": "砂糖（原神）"
+      },
+      {
+        "t": "xinyan_(genshin_impact)",
+        "z": "辛焱（原神）"
+      },
+      {
+        "t": "rosaria_(genshin_impact)",
+        "z": "罗莎莉亚（原神）"
+      },
+      {
+        "t": "hu_tao_(genshin_impact)",
+        "z": "胡桃（原神）"
+      },
+      {
+        "t": "kaedehara_kazuha, genshin_impact",
+        "z": "枫原万叶（原神）"
+      },
+      {
+        "t": "yanfei_(genshin_impact)",
+        "z": "烟绯（原神）"
+      },
+      {
+        "t": "kamisato_ayaka, genshin_impact",
+        "z": "神里绫华（原神）"
+      },
+      {
+        "t": "yoimiya_(genshin_impact)",
+        "z": "宵宫（原神）"
+      },
+      {
+        "t": "thoma_(genshin_impact)",
+        "z": "托马（原神）"
+      },
+      {
+        "t": "eula_(genshin_impact)",
+        "z": "优菈（原神）"
+      },
+      {
+        "t": "raiden_shogun, genshin_impact",
+        "z": "雷电将军（原神）",
+        "z2": "雷电影 / 巴尔泽布"
+      },
+      {
+        "t": "sayu_(genshin_impact)",
+        "z": "早柚（原神）"
+      },
+      {
+        "t": "sangonomiya_kokomi, genshin_impact",
+        "z": "珊瑚宫心海（原神）"
+      },
+      {
+        "t": "gorou_(genshin_impact)",
+        "z": "五郎（原神）"
+      },
+      {
+        "t": "kujou_sara, genshin_impact",
+        "z": "九条裟罗（原神）"
+      },
+      {
+        "t": "arataki_itto, genshin_impact",
+        "z": "荒泷一斗（原神）"
+      },
+      {
+        "t": "yae_miko, genshin_impact",
+        "z": "八重神子（原神）"
+      },
+      {
+        "t": "shikanoin_heizou, genshin_impact",
+        "z": "鹿野院平藏（原神）"
+      },
+      {
+        "t": "yelan_(genshin_impact)",
+        "z": "夜兰（原神）"
+      },
+      {
+        "t": "kirara_(genshin_impact)",
+        "z": "绮良良（原神）"
+      },
+      {
+        "t": "shenhe_(genshin_impact)",
+        "z": "申鹤（原神）"
+      },
+      {
+        "t": "yun_jin_(genshin_impact)",
+        "z": "云堇（原神）"
+      },
+      {
+        "t": "kuki_shinobu, genshin_impact",
+        "z": "久岐忍（原神）"
+      },
+      {
+        "t": "kamisato_ayato, genshin_impact",
+        "z": "神里绫人（原神）"
+      },
+      {
+        "t": "collei_(genshin_impact)",
+        "z": "柯莱（原神）"
+      },
+      {
+        "t": "dori_(genshin_impact)",
+        "z": "多莉（原神）"
+      },
+      {
+        "t": "tighnari_(genshin_impact)",
+        "z": "提纳里（原神）"
+      },
+      {
+        "t": "nilou_(genshin_impact)",
+        "z": "妮露（原神）"
+      },
+      {
+        "t": "cyno_(genshin_impact)",
+        "z": "赛诺（原神）"
+      },
+      {
+        "t": "candace_(genshin_impact)",
+        "z": "坎蒂丝（原神）"
+      },
+      {
+        "t": "nahida_(genshin_impact)",
+        "z": "纳西妲（原神）",
+        "z2": "小吉祥草王 / 草神"
+      },
+      {
+        "t": "layla_(genshin_impact)",
+        "z": "莱依拉（原神）"
+      },
+      {
+        "t": "wanderer_(genshin_impact)",
+        "z": "流浪者（原神）",
+        "z2": "散兵 / 阿帽"
+      },
+      {
+        "t": "faruzan_(genshin_impact)",
+        "z": "珐露珊（原神）"
+      },
+      {
+        "t": "yaoyao_(genshin_impact)",
+        "z": "瑶瑶（原神）"
+      },
+      {
+        "t": "alhaitham_(genshin_impact)",
+        "z": "艾尔海森（原神）"
+      },
+      {
+        "t": "dehya_(genshin_impact)",
+        "z": "迪希雅（原神）"
+      },
+      {
+        "t": "mika_(genshin_impact)",
+        "z": "米卡（原神）"
+      },
+      {
+        "t": "kaveh_(genshin_impact)",
+        "z": "卡维（原神）"
+      },
+      {
+        "t": "baizhu_(genshin_impact)",
+        "z": "白术（原神）"
+      },
+      {
+        "t": "lynette_(genshin_impact)",
+        "z": "琳妮特（原神）"
+      },
+      {
+        "t": "lyney_(genshin_impact)",
+        "z": "林尼（原神）"
+      },
+      {
+        "t": "freminet_(genshin_impact)",
+        "z": "菲米尼（原神）"
+      },
+      {
+        "t": "wriothesley_(genshin_impact)",
+        "z": "莱欧斯利（原神）"
+      },
+      {
+        "t": "neuvillette_(genshin_impact)",
+        "z": "那维莱特（原神）"
+      },
+      {
+        "t": "charlotte_(genshin_impact)",
+        "z": "夏洛蒂（原神）"
+      },
+      {
+        "t": "furina_(genshin_impact)",
+        "z": "芙宁娜（原神）",
+        "z2": "水神"
+      },
+      {
+        "t": "chevreuse_(genshin_impact)",
+        "z": "夏沃蕾（原神）"
+      },
+      {
+        "t": "navia_(genshin_impact)",
+        "z": "娜维娅（原神）"
+      },
+      {
+        "t": "gaming_(genshin_impact)",
+        "z": "嘉明（原神）"
+      },
+      {
+        "t": "xianyun_(genshin_impact)",
+        "z": "闲云（原神）",
+        "z2": "留云借风真君"
+      },
+      {
+        "t": "chiori_(genshin_impact)",
+        "z": "千织（原神）"
+      },
+      {
+        "t": "sigewinne_(genshin_impact)",
+        "z": "希格雯（原神）"
+      },
+      {
+        "t": "arlecchino_(genshin_impact)",
+        "z": "阿蕾奇诺（原神）",
+        "z2": "仆人"
+      },
+      {
+        "t": "sethos_(genshin_impact)",
+        "z": "赛索斯（原神）"
+      },
+      {
+        "t": "clorinde_(genshin_impact)",
+        "z": "克洛琳德（原神）"
+      },
+      {
+        "t": "emilie_(genshin_impact)",
+        "z": "艾梅莉埃（原神）"
+      },
+      {
+        "t": "kachina_(genshin_impact)",
+        "z": "卡齐娜（原神）"
+      },
+      {
+        "t": "kinich_(genshin_impact)",
+        "z": "基尼奇（原神）"
+      },
+      {
+        "t": "mualani_(genshin_impact)",
+        "z": "玛拉妮（原神）"
+      },
+      {
+        "t": "xilonen_(genshin_impact)",
+        "z": "希诺宁（原神）"
+      },
+      {
+        "t": "chasca_(genshin_impact)",
+        "z": "恰斯卡（原神）"
+      },
+      {
+        "t": "ororon_(genshin_impact)",
+        "z": "欧洛伦（原神）"
+      },
+      {
+        "t": "mavuika_(genshin_impact)",
+        "z": "玛薇卡（原神）"
+      },
+      {
+        "t": "citlali_(genshin_impact)",
+        "z": "茜特菈莉（原神）"
+      },
+      {
+        "t": "lan_yan_(genshin_impact)",
+        "z": "蓝砚（原神）"
+      },
+      {
+        "t": "yumemizuki_mizuki, genshin_impact",
+        "z": "梦见月瑞希（原神）"
+      },
+      {
+        "t": "iansan_(genshin_impact)",
+        "z": "伊安珊（原神）"
+      },
+      {
+        "t": "varesa_(genshin_impact)",
+        "z": "瓦雷莎（原神）"
+      },
+      {
+        "t": "escoffier_(genshin_impact)",
+        "z": "爱可菲（原神）"
+      },
+      {
+        "t": "ifa_(genshin_impact)",
+        "z": "伊法（原神）"
+      },
+      {
+        "t": "skirk_(genshin_impact)",
+        "z": "丝柯克（原神）"
+      },
+      {
+        "t": "dahlia_(genshin_impact)",
+        "z": "塔利雅（原神）"
+      },
+      {
+        "t": "ineffa_(genshin_impact)",
+        "z": "伊涅芙（原神）"
+      },
+      {
+        "t": "manekin_(genshin_impact)",
+        "z": "奇偶·男性（原神）"
+      },
+      {
+        "t": "manekina_(genshin_impact)",
+        "z": "奇偶·女性（原神）"
+      },
+      {
+        "t": "lauma_(genshin_impact)",
+        "z": "菈乌玛（原神）"
+      },
+      {
+        "t": "flins_(genshin_impact)",
+        "z": "菲林斯（原神）"
+      },
+      {
+        "t": "aino_(genshin_impact)",
+        "z": "爱诺（原神）"
+      },
+      {
+        "t": "nefer_(genshin_impact)",
+        "z": "奈芙尔（原神）"
+      },
+      {
+        "t": "durin_(genshin_impact)",
+        "z": "杜林（原神）"
+      },
+      {
+        "t": "jahoda_(genshin_impact)",
+        "z": "雅珂达（原神）"
+      },
+      {
+        "t": "columbina_(genshin_impact)",
+        "z": "哥伦比娅（原神）",
+        "z2": "少女"
+      },
+      {
+        "t": "zibai_(genshin_impact)",
+        "z": "兹白（原神）"
+      },
+      {
+        "t": "illuga_(genshin_impact)",
+        "z": "叶洛亚（原神）"
+      },
+      {
+        "t": "varka_(genshin_impact)",
+        "z": "法尔伽（原神）"
+      },
+      {
+        "t": "lohen_(genshin_impact)",
+        "z": "洛恩（原神）"
+      },
+      {
+        "t": "linnea_(genshin_impact)",
+        "z": "莉奈娅（原神）"
+      },
+      {
+        "t": "nicole_(genshin_impact)",
+        "z": "尼可（原神）",
+        "z2": "魔女会N"
+      },
+      {
+        "t": "sandrone_(genshin_impact)",
+        "z": "桑多涅（原神）",
+        "z2": "木偶"
+      },
+      {
+        "t": "traveler, genshin_impact",
+        "z": "旅行者（原神）",
+        "z2": "空 / 荧"
+      },
+      {
+        "t": "march_7th_(honkai:_star_rail)",
+        "z": "三月七·存护（崩铁）"
+      },
+      {
+        "t": "dan_heng_(honkai:_star_rail)",
+        "z": "丹恒（崩铁）"
+      },
+      {
+        "t": "himeko_(honkai:_star_rail)",
+        "z": "姬子（崩铁）"
+      },
+      {
+        "t": "welt_yang, honkai_(series)",
+        "z": "瓦尔特（崩铁）"
+      },
+      {
+        "t": "kafka_(honkai:_star_rail)",
+        "z": "卡芙卡（崩铁）"
+      },
+      {
+        "t": "silver_wolf_(honkai:_star_rail)",
+        "z": "银狼（崩铁）"
+      },
+      {
+        "t": "arlan_(honkai:_star_rail)",
+        "z": "阿兰（崩铁）"
+      },
+      {
+        "t": "asta_(honkai:_star_rail)",
+        "z": "艾丝妲（崩铁）"
+      },
+      {
+        "t": "herta_(honkai:_star_rail)",
+        "z": "黑塔（崩铁）"
+      },
+      {
+        "t": "bronya_rand, honkai_(series)",
+        "z": "布洛妮娅（崩铁）"
+      },
+      {
+        "t": "seele_(honkai:_star_rail)",
+        "z": "希儿（崩铁）"
+      },
+      {
+        "t": "serval_landau, honkai_(series)",
+        "z": "希露瓦（崩铁）"
+      },
+      {
+        "t": "gepard_landau, honkai_(series)",
+        "z": "杰帕德（崩铁）"
+      },
+      {
+        "t": "natasha_(honkai:_star_rail)",
+        "z": "娜塔莎（崩铁）"
+      },
+      {
+        "t": "pela_(honkai:_star_rail)",
+        "z": "佩拉（崩铁）"
+      },
+      {
+        "t": "clara_(honkai:_star_rail)",
+        "z": "克拉拉（崩铁）"
+      },
+      {
+        "t": "sampo_koski, honkai_(series)",
+        "z": "桑博（崩铁）"
+      },
+      {
+        "t": "hook_(honkai:_star_rail)",
+        "z": "虎克（崩铁）"
+      },
+      {
+        "t": "lynx_landau, honkai_(series)",
+        "z": "玲可（崩铁）"
+      },
+      {
+        "t": "luka_(honkai:_star_rail)",
+        "z": "卢卡（崩铁）"
+      },
+      {
+        "t": "topaz_(honkai:_star_rail)",
+        "z": "托帕&账账（崩铁）",
+        "z2": "托帕"
+      },
+      {
+        "t": "qingque_(honkai:_star_rail)",
+        "z": "青雀（崩铁）"
+      },
+      {
+        "t": "tingyun_(honkai:_star_rail)",
+        "z": "停云（崩铁）"
+      },
+      {
+        "t": "luocha_(honkai:_star_rail)",
+        "z": "罗刹（崩铁）"
+      },
+      {
+        "t": "jing_yuan, honkai_(series)",
+        "z": "景元（崩铁）"
+      },
+      {
+        "t": "blade_(honkai:_star_rail)",
+        "z": "刃（崩铁）"
+      },
+      {
+        "t": "sushang_(honkai:_star_rail)",
+        "z": "素裳（崩铁）"
+      },
+      {
+        "t": "yukong_(honkai:_star_rail)",
+        "z": "驭空（崩铁）"
+      },
+      {
+        "t": "fu_xuan_(honkai:_star_rail)",
+        "z": "符玄（崩铁）"
+      },
+      {
+        "t": "yanqing_(honkai:_star_rail)",
+        "z": "彦卿（崩铁）"
+      },
+      {
+        "t": "guinaifen_(honkai:_star_rail)",
+        "z": "桂乃芬（崩铁）"
+      },
+      {
+        "t": "bailu_(honkai:_star_rail)",
+        "z": "白露（崩铁）"
+      },
+      {
+        "t": "jingliu_(honkai:_star_rail)",
+        "z": "镜流（崩铁）"
+      },
+      {
+        "t": "xueyi_(honkai:_star_rail)",
+        "z": "雪衣（崩铁）"
+      },
+      {
+        "t": "hanya_(honkai:_star_rail)",
+        "z": "寒鸦（崩铁）"
+      },
+      {
+        "t": "huohuo_(honkai:_star_rail)",
+        "z": "藿藿（崩铁）"
+      },
+      {
+        "t": "jiaoqiu_(honkai:_star_rail)",
+        "z": "椒丘（崩铁）"
+      },
+      {
+        "t": "feixiao_(honkai:_star_rail)",
+        "z": "飞霄（崩铁）"
+      },
+      {
+        "t": "yunli_(honkai:_star_rail)",
+        "z": "云璃（崩铁）"
+      },
+      {
+        "t": "lingsha_(honkai:_star_rail)",
+        "z": "灵砂（崩铁）"
+      },
+      {
+        "t": "moze_(honkai:_star_rail)",
+        "z": "貊泽（崩铁）"
+      },
+      {
+        "t": "fugue_(honkai:_star_rail)",
+        "z": "忘归人（崩铁）",
+        "z2": "停云SP"
+      },
+      {
+        "t": "gallagher_(honkai:_star_rail)",
+        "z": "加拉赫（崩铁）"
+      },
+      {
+        "t": "argenti_(honkai:_star_rail)",
+        "z": "银枝（崩铁）"
+      },
+      {
+        "t": "ruan_mei_(honkai:_star_rail)",
+        "z": "阮·梅（崩铁）",
+        "z2": "阮梅"
+      },
+      {
+        "t": "aventurine_(honkai:_star_rail)",
+        "z": "砂金（崩铁）"
+      },
+      {
+        "t": "dr._ratio_(honkai:_star_rail)",
+        "z": "真理医生（崩铁）"
+      },
+      {
+        "t": "sparkle_(honkai:_star_rail)",
+        "z": "花火（崩铁）"
+      },
+      {
+        "t": "black_swan_(honkai:_star_rail)",
+        "z": "黑天鹅（崩铁）"
+      },
+      {
+        "t": "acheron_(honkai:_star_rail)",
+        "z": "黄泉（崩铁）"
+      },
+      {
+        "t": "robin_(honkai:_star_rail)",
+        "z": "知更鸟（崩铁）"
+      },
+      {
+        "t": "firefly_(honkai:_star_rail)",
+        "z": "流萤（崩铁）",
+        "z2": "萨姆"
+      },
+      {
+        "t": "misha_(honkai:_star_rail)",
+        "z": "米沙（崩铁）"
+      },
+      {
+        "t": "sunday_(honkai:_star_rail)",
+        "z": "星期日（崩铁）"
+      },
+      {
+        "t": "jade_(honkai:_star_rail)",
+        "z": "翡翠（崩铁）"
+      },
+      {
+        "t": "boothill_(honkai:_star_rail)",
+        "z": "波提欧（崩铁）"
+      },
+      {
+        "t": "rappa_(honkai:_star_rail)",
+        "z": "乱破（崩铁）"
+      },
+      {
+        "t": "the_dahlia_(honkai:_star_rail)",
+        "z": "大丽花（崩铁）"
+      },
+      {
+        "t": "the_herta_(honkai:_star_rail)",
+        "z": "大黑塔（崩铁）",
+        "z2": "黑塔SP"
+      },
+      {
+        "t": "aglaea_(honkai:_star_rail)",
+        "z": "阿格莱雅（崩铁）"
+      },
+      {
+        "t": "tribbie_(honkai:_star_rail)",
+        "z": "缇宝（崩铁）"
+      },
+      {
+        "t": "mydei_(honkai:_star_rail)",
+        "z": "万敌（崩铁）"
+      },
+      {
+        "t": "anaxa_(honkai:_star_rail)",
+        "z": "那刻夏（崩铁）"
+      },
+      {
+        "t": "cipher_(honkai:_star_rail)",
+        "z": "赛飞儿（崩铁）"
+      },
+      {
+        "t": "castorice_(honkai:_star_rail)",
+        "z": "遐蝶（崩铁）"
+      },
+      {
+        "t": "phainon_(honkai:_star_rail)",
+        "z": "白厄（崩铁）"
+      },
+      {
+        "t": "hyacine_(honkai:_star_rail)",
+        "z": "风堇（崩铁）"
+      },
+      {
+        "t": "hysilens_(honkai:_star_rail)",
+        "z": "海瑟音（崩铁）"
+      },
+      {
+        "t": "cerydra_(honkai:_star_rail)",
+        "z": "刻律德菈（崩铁）"
+      },
+      {
+        "t": "evernight_(honkai:_star_rail)",
+        "z": "长夜月（崩铁）",
+        "z2": "三月七SP"
+      },
+      {
+        "t": "dan_heng_(permansor_terrae)_(honkai:_star_rail)",
+        "z": "丹恒·腾荒（崩铁）"
+      },
+      {
+        "t": "cyrene_(honkai:_star_rail)",
+        "z": "昔涟（崩铁）"
+      },
+      {
+        "t": "sparxie_(honkai:_star_rail)",
+        "z": "火花（崩铁）"
+      },
+      {
+        "t": "yao_guang_(honkai:_star_rail)",
+        "z": "爻光（崩铁）"
+      },
+      {
+        "t": "pearl_(honkai:_star_rail)",
+        "z": "真珠（崩铁）"
+      },
+      {
+        "t": "ashveil_(honkai:_star_rail)",
+        "z": "不死途（崩铁）"
+      },
+      {
+        "t": "evanescia_(honkai:_star_rail)",
+        "z": "绯英（崩铁）"
+      },
+      {
+        "t": "nihilux_(honkai:_star_rail), aha_(honkai:_star_rail), honkai:_star_rail",
+        "z": "星神·阿哈（崩铁）",
+        "z2": "虚照 / Nihilux / 阿哈"
+      },
+      {
+        "t": "aventurine_(waveflair)_(honkai:_star_rail), aventurine_(honkai:_star_rail), honkai:_star_rail",
+        "z": "砂金·戏浪（崩铁）"
+      },
+      {
+        "t": "robin_(summeretto)_(honkai:_star_rail), robin_(honkai:_star_rail), honkai:_star_rail",
+        "z": "知更鸟·晴歌（崩铁）"
+      },
+      {
+        "t": "himeko_(nova)_(honkai:_star_rail), himeko_(honkai:_star_rail), honkai:_star_rail",
+        "z": "姬子·启行（崩铁）"
+      },
+      {
+        "t": "mortenax_blade_(honkai:_star_rail), blade_(honkai:_star_rail), honkai:_star_rail",
+        "z": "千冶·刃（崩铁）"
+      },
+      {
+        "t": "silver_wolf_(lv.999)_(honkai:_star_rail), silver_wolf_(honkai:_star_rail), honkai:_star_rail",
+        "z": "银狼LV.999（崩铁）"
+      },
+      {
+        "t": "march_7th_(hunt)_(honkai:_star_rail), march_7th_(honkai:_star_rail), honkai:_star_rail",
+        "z": "三月七·巡猎（崩铁）"
+      },
+      {
+        "t": "dan_heng_(imbibitor_lunae)_(honkai:_star_rail), dan_heng_(honkai:_star_rail), honkai:_star_rail",
+        "z": "丹恒·饮月（崩铁）",
+        "z2": "饮月君"
+      },
+      {
+        "t": "trailblazer_(honkai:_star_rail), honkai:_star_rail",
+        "z": "开拓者（崩铁）",
+        "z2": "穹 / 星"
+      },
+      {
+        "t": "anby_demara, zenless_zone_zero",
+        "z": "安比·德玛拉（绝区零）"
+      },
+      {
+        "t": "nicole_demara, zenless_zone_zero",
+        "z": "妮可·德玛拉（绝区零）"
+      },
+      {
+        "t": "billy_kid, zenless_zone_zero",
+        "z": "比利·奇德（绝区零）"
+      },
+      {
+        "t": "soldier_11_(zenless_zone_zero)",
+        "z": "11号（绝区零）"
+      },
+      {
+        "t": "nekomiya_mana, zenless_zone_zero",
+        "z": "猫宫又奈（绝区零）",
+        "z2": "猫又"
+      },
+      {
+        "t": "corin_wickes, zenless_zone_zero",
+        "z": "可琳·威克斯（绝区零）"
+      },
+      {
+        "t": "von_lycaon, zenless_zone_zero",
+        "z": "冯·莱卡恩（绝区零）"
+      },
+      {
+        "t": "koleda_belobog, zenless_zone_zero",
+        "z": "珂蕾妲·贝洛伯格（绝区零）"
+      },
+      {
+        "t": "anton_ivanov, zenless_zone_zero",
+        "z": "安东·伊万诺夫（绝区零）"
+      },
+      {
+        "t": "ben_bigger, zenless_zone_zero",
+        "z": "本·比格（绝区零）"
+      },
+      {
+        "t": "soukaku_(zenless_zone_zero)",
+        "z": "苍角（绝区零）"
+      },
+      {
+        "t": "hoshimi_miyabi, zenless_zone_zero",
+        "z": "星见雅（绝区零）"
+      },
+      {
+        "t": "grace_howard, zenless_zone_zero",
+        "z": "格莉丝·霍华德（绝区零）"
+      },
+      {
+        "t": "alexandrina_sebastiane, zenless_zone_zero",
+        "z": "亚历山德丽娜（绝区零）",
+        "z2": "丽娜"
+      },
+      {
+        "t": "ellen_joe, zenless_zone_zero",
+        "z": "艾莲·乔（绝区零）",
+        "z2": "艾莲 / 鲨鱼妹"
+      },
+      {
+        "t": "zhu_yuan, zenless_zone_zero",
+        "z": "朱鸢（绝区零）"
+      },
+      {
+        "t": "luciana_de_montefio, zenless_zone_zero",
+        "z": "露西（绝区零）"
+      },
+      {
+        "t": "piper_wheel, zenless_zone_zero",
+        "z": "派派·韦尔（绝区零）"
+      },
+      {
+        "t": "qingyi_(zenless_zone_zero)",
+        "z": "青衣（绝区零）"
+      },
+      {
+        "t": "seth_lowell, zenless_zone_zero",
+        "z": "赛斯·洛威尔（绝区零）"
+      },
+      {
+        "t": "jane_doe_(zenless_zone_zero)",
+        "z": "简·杜（绝区零）"
+      },
+      {
+        "t": "caesar_king_(zenless_zone_zero)",
+        "z": "凯撒·金（绝区零）"
+      },
+      {
+        "t": "burnice_white, zenless_zone_zero",
+        "z": "柏妮思（绝区零）"
+      },
+      {
+        "t": "tsukishiro_yanagi, zenless_zone_zero",
+        "z": "月城柳（绝区零）"
+      },
+      {
+        "t": "lighter_(zenless_zone_zero)",
+        "z": "莱特（绝区零）"
+      },
+      {
+        "t": "asaba_harumasa, zenless_zone_zero",
+        "z": "浅羽悠真（绝区零）"
+      },
+      {
+        "t": "astra_yao, zenless_zone_zero",
+        "z": "耀嘉音（绝区零）"
+      },
+      {
+        "t": "evelyn_chevalier, zenless_zone_zero",
+        "z": "伊芙琳·舒瓦利耶（绝区零）",
+        "z2": "伊芙琳"
+      },
+      {
+        "t": "anby_demara_(silver_soldier), zenless_zone_zero",
+        "z": "零号·安比（绝区零）",
+        "z2": "安比SP / 银心"
+      },
+      {
+        "t": "pulchra_fellini, zenless_zone_zero",
+        "z": "波可娜·费雷尼（绝区零）"
+      },
+      {
+        "t": "trigger_(zenless_zone_zero)",
+        "z": "扳机（绝区零）"
+      },
+      {
+        "t": "vivian_banshee, zenless_zone_zero",
+        "z": "薇薇安（绝区零）"
+      },
+      {
+        "t": "hugo_vlad, zenless_zone_zero",
+        "z": "雨果（绝区零）"
+      },
+      {
+        "t": "yixuan_(zenless_zone_zero)",
+        "z": "仪玄（绝区零）"
+      },
+      {
+        "t": "pan_yinhu, zenless_zone_zero",
+        "z": "潘引壶（绝区零）"
+      },
+      {
+        "t": "ju_fufu, zenless_zone_zero",
+        "z": "橘福福（绝区零）"
+      },
+      {
+        "t": "ukinami_yuzuha, zenless_zone_zero",
+        "z": "浮波柚叶（绝区零）"
+      },
+      {
+        "t": "alice_thymefield, zenless_zone_zero",
+        "z": "爱丽丝·泰姆菲尔德（绝区零）"
+      },
+      {
+        "t": "seed_(zenless_zone_zero)",
+        "z": "席德（绝区零）"
+      },
+      {
+        "t": "orphie_magnusson, zenless_zone_zero",
+        "z": "奥菲丝（绝区零）"
+      },
+      {
+        "t": "lucia_elowen, zenless_zone_zero",
+        "z": "卢西娅（绝区零）"
+      },
+      {
+        "t": "komano_manato, zenless_zone_zero",
+        "z": "狛野真斗（绝区零）"
+      },
+      {
+        "t": "yidhari_murphy, zenless_zone_zero",
+        "z": "伊德海莉（绝区零）"
+      },
+      {
+        "t": "dialyn_(zenless_zone_zero)",
+        "z": "琉音（绝区零）"
+      },
+      {
+        "t": "banyue_(zenless_zone_zero)",
+        "z": "般岳（绝区零）"
+      },
+      {
+        "t": "zhao_(zenless_zone_zero)",
+        "z": "照（绝区零）"
+      },
+      {
+        "t": "ye_shunguang, zenless_zone_zero",
+        "z": "叶瞬光（绝区零）"
+      },
+      {
+        "t": "sunna_(zenless_zone_zero)",
+        "z": "千夏（绝区零）"
+      },
+      {
+        "t": "aria_(zenless_zone_zero)",
+        "z": "爱芮（绝区零）"
+      },
+      {
+        "t": "nangong_yu, zenless_zone_zero",
+        "z": "南宫羽（绝区零）"
+      },
+      {
+        "t": "cissia_(zenless_zone_zero)",
+        "z": "希希芙（绝区零）"
+      },
+      {
+        "t": "promeia_(zenless_zone_zero)",
+        "z": "普罗米娅（绝区零）"
+      },
+      {
+        "t": "billy_kid_(starlight), zenless_zone_zero",
+        "z": "星徽·比利（绝区零）",
+        "z2": "比利SP / 星徽骑士"
+      },
+      {
+        "t": "pyrois_(zenless_zone_zero)",
+        "z": "佩洛伊斯（绝区零）"
+      },
+      {
+        "t": "velina_airgid, zenless_zone_zero",
+        "z": "维琳娜（绝区零）",
+        "z2": "维琳娜·艾嘉德"
+      },
+      {
+        "t": "norma_hollowell, zenless_zone_zero",
+        "z": "诺姆（绝区零）",
+        "z2": "诺姆·霍洛维尔"
+      },
+      {
+        "t": "remielle_dan, zenless_zone_zero",
+        "z": "蕾米埃尔·丹（绝区零）"
+      },
+      {
+        "t": "sigrid_de_l'azur, zenless_zone_zero",
+        "z": "希格莉德·德拉叙尔（绝区零）"
+      },
+      {
+        "t": "claret_flint, zenless_zone_zero",
+        "z": "克拉蕾·弗林特（绝区零）"
+      },
+      {
+        "t": "roxy_ifrita_pryce, zenless_zone_zero",
+        "z": "洛克茜·伊芙莉塔·普莱斯（绝区零）"
+      },
+      {
+        "t": "phoenix_reffaella, zenless_zone_zero",
+        "z": "菲欧妮·蕾法爱菈（绝区零）"
+      },
+      {
+        "t": "severian_lowell, zenless_zone_zero",
+        "z": "赛维里安·洛威尔（绝区零）"
+      },
+      {
+        "t": "eldreda_sunbringer, zenless_zone_zero",
+        "z": "挽昼（绝区零）",
+        "z2": "艾尔妲·挽昼 / Sunbringer"
+      },
+      {
+        "t": "aalto_(wuthering_waves)",
+        "z": "秋水（鸣潮）"
+      },
+      {
+        "t": "baizhi_(wuthering_waves)",
+        "z": "白芷（鸣潮）"
+      },
+      {
+        "t": "calcharo_(wuthering_waves)",
+        "z": "卡卡罗（鸣潮）"
+      },
+      {
+        "t": "chixia_(wuthering_waves)",
+        "z": "炽霞（鸣潮）"
+      },
+      {
+        "t": "danjin_(wuthering_waves)",
+        "z": "丹瑾（鸣潮）"
+      },
+      {
+        "t": "encore_(wuthering_waves)",
+        "z": "安可（鸣潮）"
+      },
+      {
+        "t": "jianxin_(wuthering_waves)",
+        "z": "鉴心（鸣潮）"
+      },
+      {
+        "t": "jiyan_(wuthering_waves)",
+        "z": "忌炎（鸣潮）"
+      },
+      {
+        "t": "lingyang_(wuthering_waves)",
+        "z": "凌阳（鸣潮）"
+      },
+      {
+        "t": "mortefi_(wuthering_waves)",
+        "z": "莫特斐（鸣潮）"
+      },
+      {
+        "t": "sanhua_(wuthering_waves)",
+        "z": "散华（鸣潮）"
+      },
+      {
+        "t": "taoqi_(wuthering_waves)",
+        "z": "桃祈（鸣潮）"
+      },
+      {
+        "t": "verina_(wuthering_waves)",
+        "z": "维里奈（鸣潮）"
+      },
+      {
+        "t": "yangyang_(wuthering_waves)",
+        "z": "秧秧（鸣潮）"
+      },
+      {
+        "t": "yinlin_(wuthering_waves)",
+        "z": "吟霖（鸣潮）"
+      },
+      {
+        "t": "yuanwu_(wuthering_waves)",
+        "z": "渊武（鸣潮）"
+      },
+      {
+        "t": "changli_(wuthering_waves)",
+        "z": "长离（鸣潮）"
+      },
+      {
+        "t": "jinhsi_(wuthering_waves)",
+        "z": "今汐（鸣潮）"
+      },
+      {
+        "t": "xiangli_yao_(wuthering_waves)",
+        "z": "相里要（鸣潮）"
+      },
+      {
+        "t": "zhezhi_(wuthering_waves)",
+        "z": "折枝（鸣潮）"
+      },
+      {
+        "t": "youhu_(wuthering_waves)",
+        "z": "釉瑚（鸣潮）"
+      },
+      {
+        "t": "camellya_(wuthering_waves)",
+        "z": "椿（鸣潮）"
+      },
+      {
+        "t": "lumi_(wuthering_waves)",
+        "z": "灯灯（鸣潮）"
+      },
+      {
+        "t": "carlotta_(wuthering_waves)",
+        "z": "珂莱塔·莫塔里（鸣潮）",
+        "z2": "珂莱塔"
+      },
+      {
+        "t": "roccia_(wuthering_waves)",
+        "z": "洛可可（鸣潮）"
+      },
+      {
+        "t": "brant_(wuthering_waves)",
+        "z": "布兰特（鸣潮）"
+      },
+      {
+        "t": "phoebe_(wuthering_waves)",
+        "z": "菲比（鸣潮）"
+      },
+      {
+        "t": "cantarella_(wuthering_waves)",
+        "z": "坎特蕾拉（鸣潮）"
+      },
+      {
+        "t": "ciaccona_(wuthering_waves)",
+        "z": "夏空（鸣潮）"
+      },
+      {
+        "t": "zani_(wuthering_waves)",
+        "z": "赞妮（鸣潮）"
+      },
+      {
+        "t": "cartethyia_(wuthering_waves)",
+        "z": "卡提希娅（鸣潮）"
+      },
+      {
+        "t": "lupa_(wuthering_waves)",
+        "z": "露帕（鸣潮）"
+      },
+      {
+        "t": "phrolova_(wuthering_waves)",
+        "z": "弗洛洛（鸣潮）"
+      },
+      {
+        "t": "augusta_(wuthering_waves)",
+        "z": "奥古斯塔（鸣潮）"
+      },
+      {
+        "t": "iuno_(wuthering_waves)",
+        "z": "尤诺·西比尔（鸣潮）",
+        "z2": "尤诺"
+      },
+      {
+        "t": "galbrena_(wuthering_waves)",
+        "z": "嘉贝莉娜（鸣潮）"
+      },
+      {
+        "t": "qiuyuan_(wuthering_waves)",
+        "z": "仇远（鸣潮）"
+      },
+      {
+        "t": "buling_(wuthering_waves)",
+        "z": "卜灵（鸣潮）"
+      },
+      {
+        "t": "chisa_(wuthering_waves)",
+        "z": "千咲（鸣潮）"
+      },
+      {
+        "t": "lynae_(wuthering_waves)",
+        "z": "琳奈（鸣潮）"
+      },
+      {
+        "t": "mornye_(wuthering_waves)",
+        "z": "莫宁（鸣潮）"
+      },
+      {
+        "t": "aemeath_(wuthering_waves)",
+        "z": "爱弥斯（鸣潮）"
+      },
+      {
+        "t": "luuk_herssen_(wuthering_waves)",
+        "z": "陆赫斯（鸣潮）"
+      },
+      {
+        "t": "sigrika_(wuthering_waves)",
+        "z": "西格莉卡（鸣潮）"
+      },
+      {
+        "t": "denia_(wuthering_waves)",
+        "z": "达妮娅（鸣潮）",
+        "z2": "Denia"
+      },
+      {
+        "t": "lucilla_(wuthering_waves)",
+        "z": "洛瑟菈（鸣潮）"
+      },
+      {
+        "t": "hsin_(wuthering_waves)",
+        "z": "心（鸣潮）",
+        "z2": "Hsin / 心月狐"
+      },
+      {
+        "t": "rover_(wuthering_waves)",
+        "z": "漂泊者（鸣潮）",
+        "z2": "阿漂"
+      }
+    ]
+  }
+}

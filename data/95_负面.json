@@ -1,0 +1,373 @@
+{
+  "order": [
+    "画质",
+    "人物",
+    "身体",
+    "表情",
+    "动作",
+    "服饰",
+    "材质",
+    "道具",
+    "食物",
+    "动物",
+    "场景",
+    "天气",
+    "时间",
+    "特效",
+    "光照",
+    "色调",
+    "摄影",
+    "画风",
+    "氛围",
+    "题材",
+    "NSFW·身体",
+    "NSFW·行为",
+    "NSFW·特殊",
+    "写实负面",
+    "负面"
+  ],
+  "tags": {
+    "负面": [
+      {
+        "t": "lowres",
+        "z": "低分辨率"
+      },
+      {
+        "t": "bad anatomy",
+        "z": "身体结构错误"
+      },
+      {
+        "t": "bad hands",
+        "z": "手部畸形"
+      },
+      {
+        "t": "bad feet",
+        "z": "脚部畸形"
+      },
+      {
+        "t": "bad proportions",
+        "z": "身体比例失调"
+      },
+      {
+        "t": "worst quality",
+        "z": "最差质量"
+      },
+      {
+        "t": "low quality",
+        "z": "低质量"
+      },
+      {
+        "t": "normal quality",
+        "z": "普通质量"
+      },
+      {
+        "t": "jpeg artifacts",
+        "z": "压缩噪点"
+      },
+      {
+        "t": "blurry",
+        "z": "画面模糊"
+      },
+      {
+        "t": "watermark",
+        "z": "水印"
+      },
+      {
+        "t": "signature",
+        "z": "签名落款"
+      },
+      {
+        "t": "username",
+        "z": "用户名文字"
+      },
+      {
+        "t": "text",
+        "z": "乱入文字"
+      },
+      {
+        "t": "error",
+        "z": "绘制错误"
+      },
+      {
+        "t": "extra digits",
+        "z": "手指数量异常"
+      },
+      {
+        "t": "extra arms",
+        "z": "多余手臂"
+      },
+      {
+        "t": "extra legs",
+        "z": "多余腿部"
+      },
+      {
+        "t": "cropped",
+        "z": "画面裁切"
+      },
+      {
+        "t": "out of frame",
+        "z": "出画框"
+      },
+      {
+        "t": "deformed",
+        "z": "形变畸形"
+      },
+      {
+        "t": "long neck",
+        "z": "脖子过长"
+      },
+      {
+        "t": "mutated",
+        "z": "变异扭曲"
+      },
+      {
+        "t": "mutated hands",
+        "z": "手部变异"
+      },
+      {
+        "t": "distorted face",
+        "z": "五官扭曲"
+      },
+      {
+        "t": "poor details",
+        "z": "细节潦草"
+      },
+      {
+        "t": "ugly",
+        "z": "丑化"
+      },
+      {
+        "t": "duplicate",
+        "z": "重复元素"
+      },
+      {
+        "t": "poorly drawn face",
+        "z": "脸部画崩"
+      },
+      {
+        "t": "poorly drawn hands",
+        "z": "手部画崩"
+      },
+      {
+        "t": "poorly drawn feet",
+        "z": "脚部画崩"
+      },
+      {
+        "t": "fused fingers",
+        "z": "手指粘连"
+      },
+      {
+        "t": "missing fingers",
+        "z": "缺手指"
+      },
+      {
+        "t": "missing arms",
+        "z": "缺手臂"
+      },
+      {
+        "t": "missing legs",
+        "z": "缺腿"
+      },
+      {
+        "t": "missing toes",
+        "z": "缺脚趾"
+      },
+      {
+        "t": "extra toes",
+        "z": "多脚趾"
+      },
+      {
+        "t": "fused ears",
+        "z": "耳朵粘连"
+      },
+      {
+        "t": "bad ears",
+        "z": "耳朵畸形"
+      },
+      {
+        "t": "bad eyes",
+        "z": "眼睛畸形"
+      },
+      {
+        "t": "bad teeth",
+        "z": "牙齿畸形"
+      },
+      {
+        "t": "malformed limbs",
+        "z": "肢体畸形"
+      },
+      {
+        "t": "duplicate limbs",
+        "z": "重复肢体"
+      },
+      {
+        "t": "morbid",
+        "z": "病态"
+      },
+      {
+        "t": "mutilated",
+        "z": "残缺不全"
+      },
+      {
+        "t": "gross proportions",
+        "z": "比例粗劣"
+      },
+      {
+        "t": "cloned face",
+        "z": "复制脸"
+      },
+      {
+        "t": "cross-eyed",
+        "z": "斗鸡眼"
+      },
+      {
+        "t": "uncanny",
+        "z": "恐怖谷"
+      },
+      {
+        "t": "artifacts",
+        "z": "伪影"
+      },
+      {
+        "t": "moire",
+        "z": "摩尔纹"
+      },
+      {
+        "t": "oversaturated",
+        "z": "过饱和"
+      },
+      {
+        "t": "underexposed",
+        "z": "欠曝"
+      },
+      {
+        "t": "overexposed",
+        "z": "过曝"
+      },
+      {
+        "t": "out of focus",
+        "z": "失焦"
+      },
+      {
+        "t": "noisy",
+        "z": "噪点"
+      },
+      {
+        "t": "pixelated",
+        "z": "像素化"
+      },
+      {
+        "t": "disconnected limbs",
+        "z": "断肢"
+      },
+      {
+        "t": "low quality, worst quality",
+        "z": "低质/最差画质组合"
+      },
+      {
+        "t": "bad aesthetics",
+        "z": "审美崩坏"
+      },
+      {
+        "t": "worst aesthetics",
+        "z": "极差美感"
+      },
+      {
+        "t": "messy lines",
+        "z": "线条杂乱"
+      },
+      {
+        "t": "unfinished",
+        "z": "未完成草稿感"
+      },
+      {
+        "t": "sketchy",
+        "z": "草率涂鸦感"
+      },
+      {
+        "t": "color bleed",
+        "z": "串色溢色"
+      },
+      {
+        "t": "banding",
+        "z": "色带断层"
+      },
+      {
+        "t": "blurry background",
+        "z": "背景糊成一片"
+      },
+      {
+        "t": "six fingers",
+        "z": "六指畸形"
+      },
+      {
+        "t": "three arms",
+        "z": "三条手臂"
+      },
+      {
+        "t": "three legs",
+        "z": "三条腿"
+      },
+      {
+        "t": "extra head",
+        "z": "多余头颅"
+      },
+      {
+        "t": "two heads",
+        "z": "双头"
+      },
+      {
+        "t": "asymmetrical eyes",
+        "z": "双眼不对称"
+      },
+      {
+        "t": "wall-eyed",
+        "z": "斜视外斜眼"
+      },
+      {
+        "t": "missing pupils",
+        "z": "缺失瞳孔"
+      },
+      {
+        "t": "bad mouth",
+        "z": "嘴部崩坏"
+      },
+      {
+        "t": "english text",
+        "z": "英文文字"
+      },
+      {
+        "t": "chinese text",
+        "z": "中文文字"
+      },
+      {
+        "t": "speech bubble",
+        "z": "漫画对话框"
+      },
+      {
+        "t": "artist name",
+        "z": "画师署名"
+      },
+      {
+        "t": "patreon username",
+        "z": "赞助账号水印"
+      },
+      {
+        "t": "twitter username",
+        "z": "推特账号文字"
+      },
+      {
+        "t": "censored",
+        "z": "打码遮挡"
+      },
+      {
+        "t": "mosaic censoring",
+        "z": "马赛克打码"
+      },
+      {
+        "t": "bar censor",
+        "z": "黑条打码"
+      }
+    ]
+  }
+}

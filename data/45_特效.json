@@ -1,0 +1,328 @@
+{
+  "tags": {
+    "特效": [
+      {
+        "t": "smoke",
+        "z": "烟雾"
+      },
+      {
+        "t": "steam",
+        "z": "蒸汽"
+      },
+      {
+        "t": "flames",
+        "z": "火焰"
+      },
+      {
+        "t": "sparks",
+        "z": "火花"
+      },
+      {
+        "t": "water splash",
+        "z": "水花"
+      },
+      {
+        "t": "splashing",
+        "z": "飞溅"
+      },
+      {
+        "t": "ripples",
+        "z": "涟漪"
+      },
+      {
+        "t": "bubbles",
+        "z": "气泡"
+      },
+      {
+        "t": "falling petals",
+        "z": "飘落花瓣"
+      },
+      {
+        "t": "falling snow",
+        "z": "飘雪"
+      },
+      {
+        "t": "falling leaves",
+        "z": "落叶"
+      },
+      {
+        "t": "dust particles",
+        "z": "尘埃"
+      },
+      {
+        "t": "stardust",
+        "z": "星尘"
+      },
+      {
+        "t": "magic circle",
+        "z": "魔法阵"
+      },
+      {
+        "t": "energy glow",
+        "z": "能量光效"
+      },
+      {
+        "t": "sparkle",
+        "z": "闪光"
+      },
+      {
+        "t": "explosion",
+        "z": "爆炸"
+      },
+      {
+        "t": "shockwave",
+        "z": "冲击波"
+      },
+      {
+        "t": "speed lines",
+        "z": "速度线"
+      },
+      {
+        "t": "focus lines",
+        "z": "集中线"
+      },
+      {
+        "t": "glowing outline",
+        "z": "发光轮廓"
+      },
+      {
+        "t": "particle dissipation",
+        "z": "粒子消散"
+      },
+      {
+        "t": "falling feathers",
+        "z": "羽毛飘落"
+      },
+      {
+        "t": "fireflies",
+        "z": "萤火"
+      },
+      {
+        "t": "dust cloud",
+        "z": "烟尘"
+      },
+      {
+        "t": "motion trails",
+        "z": "拖影"
+      },
+      {
+        "t": "water droplets",
+        "z": "水珠"
+      },
+      {
+        "t": "raindrops",
+        "z": "雨滴"
+      },
+      {
+        "t": "sweat drops",
+        "z": "汗珠"
+      },
+      {
+        "t": "lens dirt",
+        "z": "镜头污渍"
+      },
+      {
+        "t": "magic particles",
+        "z": "魔法粒子"
+      },
+      {
+        "t": "energy burst",
+        "z": "能量爆发"
+      },
+      {
+        "t": "glowing particles",
+        "z": "发光微粒"
+      },
+      {
+        "t": "floating embers",
+        "z": "飘浮余烬"
+      },
+      {
+        "t": "dandelion seeds",
+        "z": "蒲公英飞絮"
+      },
+      {
+        "t": "snowflakes",
+        "z": "雪花晶体"
+      },
+      {
+        "t": "ice crystals",
+        "z": "冰晶碎片"
+      },
+      {
+        "t": "frost",
+        "z": "冰霜凝结"
+      },
+      {
+        "t": "lightning arcs",
+        "z": "闪电电弧"
+      },
+      {
+        "t": "electric sparks",
+        "z": "电光火花"
+      },
+      {
+        "t": "magic aura",
+        "z": "魔法灵气光环"
+      },
+      {
+        "t": "holy light",
+        "z": "圣光降临"
+      },
+      {
+        "t": "dark aura",
+        "z": "暗黑气息"
+      },
+      {
+        "t": "shadow tendrils",
+        "z": "暗影触须"
+      },
+      {
+        "t": "watercolor splash",
+        "z": "水彩飞溅"
+      },
+      {
+        "t": "ink splash",
+        "z": "水墨飞白泼溅"
+      },
+      {
+        "t": "paint splatter",
+        "z": "颜料飞溅"
+      },
+      {
+        "t": "gold leaf",
+        "z": "金箔碎片"
+      },
+      {
+        "t": "confetti",
+        "z": "五彩纸屑礼花"
+      },
+      {
+        "t": "prism",
+        "z": "棱镜色散"
+      },
+      {
+        "t": "rainbow refraction",
+        "z": "彩虹折射光"
+      },
+      {
+        "t": "caustics",
+        "z": "水波焦散光影",
+        "d": "阳光穿透水面折射出的网状光斑效果"
+      },
+      {
+        "t": "smoke rings",
+        "z": "烟圈"
+      },
+      {
+        "t": "radial blur",
+        "z": "径向动感模糊"
+      },
+      {
+        "t": "afterimage",
+        "z": "残影"
+      },
+      {
+        "t": "holographic glitch",
+        "z": "全息故障噪波"
+      },
+      {
+        "t": "digital particles",
+        "z": "数字像素粒子"
+      },
+      {
+        "t": "scanlines",
+        "z": "屏幕扫描线"
+      },
+      {
+        "t": "glowing runes",
+        "z": "发光符文"
+      },
+      {
+        "t": "constellation lines",
+        "z": "星图连线"
+      },
+      {
+        "t": "energy ribbons",
+        "z": "流光能量飘带"
+      },
+      {
+        "t": "glass shards",
+        "z": "飞溅玻璃碎片"
+      },
+      {
+        "t": "floating water",
+        "z": "悬浮水球水带"
+      },
+      {
+        "t": "sakura storm",
+        "z": "樱吹雪",
+        "z2": "漫天樱花瓣"
+      },
+      {
+        "t": "aurora ribbons",
+        "z": "极光流带"
+      },
+      {
+        "t": "halo glow",
+        "z": "圣洁光晕"
+      },
+      {
+        "t": "blood splatter",
+        "z": "血迹飞溅"
+      },
+      {
+        "t": "bullet time",
+        "z": "子弹时间"
+      },
+      {
+        "t": "ghostly wisps",
+        "z": "幽魂轻烟"
+      },
+      {
+        "t": "digital rain",
+        "z": "数字雨"
+      },
+      {
+        "t": "sparkle trail",
+        "z": "闪烁拖尾"
+      },
+      {
+        "t": "glowing butterflies",
+        "z": "发光蝴蝶"
+      },
+      {
+        "t": "holy aura",
+        "z": "圣辉环绕"
+      }
+    ]
+  },
+  "_note": "画面特效与粒子元素",
+  "order": [
+    "画质",
+    "人物",
+    "身体",
+    "表情",
+    "动作",
+    "服饰",
+    "材质",
+    "道具",
+    "食物",
+    "动物",
+    "场景",
+    "天气",
+    "时间",
+    "特效",
+    "光照",
+    "色调",
+    "摄影",
+    "画风",
+    "氛围",
+    "题材",
+    "NSFW·身体",
+    "NSFW·行为",
+    "NSFW·特殊",
+    "写实负面",
+    "负面"
+  ]
+}

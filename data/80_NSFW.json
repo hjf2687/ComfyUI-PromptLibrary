@@ -1,0 +1,1076 @@
+{
+  "order": [
+    "画质",
+    "人物",
+    "身体",
+    "表情",
+    "动作",
+    "服饰",
+    "材质",
+    "道具",
+    "食物",
+    "动物",
+    "场景",
+    "天气",
+    "时间",
+    "特效",
+    "光照",
+    "色调",
+    "摄影",
+    "画风",
+    "氛围",
+    "题材",
+    "NSFW·身体",
+    "NSFW·行为",
+    "NSFW·特殊",
+    "写实负面",
+    "负面"
+  ],
+  "tags": {
+    "NSFW·身体": [
+      {
+        "t": "nude",
+        "z": "裸体"
+      },
+      {
+        "t": "topless",
+        "z": "上身裸露"
+      },
+      {
+        "t": "bottomless",
+        "z": "下身裸露"
+      },
+      {
+        "t": "fully nude",
+        "z": "完全裸体"
+      },
+      {
+        "t": "partially clothed",
+        "z": "半着衣"
+      },
+      {
+        "t": "partially undressed",
+        "z": "衣衫半解"
+      },
+      {
+        "t": "exposed breasts",
+        "z": "裸露胸部"
+      },
+      {
+        "t": "stripping",
+        "z": "脱衣中"
+      },
+      {
+        "t": "undressing",
+        "z": "宽衣解带"
+      },
+      {
+        "t": "taking off clothes",
+        "z": "脱下衣物"
+      },
+      {
+        "t": "removing bra",
+        "z": "解开胸衣"
+      },
+      {
+        "t": "removing panties",
+        "z": "褪下内裤"
+      },
+      {
+        "t": "exhibitionism",
+        "z": "露出"
+      },
+      {
+        "t": "flashing",
+        "z": "露胸走光"
+      },
+      {
+        "t": "upskirt",
+        "z": "裙底风光"
+      },
+      {
+        "t": "downblouse",
+        "z": "俯视春光"
+      },
+      {
+        "t": "clothes lift",
+        "z": "掀起衣服"
+      },
+      {
+        "t": "skirt lift",
+        "z": "掀裙"
+      },
+      {
+        "t": "shirt lift",
+        "z": "撩衣"
+      },
+      {
+        "t": "panties pulled aside",
+        "z": "内裤拨开"
+      },
+      {
+        "t": "panties down",
+        "z": "内裤半褪"
+      },
+      {
+        "t": "no panties",
+        "z": "真空（无内裤）"
+      },
+      {
+        "t": "no bra",
+        "z": "真空（无胸罩）"
+      },
+      {
+        "t": "torn panties",
+        "z": "撕破的内裤"
+      },
+      {
+        "t": "wet panties",
+        "z": "湿透内裤"
+      },
+      {
+        "t": "pants down",
+        "z": "裤子褪下"
+      },
+      {
+        "t": "mooning",
+        "z": "露臀"
+      },
+      {
+        "t": "naked in public",
+        "z": "当众裸露"
+      },
+      {
+        "t": "nude outdoors",
+        "z": "户外裸体"
+      },
+      {
+        "t": "strip tease",
+        "z": "脱衣舞"
+      },
+      {
+        "t": "seductive pose",
+        "z": "魅惑姿态"
+      },
+      {
+        "t": "censored",
+        "z": "打码"
+      },
+      {
+        "t": "bar censor",
+        "z": "黑条遮挡"
+      },
+      {
+        "t": "mosaic censoring",
+        "z": "马赛克"
+      },
+      {
+        "t": "convenient censoring",
+        "z": "巧合遮挡"
+      },
+      {
+        "t": "light censoring",
+        "z": "轻打码"
+      },
+      {
+        "t": "uncensored",
+        "z": "无码",
+        "z2": "无修正"
+      },
+      {
+        "t": "nipple slip",
+        "z": "走光露点"
+      },
+      {
+        "t": "pantyshot",
+        "z": "走光内裤"
+      },
+      {
+        "t": "spread legs",
+        "z": "张开双腿（成人向）"
+      },
+      {
+        "t": "m-legs",
+        "z": "M字开腿"
+      },
+      {
+        "t": "arched back",
+        "z": "弓背挺腰"
+      },
+      {
+        "t": "cameltoe",
+        "z": "紧身衣勒痕"
+      },
+      {
+        "t": "pubic tattoo",
+        "z": "耻骨纹身"
+      },
+      {
+        "t": "womb tattoo",
+        "z": "小腹淫纹",
+        "z2": "魅魔纹"
+      },
+      {
+        "t": "implied nudity",
+        "z": "暗示性裸露"
+      },
+      {
+        "t": "artistic nude",
+        "z": "艺术裸体"
+      },
+      {
+        "t": "bare hips",
+        "z": "裸露胯部"
+      },
+      {
+        "t": "sheet draped over hips",
+        "z": "床单搭在胯间"
+      },
+      {
+        "t": "hair covering chest",
+        "z": "长发遮胸"
+      },
+      {
+        "t": "hands covering chest",
+        "z": "双手遮胸"
+      },
+      {
+        "t": "pussy",
+        "z": "阴部"
+      },
+      {
+        "t": "wet pussy",
+        "z": "湿润阴部"
+      },
+      {
+        "t": "pussy juice",
+        "z": "爱液"
+      },
+      {
+        "t": "clitoris",
+        "z": "阴蒂"
+      },
+      {
+        "t": "labia",
+        "z": "阴唇"
+      },
+      {
+        "t": "pussy peek",
+        "z": "微露私处"
+      },
+      {
+        "t": "spread pussy",
+        "z": "掰开阴部"
+      },
+      {
+        "t": "penis",
+        "z": "阴茎"
+      },
+      {
+        "t": "erection",
+        "z": "勃起"
+      },
+      {
+        "t": "testicles",
+        "z": "睾丸"
+      },
+      {
+        "t": "large areolae",
+        "z": "大乳晕"
+      },
+      {
+        "t": "inverted nipples",
+        "z": "凹陷乳头"
+      },
+      {
+        "t": "breast squeeze",
+        "z": "挤胸捏胸"
+      },
+      {
+        "t": "hanging breasts",
+        "z": "下垂双乳"
+      },
+      {
+        "t": "bouncing breasts",
+        "z": "晃动双乳"
+      },
+      {
+        "t": "armpit fetish",
+        "z": "恋腋特写"
+      },
+      {
+        "t": "foot fetish",
+        "z": "恋足特写"
+      },
+      {
+        "t": "landing strip",
+        "z": "细条阴毛"
+      },
+      {
+        "t": "bush",
+        "z": "浓密阴毛"
+      },
+      {
+        "t": "visible nipples through clothes",
+        "z": "衣下凸点"
+      }
+    ],
+    "NSFW·行为": [
+      {
+        "t": "ahegao",
+        "z": "阿黑颜"
+      },
+      {
+        "t": "lustful",
+        "z": "欲火中烧"
+      },
+      {
+        "t": "aroused",
+        "z": "情动"
+      },
+      {
+        "t": "panting",
+        "z": "喘息"
+      },
+      {
+        "t": "heavy breathing",
+        "z": "粗重呼吸"
+      },
+      {
+        "t": "sex",
+        "z": "性爱"
+      },
+      {
+        "t": "intercourse",
+        "z": "交合"
+      },
+      {
+        "t": "missionary position",
+        "z": "传教士式"
+      },
+      {
+        "t": "cowgirl position",
+        "z": "骑乘式"
+      },
+      {
+        "t": "reverse cowgirl position",
+        "z": "背坐骑乘式"
+      },
+      {
+        "t": "doggy style",
+        "z": "后入式"
+      },
+      {
+        "t": "spooning",
+        "z": "侧躺相拥式"
+      },
+      {
+        "t": "sixty-nine",
+        "z": "69体位"
+      },
+      {
+        "t": "scissoring",
+        "z": "剪刀式"
+      },
+      {
+        "t": "grinding",
+        "z": "磨蹭"
+      },
+      {
+        "t": "humping",
+        "z": "顶撞"
+      },
+      {
+        "t": "thrusting",
+        "z": "挺动"
+      },
+      {
+        "t": "riding",
+        "z": "骑跨"
+      },
+      {
+        "t": "sex on bed",
+        "z": "床上性爱"
+      },
+      {
+        "t": "sex against wall",
+        "z": "抵墙性爱"
+      },
+      {
+        "t": "sex in shower",
+        "z": "浴室性爱"
+      },
+      {
+        "t": "sex on desk",
+        "z": "桌案性爱"
+      },
+      {
+        "t": "sex standing",
+        "z": "站立性爱"
+      },
+      {
+        "t": "mating press",
+        "z": "种付压",
+        "z2": "抬腿深入"
+      },
+      {
+        "t": "prone bone",
+        "z": "俯卧后入"
+      },
+      {
+        "t": "suspended congress",
+        "z": "站立抱起交合",
+        "z2": "火车便当"
+      },
+      {
+        "t": "full nelson",
+        "z": "双腿架肩体位"
+      },
+      {
+        "t": "amazon position",
+        "z": "女上反压体位"
+      },
+      {
+        "t": "spitroast",
+        "z": "前后夹击"
+      },
+      {
+        "t": "anal",
+        "z": "肛交"
+      },
+      {
+        "t": "making out",
+        "z": "缠绵热吻"
+      },
+      {
+        "t": "french kiss",
+        "z": "法式舌吻"
+      },
+      {
+        "t": "fellatio",
+        "z": "口交",
+        "z2": "吹箫"
+      },
+      {
+        "t": "oral",
+        "z": "口爱"
+      },
+      {
+        "t": "cunnilingus",
+        "z": "舔阴"
+      },
+      {
+        "t": "deep throat",
+        "z": "深喉"
+      },
+      {
+        "t": "face sitting",
+        "z": "骑脸"
+      },
+      {
+        "t": "smothering",
+        "z": "颜压"
+      },
+      {
+        "t": "licking",
+        "z": "舔弄"
+      },
+      {
+        "t": "sucking",
+        "z": "吮吸"
+      },
+      {
+        "t": "finger sucking",
+        "z": "吮指"
+      },
+      {
+        "t": "gagging",
+        "z": "作呕含入"
+      },
+      {
+        "t": "anilingus",
+        "z": "舔肛"
+      },
+      {
+        "t": "foot worship",
+        "z": "舔足侍奉"
+      },
+      {
+        "t": "armpit licking",
+        "z": "舔腋"
+      },
+      {
+        "t": "ear licking",
+        "z": "舔耳"
+      },
+      {
+        "t": "breast sucking",
+        "z": "吮乳"
+      },
+      {
+        "t": "nipple licking",
+        "z": "舔乳头"
+      },
+      {
+        "t": "saliva",
+        "z": "津液"
+      },
+      {
+        "t": "handjob",
+        "z": "手活"
+      },
+      {
+        "t": "masturbation",
+        "z": "自慰"
+      },
+      {
+        "t": "fondling",
+        "z": "爱抚"
+      },
+      {
+        "t": "fingering",
+        "z": "指交"
+      },
+      {
+        "t": "clit play",
+        "z": "阴蒂爱抚"
+      },
+      {
+        "t": "nipple play",
+        "z": "乳头爱抚"
+      },
+      {
+        "t": "breast grab",
+        "z": "抓胸"
+      },
+      {
+        "t": "breast fondling",
+        "z": "揉胸"
+      },
+      {
+        "t": "hand under skirt",
+        "z": "手探裙下"
+      },
+      {
+        "t": "hand in pants",
+        "z": "手探裤中"
+      },
+      {
+        "t": "hand on crotch",
+        "z": "手按胯间"
+      },
+      {
+        "t": "crotch grab",
+        "z": "抓胯"
+      },
+      {
+        "t": "groping",
+        "z": "摸索揉捏"
+      },
+      {
+        "t": "ass grab",
+        "z": "抓臀揉屁股"
+      },
+      {
+        "t": "teasing",
+        "z": "挑逗"
+      },
+      {
+        "t": "male masturbation",
+        "z": "男性自慰"
+      },
+      {
+        "t": "self-fondling",
+        "z": "自摸"
+      },
+      {
+        "t": "straddling",
+        "z": "跨坐身上"
+      },
+      {
+        "t": "pressing breasts together",
+        "z": "挤压双峰"
+      },
+      {
+        "t": "paizuri",
+        "z": "乳交",
+        "z2": "夹胸 / titfuck"
+      },
+      {
+        "t": "footjob",
+        "z": "足交"
+      },
+      {
+        "t": "thighjob",
+        "z": "腿交/素股"
+      },
+      {
+        "t": "buttjob",
+        "z": "臀交"
+      },
+      {
+        "t": "hairjob",
+        "z": "发交"
+      },
+      {
+        "t": "frottage",
+        "z": "摩擦爱抚"
+      },
+      {
+        "t": "orgasm",
+        "z": "高潮",
+        "z2": "巅峰失神"
+      },
+      {
+        "t": "fucked silly",
+        "z": "高潮失神呆滞"
+      },
+      {
+        "t": "trembling",
+        "z": "颤抖"
+      },
+      {
+        "t": "mutual masturbation",
+        "z": "相互自慰"
+      },
+      {
+        "t": "mutual oral sex",
+        "z": "相互口交"
+      },
+      {
+        "t": "standing face-to-face position",
+        "z": "面对面站姿"
+      },
+      {
+        "t": "side-lying face-to-face position",
+        "z": "面对面侧卧体位"
+      },
+      {
+        "t": "seated face-to-face position",
+        "z": "面对面坐姿体位"
+      },
+      {
+        "t": "pulling a partner closer by the waist",
+        "z": "搂住伴侣的腰拉近"
+      },
+      {
+        "t": "mutual undressing",
+        "z": "为彼此宽衣"
+      },
+      {
+        "t": "undressing partner",
+        "z": "替伴侣宽衣"
+      },
+      {
+        "t": "grinding on lap",
+        "z": "跨坐磨蹭"
+      },
+      {
+        "t": "implied fellatio",
+        "z": "暗示口交"
+      }
+    ],
+    "NSFW·特殊": [
+      {
+        "t": "bondage",
+        "z": "绳缚"
+      },
+      {
+        "t": "rope bondage",
+        "z": "绳索束缚"
+      },
+      {
+        "t": "shibari",
+        "z": "日式绑缚"
+      },
+      {
+        "t": "kinbaku",
+        "z": "紧缚"
+      },
+      {
+        "t": "bondage ropes",
+        "z": "束缚绳"
+      },
+      {
+        "t": "collar",
+        "z": "项圈"
+      },
+      {
+        "t": "leash",
+        "z": "牵绳"
+      },
+      {
+        "t": "handcuffs",
+        "z": "手铐"
+      },
+      {
+        "t": "restraints",
+        "z": "拘束具"
+      },
+      {
+        "t": "straitjacket",
+        "z": "拘束衣"
+      },
+      {
+        "t": "blindfold",
+        "z": "蒙眼布"
+      },
+      {
+        "t": "gag",
+        "z": "口塞"
+      },
+      {
+        "t": "ball gag",
+        "z": "口球"
+      },
+      {
+        "t": "nipple clamps",
+        "z": "乳头夹"
+      },
+      {
+        "t": "chains",
+        "z": "锁链"
+      },
+      {
+        "t": "spreader bar",
+        "z": "分腿棒"
+      },
+      {
+        "t": "hogtie",
+        "z": "四蹄捆绑"
+      },
+      {
+        "t": "suspension bondage",
+        "z": "悬吊缚"
+      },
+      {
+        "t": "spread eagle",
+        "z": "大字缚"
+      },
+      {
+        "t": "cuffed",
+        "z": "被铐"
+      },
+      {
+        "t": "chained",
+        "z": "被锁"
+      },
+      {
+        "t": "caged",
+        "z": "笼中囚禁"
+      },
+      {
+        "t": "petplay",
+        "z": "宠物扮演"
+      },
+      {
+        "t": "femdom",
+        "z": "女尊主导"
+      },
+      {
+        "t": "dominant",
+        "z": "支配方"
+      },
+      {
+        "t": "submissive",
+        "z": "顺从方"
+      },
+      {
+        "t": "spanking",
+        "z": "打臀"
+      },
+      {
+        "t": "whipping",
+        "z": "鞭笞"
+      },
+      {
+        "t": "riding crop",
+        "z": "马鞭"
+      },
+      {
+        "t": "cum",
+        "z": "精液"
+      },
+      {
+        "t": "cumshot",
+        "z": "射精"
+      },
+      {
+        "t": "facial",
+        "z": "颜射",
+        "z2": "脸上射精"
+      },
+      {
+        "t": "cum in mouth",
+        "z": "口内含精"
+      },
+      {
+        "t": "cum on breasts",
+        "z": "乳上射精"
+      },
+      {
+        "t": "cum on stomach",
+        "z": "腹上射精"
+      },
+      {
+        "t": "cum on back",
+        "z": "背上射精"
+      },
+      {
+        "t": "cum on butt",
+        "z": "臀上射精"
+      },
+      {
+        "t": "creampie",
+        "z": "内射"
+      },
+      {
+        "t": "cumdrip",
+        "z": "精液滴落"
+      },
+      {
+        "t": "cum pool",
+        "z": "精液积潭"
+      },
+      {
+        "t": "bukkake",
+        "z": "颜浴群射"
+      },
+      {
+        "t": "excessive cum",
+        "z": "大量精液"
+      },
+      {
+        "t": "x-ray",
+        "z": "透视断面"
+      },
+      {
+        "t": "cross-section",
+        "z": "内部剖面"
+      },
+      {
+        "t": "squirting",
+        "z": "潮吹"
+      },
+      {
+        "t": "lactation",
+        "z": "泌乳"
+      },
+      {
+        "t": "breast milk",
+        "z": "乳汁"
+      },
+      {
+        "t": "pregnant",
+        "z": "怀孕"
+      },
+      {
+        "t": "group sex",
+        "z": "群交"
+      },
+      {
+        "t": "threesome",
+        "z": "三人行"
+      },
+      {
+        "t": "foursome",
+        "z": "四人行"
+      },
+      {
+        "t": "orgy",
+        "z": "群体狂欢"
+      },
+      {
+        "t": "yuri",
+        "z": "百合",
+        "z2": "女同"
+      },
+      {
+        "t": "yaoi",
+        "z": "耽美"
+      },
+      {
+        "t": "bara",
+        "z": "兄贵"
+      },
+      {
+        "t": "futanari",
+        "z": "扶她"
+      },
+      {
+        "t": "futanari on female",
+        "z": "扶她压女"
+      },
+      {
+        "t": "tentacles",
+        "z": "触手"
+      },
+      {
+        "t": "tentacle sex",
+        "z": "触手性爱"
+      },
+      {
+        "t": "monster girl",
+        "z": "魔物娘"
+      },
+      {
+        "t": "multiple partners",
+        "z": "多人伴侣"
+      },
+      {
+        "t": "harem",
+        "z": "后宫"
+      },
+      {
+        "t": "reverse harem",
+        "z": "逆后宫"
+      },
+      {
+        "t": "netorare",
+        "z": "NTR"
+      },
+      {
+        "t": "voyeurism",
+        "z": "偷窥"
+      },
+      {
+        "t": "bdsm",
+        "z": "BDSM"
+      },
+      {
+        "t": "leather harness",
+        "z": "皮革束缚带"
+      },
+      {
+        "t": "o-ring gag",
+        "z": "O型口环"
+      },
+      {
+        "t": "vibrator",
+        "z": "跳蛋/按摩棒"
+      },
+      {
+        "t": "sex toy",
+        "z": "情趣玩具"
+      },
+      {
+        "t": "dildo",
+        "z": "假阳具"
+      },
+      {
+        "t": "anal beads",
+        "z": "肛珠"
+      },
+      {
+        "t": "remote control vibrator",
+        "z": "遥控跳蛋"
+      },
+      {
+        "t": "aphrodisiac",
+        "z": "催情药效"
+      },
+      {
+        "t": "love potion",
+        "z": "魅惑药水"
+      },
+      {
+        "t": "mind break",
+        "z": "精神崩溃",
+        "z2": "坏掉"
+      },
+      {
+        "t": "corruption",
+        "z": "堕落",
+        "z2": "恶堕"
+      },
+      {
+        "t": "hypnosis",
+        "z": "催眠"
+      },
+      {
+        "t": "time stop",
+        "z": "时停"
+      },
+      {
+        "t": "consenting adult couple",
+        "z": "自愿亲密的成年伴侣"
+      },
+      {
+        "t": "backlit nude silhouette",
+        "z": "逆光裸体剪影"
+      },
+      {
+        "t": "silk ribbon wrist cuffs",
+        "z": "丝带腕铐"
+      },
+      {
+        "t": "padded wrist cuffs",
+        "z": "软垫腕铐"
+      },
+      {
+        "t": "blanket-wrapped aftercare",
+        "z": "裹毯安抚"
+      },
+      {
+        "t": "consensual adult roleplay",
+        "z": "成年人自愿角色扮演"
+      },
+      {
+        "t": "arm binder",
+        "z": "臂套束缚"
+      },
+      {
+        "t": "box tie",
+        "z": "箱缚"
+      },
+      {
+        "t": "frogtie",
+        "z": "蛙缚"
+      },
+      {
+        "t": "wall bondage",
+        "z": "壁缚"
+      },
+      {
+        "t": "candle wax play",
+        "z": "蜡滴挑逗"
+      },
+      {
+        "t": "ice play",
+        "z": "冰敷挑逗"
+      },
+      {
+        "t": "feather tickler",
+        "z": "羽毛挑逗"
+      },
+      {
+        "t": "chastity belt",
+        "z": "贞操带"
+      },
+      {
+        "t": "orgasm denial",
+        "z": "高潮控制"
+      },
+      {
+        "t": "edging",
+        "z": "边缘控制"
+      },
+      {
+        "t": "cat o' nine tails",
+        "z": "九尾鞭"
+      },
+      {
+        "t": "pillory",
+        "z": "枷锁示众"
+      },
+      {
+        "t": "strap-on",
+        "z": "穿戴式假阳具"
+      },
+      {
+        "t": "milking machine",
+        "z": "榨乳机"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1584 @@
+{
+  "order": [
+    "画质",
+    "人物",
+    "身体",
+    "表情",
+    "动作",
+    "服饰",
+    "材质",
+    "道具",
+    "食物",
+    "动物",
+    "场景",
+    "天气",
+    "时间",
+    "特效",
+    "光照",
+    "色调",
+    "摄影",
+    "画风",
+    "氛围",
+    "题材",
+    "NSFW·身体",
+    "NSFW·行为",
+    "NSFW·特殊",
+    "写实负面",
+    "负面"
+  ],
+  "tags": {
+    "道具": [
+      {
+        "t": "sword",
+        "z": "剑"
+      },
+      {
+        "t": "katana",
+        "z": "太刀"
+      },
+      {
+        "t": "dagger",
+        "z": "匕首"
+      },
+      {
+        "t": "spear",
+        "z": "长矛"
+      },
+      {
+        "t": "staff",
+        "z": "法杖"
+      },
+      {
+        "t": "magic wand",
+        "z": "魔法棒"
+      },
+      {
+        "t": "bow and arrow",
+        "z": "弓箭"
+      },
+      {
+        "t": "crossbow",
+        "z": "弩"
+      },
+      {
+        "t": "shield",
+        "z": "盾牌"
+      },
+      {
+        "t": "gun",
+        "z": "枪"
+      },
+      {
+        "t": "pistol",
+        "z": "手枪"
+      },
+      {
+        "t": "rifle",
+        "z": "步枪"
+      },
+      {
+        "t": "knife",
+        "z": "小刀"
+      },
+      {
+        "t": "axe",
+        "z": "战斧"
+      },
+      {
+        "t": "hammer",
+        "z": "锤子"
+      },
+      {
+        "t": "guitar",
+        "z": "吉他"
+      },
+      {
+        "t": "electric guitar",
+        "z": "电吉他"
+      },
+      {
+        "t": "piano",
+        "z": "钢琴"
+      },
+      {
+        "t": "violin",
+        "z": "小提琴"
+      },
+      {
+        "t": "flute",
+        "z": "长笛"
+      },
+      {
+        "t": "trumpet",
+        "z": "小号"
+      },
+      {
+        "t": "drum",
+        "z": "鼓"
+      },
+      {
+        "t": "camera",
+        "z": "相机"
+      },
+      {
+        "t": "smartphone",
+        "z": "手机"
+      },
+      {
+        "t": "laptop",
+        "z": "笔记本电脑"
+      },
+      {
+        "t": "tablet",
+        "z": "平板电脑"
+      },
+      {
+        "t": "earbuds",
+        "z": "入耳式耳机"
+      },
+      {
+        "t": "microphone",
+        "z": "麦克风"
+      },
+      {
+        "t": "book",
+        "z": "书本"
+      },
+      {
+        "t": "notebook",
+        "z": "笔记本"
+      },
+      {
+        "t": "pen",
+        "z": "钢笔"
+      },
+      {
+        "t": "pencil",
+        "z": "铅笔"
+      },
+      {
+        "t": "paintbrush",
+        "z": "画笔"
+      },
+      {
+        "t": "palette",
+        "z": "调色盘"
+      },
+      {
+        "t": "quill",
+        "z": "羽毛笔"
+      },
+      {
+        "t": "ink brush",
+        "z": "毛笔"
+      },
+      {
+        "t": "scroll",
+        "z": "卷轴"
+      },
+      {
+        "t": "map",
+        "z": "地图"
+      },
+      {
+        "t": "compass",
+        "z": "指南针"
+      },
+      {
+        "t": "magnifying glass",
+        "z": "放大镜"
+      },
+      {
+        "t": "umbrella",
+        "z": "雨伞"
+      },
+      {
+        "t": "parasol",
+        "z": "阳伞"
+      },
+      {
+        "t": "handheld fan",
+        "z": "折扇"
+      },
+      {
+        "t": "uchiwa fan",
+        "z": "团扇"
+      },
+      {
+        "t": "skateboard",
+        "z": "滑板"
+      },
+      {
+        "t": "bicycle",
+        "z": "自行车"
+      },
+      {
+        "t": "backpack",
+        "z": "双肩包"
+      },
+      {
+        "t": "handbag",
+        "z": "手提包"
+      },
+      {
+        "t": "suitcase",
+        "z": "行李箱"
+      },
+      {
+        "t": "shopping bag",
+        "z": "购物袋"
+      },
+      {
+        "t": "briefcase",
+        "z": "公文包"
+      },
+      {
+        "t": "key",
+        "z": "钥匙"
+      },
+      {
+        "t": "padlock",
+        "z": "挂锁"
+      },
+      {
+        "t": "bell",
+        "z": "铃铛"
+      },
+      {
+        "t": "gift box",
+        "z": "礼盒"
+      },
+      {
+        "t": "stethoscope",
+        "z": "听诊器"
+      },
+      {
+        "t": "clipboard",
+        "z": "写字板"
+      },
+      {
+        "t": "teddy bear",
+        "z": "泰迪熊"
+      },
+      {
+        "t": "plushie",
+        "z": "毛绒玩偶"
+      },
+      {
+        "t": "pillow",
+        "z": "枕头"
+      },
+      {
+        "t": "blanket",
+        "z": "毯子"
+      },
+      {
+        "t": "cushion",
+        "z": "抱枕"
+      },
+      {
+        "t": "balloon",
+        "z": "气球"
+      },
+      {
+        "t": "kite",
+        "z": "风筝"
+      },
+      {
+        "t": "origami",
+        "z": "折纸"
+      },
+      {
+        "t": "playing cards",
+        "z": "扑克牌"
+      },
+      {
+        "t": "dice",
+        "z": "骰子"
+      },
+      {
+        "t": "sparkler",
+        "z": "仙女棒"
+      },
+      {
+        "t": "seashell",
+        "z": "贝壳"
+      },
+      {
+        "t": "tea cup",
+        "z": "茶杯"
+      },
+      {
+        "t": "coffee cup",
+        "z": "咖啡杯"
+      },
+      {
+        "t": "mug",
+        "z": "马克杯"
+      },
+      {
+        "t": "wine glass",
+        "z": "高脚杯"
+      },
+      {
+        "t": "scythe",
+        "z": "镰刀"
+      },
+      {
+        "t": "whip",
+        "z": "鞭子"
+      },
+      {
+        "t": "greatsword",
+        "z": "双手大剑"
+      },
+      {
+        "t": "rapier",
+        "z": "细剑/西洋剑"
+      },
+      {
+        "t": "katana scabbard",
+        "z": "太刀刀鞘"
+      },
+      {
+        "t": "grimoire",
+        "z": "魔法魔导书",
+        "z2": "魔法书"
+      },
+      {
+        "t": "crystal ball",
+        "z": "水晶球"
+      },
+      {
+        "t": "potion bottle",
+        "z": "药水瓶"
+      },
+      {
+        "t": "oil lamp",
+        "z": "煤油灯/提灯"
+      },
+      {
+        "t": "paper lantern",
+        "z": "纸灯笼"
+      },
+      {
+        "t": "candle",
+        "z": "蜡烛"
+      },
+      {
+        "t": "chandelier",
+        "z": "水晶吊灯"
+      },
+      {
+        "t": "hand mirror",
+        "z": "手持化妆镜"
+      },
+      {
+        "t": "pocket watch",
+        "z": "怀表"
+      },
+      {
+        "t": "hourglass",
+        "z": "沙漏"
+      },
+      {
+        "t": "vintage camera",
+        "z": "复古胶片相机"
+      },
+      {
+        "t": "instant camera",
+        "z": "拍立得相机"
+      },
+      {
+        "t": "vinyl record",
+        "z": "黑胶唱片"
+      },
+      {
+        "t": "turntable",
+        "z": "黑胶唱机"
+      },
+      {
+        "t": "cello",
+        "z": "大提琴"
+      },
+      {
+        "t": "harp",
+        "z": "竖琴"
+      },
+      {
+        "t": "saxophone",
+        "z": "萨克斯风"
+      },
+      {
+        "t": "acoustic guitar",
+        "z": "木吉他"
+      },
+      {
+        "t": "surfboard",
+        "z": "冲浪板"
+      },
+      {
+        "t": "motorcycle",
+        "z": "摩托车"
+      },
+      {
+        "t": "sports car",
+        "z": "跑车"
+      },
+      {
+        "t": "vintage car",
+        "z": "老爷车"
+      },
+      {
+        "t": "tote bag",
+        "z": "帆布托特包"
+      },
+      {
+        "t": "messenger bag",
+        "z": "邮差单肩包"
+      },
+      {
+        "t": "transparent umbrella",
+        "z": "透明雨伞"
+      },
+      {
+        "t": "paper umbrella",
+        "z": "油纸伞",
+        "z2": "古风油纸伞"
+      },
+      {
+        "t": "teacup and saucer",
+        "z": "茶杯与碟"
+      },
+      {
+        "t": "teapot",
+        "z": "茶壶"
+      },
+      {
+        "t": "wine bottle",
+        "z": "红酒瓶"
+      },
+      {
+        "t": "cocktail glass",
+        "z": "鸡尾酒杯"
+      },
+      {
+        "t": "dried flowers",
+        "z": "干花花束"
+      },
+      {
+        "t": "flower wreath",
+        "z": "花环"
+      },
+      {
+        "t": "easel",
+        "z": "画架"
+      },
+      {
+        "t": "sketchbook",
+        "z": "速写本"
+      },
+      {
+        "t": "typewriter",
+        "z": "复古打字机"
+      },
+      {
+        "t": "vintage telephone",
+        "z": "老式拨盘电话"
+      },
+      {
+        "t": "crt monitor",
+        "z": "CRT显像管显示器"
+      },
+      {
+        "t": "hologram screen",
+        "z": "全息投影屏幕"
+      },
+      {
+        "t": "chessboard",
+        "z": "国际象棋盘"
+      },
+      {
+        "t": "tarot cards",
+        "z": "塔罗牌"
+      },
+      {
+        "t": "telescope",
+        "z": "天文望远镜"
+      },
+      {
+        "t": "treasure chest",
+        "z": "宝箱"
+      },
+      {
+        "t": "vase",
+        "z": "花瓶"
+      },
+      {
+        "t": "picture frame",
+        "z": "相框"
+      },
+      {
+        "t": "wall clock",
+        "z": "挂钟"
+      },
+      {
+        "t": "bowl",
+        "z": "碗"
+      },
+      {
+        "t": "chopsticks",
+        "z": "筷子"
+      },
+      {
+        "t": "fork and knife",
+        "z": "刀叉"
+      },
+      {
+        "t": "picnic basket",
+        "z": "野餐篮"
+      },
+      {
+        "t": "picnic blanket",
+        "z": "野餐毯"
+      },
+      {
+        "t": "birthday cake",
+        "z": "生日蛋糕"
+      },
+      {
+        "t": "party hat",
+        "z": "派对帽"
+      },
+      {
+        "t": "ring box",
+        "z": "戒指盒"
+      },
+      {
+        "t": "love letter",
+        "z": "情书"
+      },
+      {
+        "t": "envelope",
+        "z": "信封"
+      },
+      {
+        "t": "diary",
+        "z": "日记本"
+      },
+      {
+        "t": "photo album",
+        "z": "相册"
+      },
+      {
+        "t": "polaroid photo",
+        "z": "拍立得照片"
+      },
+      {
+        "t": "helmet",
+        "z": "头盔"
+      },
+      {
+        "t": "folding screen",
+        "z": "屏风"
+      },
+      {
+        "t": "incense burner",
+        "z": "香炉"
+      },
+      {
+        "t": "prayer beads",
+        "z": "念珠"
+      },
+      {
+        "t": "omikuji",
+        "z": "御神签"
+      },
+      {
+        "t": "ema",
+        "z": "绘马"
+      },
+      {
+        "t": "wind chime",
+        "z": "风铃"
+      },
+      {
+        "t": "feather fan concealment",
+        "z": "羽毛扇遮挡"
+      }
+    ],
+    "食物": [
+      {
+        "t": "cake",
+        "z": "蛋糕"
+      },
+      {
+        "t": "cupcake",
+        "z": "纸杯蛋糕"
+      },
+      {
+        "t": "ice cream",
+        "z": "冰淇淋"
+      },
+      {
+        "t": "cotton candy",
+        "z": "棉花糖"
+      },
+      {
+        "t": "dango",
+        "z": "团子"
+      },
+      {
+        "t": "onigiri",
+        "z": "饭团"
+      },
+      {
+        "t": "ramen",
+        "z": "拉面"
+      },
+      {
+        "t": "sushi",
+        "z": "寿司"
+      },
+      {
+        "t": "bento",
+        "z": "便当"
+      },
+      {
+        "t": "pizza",
+        "z": "披萨"
+      },
+      {
+        "t": "hamburger",
+        "z": "汉堡"
+      },
+      {
+        "t": "donut",
+        "z": "甜甜圈"
+      },
+      {
+        "t": "cookie",
+        "z": "曲奇"
+      },
+      {
+        "t": "chocolate",
+        "z": "巧克力"
+      },
+      {
+        "t": "candy",
+        "z": "糖果"
+      },
+      {
+        "t": "apple",
+        "z": "苹果"
+      },
+      {
+        "t": "strawberry",
+        "z": "草莓"
+      },
+      {
+        "t": "cherry",
+        "z": "樱桃"
+      },
+      {
+        "t": "watermelon",
+        "z": "西瓜"
+      },
+      {
+        "t": "grapes",
+        "z": "葡萄"
+      },
+      {
+        "t": "orange",
+        "z": "橙子"
+      },
+      {
+        "t": "lemon",
+        "z": "柠檬"
+      },
+      {
+        "t": "bread",
+        "z": "面包"
+      },
+      {
+        "t": "pancake",
+        "z": "松饼"
+      },
+      {
+        "t": "macaron",
+        "z": "马卡龙"
+      },
+      {
+        "t": "bubble tea",
+        "z": "珍珠奶茶"
+      },
+      {
+        "t": "coffee",
+        "z": "咖啡"
+      },
+      {
+        "t": "latte art",
+        "z": "咖啡拉花"
+      },
+      {
+        "t": "iced coffee",
+        "z": "冰美式/冰咖啡"
+      },
+      {
+        "t": "matcha latte",
+        "z": "抹茶拿铁"
+      },
+      {
+        "t": "hot chocolate",
+        "z": "热可可"
+      },
+      {
+        "t": "green tea",
+        "z": "绿茶"
+      },
+      {
+        "t": "black tea",
+        "z": "红茶"
+      },
+      {
+        "t": "lemonade",
+        "z": "柠檬苏打水"
+      },
+      {
+        "t": "smoothie",
+        "z": "水果冰沙"
+      },
+      {
+        "t": "cocktail",
+        "z": "鸡尾酒"
+      },
+      {
+        "t": "wine",
+        "z": "葡萄酒"
+      },
+      {
+        "t": "beer",
+        "z": "啤酒"
+      },
+      {
+        "t": "sake",
+        "z": "清酒"
+      },
+      {
+        "t": "strawberry shortcake",
+        "z": "草莓奶油蛋糕"
+      },
+      {
+        "t": "cheesecake",
+        "z": "芝士蛋糕"
+      },
+      {
+        "t": "chocolate cake",
+        "z": "巧克力蛋糕"
+      },
+      {
+        "t": "tiramisu",
+        "z": "提拉米苏"
+      },
+      {
+        "t": "crepe",
+        "z": "可丽饼"
+      },
+      {
+        "t": "waffle",
+        "z": "华夫饼"
+      },
+      {
+        "t": "croissant",
+        "z": "牛角可颂面包"
+      },
+      {
+        "t": "baguette",
+        "z": "法棍面包"
+      },
+      {
+        "t": "toast",
+        "z": "吐司面包"
+      },
+      {
+        "t": "sandwich",
+        "z": "三明治"
+      },
+      {
+        "t": "french fries",
+        "z": "薯条"
+      },
+      {
+        "t": "steak",
+        "z": "牛排"
+      },
+      {
+        "t": "pasta",
+        "z": "意大利面"
+      },
+      {
+        "t": "curry rice",
+        "z": "咖喱饭"
+      },
+      {
+        "t": "omurice",
+        "z": "蛋包饭"
+      },
+      {
+        "t": "takoyaki",
+        "z": "章鱼小丸子"
+      },
+      {
+        "t": "taiyaki",
+        "z": "鲷鱼烧"
+      },
+      {
+        "t": "matcha parfait",
+        "z": "抹茶芭菲"
+      },
+      {
+        "t": "pudding",
+        "z": "布丁"
+      },
+      {
+        "t": "mochi",
+        "z": "麻薯大福"
+      },
+      {
+        "t": "dorayaki",
+        "z": "铜锣烧"
+      },
+      {
+        "t": "hot pot",
+        "z": "火锅"
+      },
+      {
+        "t": "dumplings",
+        "z": "饺子"
+      },
+      {
+        "t": "dim sum",
+        "z": "广式点心"
+      },
+      {
+        "t": "mooncake",
+        "z": "月饼"
+      },
+      {
+        "t": "tanghulu",
+        "z": "冰糖葫芦"
+      },
+      {
+        "t": "peach",
+        "z": "水蜜桃"
+      },
+      {
+        "t": "mango",
+        "z": "芒果"
+      },
+      {
+        "t": "blueberry",
+        "z": "蓝莓"
+      },
+      {
+        "t": "banana",
+        "z": "香蕉"
+      },
+      {
+        "t": "pineapple",
+        "z": "菠萝"
+      },
+      {
+        "t": "lollipop",
+        "z": "棒棒糖"
+      },
+      {
+        "t": "candy apple",
+        "z": "苹果糖"
+      },
+      {
+        "t": "white rice",
+        "z": "白米饭"
+      },
+      {
+        "t": "fried rice",
+        "z": "炒饭"
+      },
+      {
+        "t": "milk",
+        "z": "牛奶"
+      },
+      {
+        "t": "juice",
+        "z": "果汁"
+      },
+      {
+        "t": "soda",
+        "z": "汽水"
+      },
+      {
+        "t": "whipped cream",
+        "z": "奶油"
+      },
+      {
+        "t": "honey toast",
+        "z": "蜂蜜吐司"
+      },
+      {
+        "t": "cheese",
+        "z": "奶酪"
+      },
+      {
+        "t": "fried egg",
+        "z": "煎蛋"
+      },
+      {
+        "t": "salad",
+        "z": "沙拉"
+      },
+      {
+        "t": "soup",
+        "z": "汤"
+      },
+      {
+        "t": "sausage",
+        "z": "香肠"
+      },
+      {
+        "t": "bacon",
+        "z": "培根"
+      },
+      {
+        "t": "popcorn",
+        "z": "爆米花"
+      },
+      {
+        "t": "churros",
+        "z": "吉事果"
+      },
+      {
+        "t": "shaved ice",
+        "z": "刨冰"
+      },
+      {
+        "t": "popsicle",
+        "z": "冰棍"
+      },
+      {
+        "t": "jelly",
+        "z": "果冻"
+      },
+      {
+        "t": "pie",
+        "z": "派"
+      },
+      {
+        "t": "fruit tart",
+        "z": "水果挞"
+      },
+      {
+        "t": "eclair",
+        "z": "闪电泡芙"
+      },
+      {
+        "t": "cinnamon roll",
+        "z": "肉桂卷"
+      },
+      {
+        "t": "tofu",
+        "z": "豆腐"
+      }
+    ],
+    "动物": [
+      {
+        "t": "cat",
+        "z": "猫"
+      },
+      {
+        "t": "dog",
+        "z": "狗"
+      },
+      {
+        "t": "kitten",
+        "z": "小猫"
+      },
+      {
+        "t": "puppy",
+        "z": "小狗"
+      },
+      {
+        "t": "rabbit",
+        "z": "兔子"
+      },
+      {
+        "t": "hamster",
+        "z": "仓鼠"
+      },
+      {
+        "t": "squirrel",
+        "z": "松鼠"
+      },
+      {
+        "t": "fox",
+        "z": "狐狸"
+      },
+      {
+        "t": "wolf",
+        "z": "狼"
+      },
+      {
+        "t": "bear",
+        "z": "熊"
+      },
+      {
+        "t": "panda",
+        "z": "熊猫"
+      },
+      {
+        "t": "red panda",
+        "z": "小熊猫"
+      },
+      {
+        "t": "tiger",
+        "z": "老虎"
+      },
+      {
+        "t": "lion",
+        "z": "狮子"
+      },
+      {
+        "t": "leopard",
+        "z": "豹子"
+      },
+      {
+        "t": "deer",
+        "z": "鹿"
+      },
+      {
+        "t": "reindeer",
+        "z": "驯鹿"
+      },
+      {
+        "t": "cow",
+        "z": "奶牛"
+      },
+      {
+        "t": "horse",
+        "z": "马"
+      },
+      {
+        "t": "pony",
+        "z": "小马"
+      },
+      {
+        "t": "sheep",
+        "z": "绵羊"
+      },
+      {
+        "t": "goat",
+        "z": "山羊"
+      },
+      {
+        "t": "pig",
+        "z": "猪"
+      },
+      {
+        "t": "elephant",
+        "z": "大象"
+      },
+      {
+        "t": "giraffe",
+        "z": "长颈鹿"
+      },
+      {
+        "t": "zebra",
+        "z": "斑马"
+      },
+      {
+        "t": "kangaroo",
+        "z": "袋鼠"
+      },
+      {
+        "t": "koala",
+        "z": "考拉"
+      },
+      {
+        "t": "monkey",
+        "z": "猴子"
+      },
+      {
+        "t": "penguin",
+        "z": "企鹅"
+      },
+      {
+        "t": "owl",
+        "z": "猫头鹰"
+      },
+      {
+        "t": "eagle",
+        "z": "鹰"
+      },
+      {
+        "t": "crow",
+        "z": "乌鸦"
+      },
+      {
+        "t": "parrot",
+        "z": "鹦鹉"
+      },
+      {
+        "t": "swan",
+        "z": "天鹅"
+      },
+      {
+        "t": "duck",
+        "z": "鸭子"
+      },
+      {
+        "t": "goose",
+        "z": "鹅"
+      },
+      {
+        "t": "chicken",
+        "z": "鸡"
+      },
+      {
+        "t": "peacock",
+        "z": "孔雀"
+      },
+      {
+        "t": "seagull",
+        "z": "海鸥"
+      },
+      {
+        "t": "crane",
+        "z": "鹤"
+      },
+      {
+        "t": "butterfly",
+        "z": "蝴蝶"
+      },
+      {
+        "t": "moth",
+        "z": "飞蛾"
+      },
+      {
+        "t": "bee",
+        "z": "蜜蜂"
+      },
+      {
+        "t": "ladybug",
+        "z": "瓢虫"
+      },
+      {
+        "t": "dragonfly",
+        "z": "蜻蜓"
+      },
+      {
+        "t": "firefly",
+        "z": "萤火虫"
+      },
+      {
+        "t": "snail",
+        "z": "蜗牛"
+      },
+      {
+        "t": "frog",
+        "z": "青蛙"
+      },
+      {
+        "t": "turtle",
+        "z": "乌龟"
+      },
+      {
+        "t": "lizard",
+        "z": "蜥蜴"
+      },
+      {
+        "t": "chameleon",
+        "z": "变色龙"
+      },
+      {
+        "t": "snake",
+        "z": "蛇"
+      },
+      {
+        "t": "dragon",
+        "z": "龙"
+      },
+      {
+        "t": "phoenix",
+        "z": "凤凰"
+      },
+      {
+        "t": "griffin",
+        "z": "狮鹫"
+      },
+      {
+        "t": "unicorn",
+        "z": "独角兽"
+      },
+      {
+        "t": "pegasus",
+        "z": "天马"
+      },
+      {
+        "t": "nekomata",
+        "z": "猫又"
+      },
+      {
+        "t": "fish",
+        "z": "鱼"
+      },
+      {
+        "t": "koi",
+        "z": "锦鲤"
+      },
+      {
+        "t": "goldfish",
+        "z": "金鱼"
+      },
+      {
+        "t": "shark",
+        "z": "鲨鱼"
+      },
+      {
+        "t": "whale",
+        "z": "鲸鱼"
+      },
+      {
+        "t": "dolphin",
+        "z": "海豚"
+      },
+      {
+        "t": "octopus",
+        "z": "章鱼"
+      },
+      {
+        "t": "squid",
+        "z": "鱿鱼"
+      },
+      {
+        "t": "jellyfish",
+        "z": "水母"
+      },
+      {
+        "t": "crab",
+        "z": "螃蟹"
+      },
+      {
+        "t": "lobster",
+        "z": "龙虾"
+      },
+      {
+        "t": "shrimp",
+        "z": "虾"
+      },
+      {
+        "t": "starfish",
+        "z": "海星"
+      },
+      {
+        "t": "seahorse",
+        "z": "海马"
+      },
+      {
+        "t": "raccoon",
+        "z": "浣熊"
+      },
+      {
+        "t": "otter",
+        "z": "水獭"
+      },
+      {
+        "t": "seal",
+        "z": "海豹"
+      },
+      {
+        "t": "flamingo",
+        "z": "火烈鸟"
+      },
+      {
+        "t": "orca",
+        "z": "虎鲸",
+        "z2": "杀人鲸"
+      },
+      {
+        "t": "blue whale",
+        "z": "蓝鲸"
+      },
+      {
+        "t": "humpback whale",
+        "z": "座头鲸"
+      },
+      {
+        "t": "beluga",
+        "z": "白鲸"
+      },
+      {
+        "t": "narwhal",
+        "z": "独角鲸"
+      },
+      {
+        "t": "sea turtle",
+        "z": "海龟"
+      },
+      {
+        "t": "manta ray",
+        "z": "蝠鲼/魔鬼鱼"
+      },
+      {
+        "t": "clownfish",
+        "z": "小丑鱼"
+      },
+      {
+        "t": "red fox",
+        "z": "赤狐"
+      },
+      {
+        "t": "arctic fox",
+        "z": "北极狐"
+      },
+      {
+        "t": "fennec fox",
+        "z": "耳廓狐"
+      },
+      {
+        "t": "white tiger",
+        "z": "白虎"
+      },
+      {
+        "t": "snow leopard",
+        "z": "雪豹"
+      },
+      {
+        "t": "black cat",
+        "z": "黑猫"
+      },
+      {
+        "t": "calico cat",
+        "z": "三花猫"
+      },
+      {
+        "t": "siamese cat",
+        "z": "暹罗猫"
+      },
+      {
+        "t": "orange tabby cat",
+        "z": "橘猫"
+      },
+      {
+        "t": "corgi",
+        "z": "柯基犬"
+      },
+      {
+        "t": "shiba inu",
+        "z": "柴犬"
+      },
+      {
+        "t": "husky",
+        "z": "哈士奇"
+      },
+      {
+        "t": "golden retriever",
+        "z": "金毛寻回犬"
+      },
+      {
+        "t": "samoyed",
+        "z": "萨摩耶"
+      },
+      {
+        "t": "lop-eared rabbit",
+        "z": "垂耳兔"
+      },
+      {
+        "t": "ferret",
+        "z": "雪貂"
+      },
+      {
+        "t": "hedgehog",
+        "z": "刺猬"
+      },
+      {
+        "t": "chinchilla",
+        "z": "龙猫"
+      },
+      {
+        "t": "capybara",
+        "z": "卡皮巴拉/水豚"
+      },
+      {
+        "t": "alpaca",
+        "z": "羊驼"
+      },
+      {
+        "t": "white horse",
+        "z": "白马"
+      },
+      {
+        "t": "black horse",
+        "z": "黑马"
+      },
+      {
+        "t": "sparrow",
+        "z": "麻雀"
+      },
+      {
+        "t": "dove",
+        "z": "白鸽"
+      },
+      {
+        "t": "kingfisher",
+        "z": "翠鸟"
+      },
+      {
+        "t": "hummingbird",
+        "z": "蜂鸟"
+      },
+      {
+        "t": "hawk",
+        "z": "老鹰/猎鹰"
+      },
+      {
+        "t": "nine-tailed fox",
+        "z": "九尾狐"
+      },
+      {
+        "t": "eastern dragon",
+        "z": "东方神龙"
+      },
+      {
+        "t": "wyvern",
+        "z": "双足飞龙"
+      },
+      {
+        "t": "kirin",
+        "z": "麒麟"
+      },
+      {
+        "t": "slime",
+        "z": "史莱姆"
+      },
+      {
+        "t": "beetle",
+        "z": "甲虫"
+      },
+      {
+        "t": "caterpillar",
+        "z": "毛毛虫"
+      },
+      {
+        "t": "spider",
+        "z": "蜘蛛"
+      },
+      {
+        "t": "scorpion",
+        "z": "蝎子"
+      },
+      {
+        "t": "bat",
+        "z": "蝙蝠"
+      },
+      {
+        "t": "crocodile",
+        "z": "鳄鱼"
+      },
+      {
+        "t": "hippopotamus",
+        "z": "河马"
+      },
+      {
+        "t": "rhinoceros",
+        "z": "犀牛"
+      },
+      {
+        "t": "camel",
+        "z": "骆驼"
+      },
+      {
+        "t": "moose",
+        "z": "驼鹿"
+      },
+      {
+        "t": "boar",
+        "z": "野猪"
+      },
+      {
+        "t": "badger",
+        "z": "獾"
+      },
+      {
+        "t": "beaver",
+        "z": "河狸"
+      },
+      {
+        "t": "mole",
+        "z": "鼹鼠"
+      },
+      {
+        "t": "swallow",
+        "z": "燕子"
+      },
+      {
+        "t": "woodpecker",
+        "z": "啄木鸟"
+      },
+      {
+        "t": "toucan",
+        "z": "巨嘴鸟"
+      },
+      {
+        "t": "pelican",
+        "z": "鹈鹕"
+      },
+      {
+        "t": "ostrich",
+        "z": "鸵鸟"
+      },
+      {
+        "t": "puffin",
+        "z": "海鹦"
+      },
+      {
+        "t": "walrus",
+        "z": "海象"
+      },
+      {
+        "t": "manatee",
+        "z": "海牛"
+      },
+      {
+        "t": "pufferfish",
+        "z": "河豚"
+      },
+      {
+        "t": "anglerfish",
+        "z": "鮟鱇鱼"
+      },
+      {
+        "t": "axolotl",
+        "z": "六角恐龙"
+      },
+      {
+        "t": "gecko",
+        "z": "壁虎"
+      },
+      {
+        "t": "praying mantis",
+        "z": "螳螂"
+      },
+      {
+        "t": "cicada",
+        "z": "蝉"
+      },
+      {
+        "t": "yak",
+        "z": "牦牛"
+      },
+      {
+        "t": "donkey",
+        "z": "驴"
+      }
+    ]
+  }
+}

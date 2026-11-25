@@ -1,0 +1,15 @@
+{
+  "id": "anima",
+  "name": "Anima",
+  "order": 110,
+  "extends": "dialect-tag",
+  "language": "en",
+  "negative": true,
+  "negative_fallback": "lowres, bad anatomy, bad hands, extra digits, fewer digits, missing fingers, cropped, worst quality, low quality, jpeg artifacts, signature, watermark, username, blurry",
+  "rules": [
+    "工作流里的「质量(不动)」节点已经固定拼上了质量前缀（masterpiece, very aesthetic, best quality, score_9, score_8, highres, absurdres, anime screenshot, official art），这里不要再重复输出这些质量词。",
+    "画面内容按动漫 tag 写：角色 tag（用户指定了角色时）、角色数量（1girl / 1boy / solo）、发色发型、眼睛、表情、服装、动作、场景、构图。",
+    "「动漫截图感」由前缀负责，这里专心写具体的画面内容。",
+    "不要输出画师名。用户明确提到的角色则必须写出角色 tag（格式见通用规则），不许省略、也不许用外貌描述代替。"
+  ]
+}

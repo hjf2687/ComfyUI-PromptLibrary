@@ -1,0 +1,1794 @@
+{
+  "order": [
+    "画质",
+    "人物",
+    "身体",
+    "表情",
+    "动作",
+    "服饰",
+    "材质",
+    "道具",
+    "食物",
+    "动物",
+    "场景",
+    "天气",
+    "时间",
+    "特效",
+    "光照",
+    "色调",
+    "摄影",
+    "画风",
+    "氛围",
+    "题材",
+    "NSFW·身体",
+    "NSFW·行为",
+    "NSFW·特殊",
+    "写实负面",
+    "负面"
+  ],
+  "tags": {
+    "服饰": [
+      {
+        "t": "dress",
+        "z": "连衣裙"
+      },
+      {
+        "t": "china dress",
+        "z": "旗袍"
+      },
+      {
+        "t": "kimono",
+        "z": "和服"
+      },
+      {
+        "t": "yukata",
+        "z": "浴衣"
+      },
+      {
+        "t": "hanfu",
+        "z": "汉服"
+      },
+      {
+        "t": "school uniform",
+        "z": "校服"
+      },
+      {
+        "t": "serafuku",
+        "z": "水手服"
+      },
+      {
+        "t": "shirt",
+        "z": "衬衫"
+      },
+      {
+        "t": "white shirt",
+        "z": "白衬衫"
+      },
+      {
+        "t": "taut shirt",
+        "z": "紧绷撑起衬衫"
+      },
+      {
+        "t": "sweater",
+        "z": "毛衣"
+      },
+      {
+        "t": "turtleneck",
+        "z": "高领毛衣"
+      },
+      {
+        "t": "virgin killer sweater",
+        "z": "露背高领毛衣",
+        "z2": "处男杀手毛衣"
+      },
+      {
+        "t": "open-chest sweater",
+        "z": "开胸毛衣"
+      },
+      {
+        "t": "keyhole sweater",
+        "z": "胸口挖洞毛衣"
+      },
+      {
+        "t": "backless sweater",
+        "z": "露背毛衣"
+      },
+      {
+        "t": "hoodie",
+        "z": "连帽卫衣"
+      },
+      {
+        "t": "jacket",
+        "z": "夹克外套"
+      },
+      {
+        "t": "coat",
+        "z": "长大衣"
+      },
+      {
+        "t": "skirt",
+        "z": "裙子"
+      },
+      {
+        "t": "pleated skirt",
+        "z": "百褶裙"
+      },
+      {
+        "t": "miniskirt",
+        "z": "迷你裙"
+      },
+      {
+        "t": "jeans",
+        "z": "牛仔裤"
+      },
+      {
+        "t": "shorts",
+        "z": "短裤"
+      },
+      {
+        "t": "thighhighs",
+        "z": "过膝长袜",
+        "z2": "大腿袜"
+      },
+      {
+        "t": "pantyhose",
+        "z": "连裤丝袜"
+      },
+      {
+        "t": "zettai ryouiki",
+        "z": "绝对领域"
+      },
+      {
+        "t": "swimsuit",
+        "z": "泳装"
+      },
+      {
+        "t": "one-piece swimsuit",
+        "z": "连体泳衣"
+      },
+      {
+        "t": "bikini",
+        "z": "分体比基尼"
+      },
+      {
+        "t": "micro bikini",
+        "z": "极小比基尼"
+      },
+      {
+        "t": "o-ring bikini",
+        "z": "圆环比基尼"
+      },
+      {
+        "t": "maid",
+        "z": "女仆装"
+      },
+      {
+        "t": "gothic lolita",
+        "z": "哥特萝莉塔"
+      },
+      {
+        "t": "office lady",
+        "z": "OL职业装"
+      },
+      {
+        "t": "nurse",
+        "z": "护士装"
+      },
+      {
+        "t": "miko",
+        "z": "巫女服"
+      },
+      {
+        "t": "apron",
+        "z": "围裙"
+      },
+      {
+        "t": "frills",
+        "z": "荷叶边"
+      },
+      {
+        "t": "ribbon",
+        "z": "蝴蝶结丝带"
+      },
+      {
+        "t": "necktie",
+        "z": "领带"
+      },
+      {
+        "t": "bare shoulders",
+        "z": "露肩"
+      },
+      {
+        "t": "off-shoulder",
+        "z": "一字肩"
+      },
+      {
+        "t": "crop top",
+        "z": "露脐短上衣"
+      },
+      {
+        "t": "leotard",
+        "z": "体操服"
+      },
+      {
+        "t": "gloves",
+        "z": "手套"
+      },
+      {
+        "t": "elbow gloves",
+        "z": "过肘长手套"
+      },
+      {
+        "t": "hat",
+        "z": "帽子"
+      },
+      {
+        "t": "beret",
+        "z": "贝雷帽"
+      },
+      {
+        "t": "straw hat",
+        "z": "草帽"
+      },
+      {
+        "t": "headphones",
+        "z": "头戴耳机"
+      },
+      {
+        "t": "cat ear headphones",
+        "z": "猫耳耳机"
+      },
+      {
+        "t": "choker",
+        "z": "颈环"
+      },
+      {
+        "t": "lace",
+        "z": "蕾丝"
+      },
+      {
+        "t": "t-shirt",
+        "z": "T恤"
+      },
+      {
+        "t": "polo shirt",
+        "z": "马球衫"
+      },
+      {
+        "t": "dress shirt",
+        "z": "正装衬衫"
+      },
+      {
+        "t": "long sleeves",
+        "z": "长袖"
+      },
+      {
+        "t": "short sleeves",
+        "z": "短袖"
+      },
+      {
+        "t": "sleeveless",
+        "z": "无袖"
+      },
+      {
+        "t": "puff sleeves",
+        "z": "泡泡袖"
+      },
+      {
+        "t": "bell sleeves",
+        "z": "喇叭袖"
+      },
+      {
+        "t": "one-shoulder",
+        "z": "单肩"
+      },
+      {
+        "t": "tube top",
+        "z": "抹胸上衣"
+      },
+      {
+        "t": "halter top",
+        "z": "挂脖上衣"
+      },
+      {
+        "t": "tank top",
+        "z": "背心"
+      },
+      {
+        "t": "camisole",
+        "z": "吊带衫"
+      },
+      {
+        "t": "blouse",
+        "z": "雪纺衬衫"
+      },
+      {
+        "t": "cardigan",
+        "z": "开衫"
+      },
+      {
+        "t": "vest",
+        "z": "马甲"
+      },
+      {
+        "t": "blazer",
+        "z": "西装外套"
+      },
+      {
+        "t": "suit",
+        "z": "西服"
+      },
+      {
+        "t": "tuxedo",
+        "z": "礼服"
+      },
+      {
+        "t": "uniform",
+        "z": "制服"
+      },
+      {
+        "t": "military uniform",
+        "z": "军装"
+      },
+      {
+        "t": "police uniform",
+        "z": "警服"
+      },
+      {
+        "t": "gakuran",
+        "z": "学兰制服"
+      },
+      {
+        "t": "tracksuit",
+        "z": "运动套装"
+      },
+      {
+        "t": "gym uniform",
+        "z": "运动校服"
+      },
+      {
+        "t": "sweatpants",
+        "z": "卫裤"
+      },
+      {
+        "t": "leggings",
+        "z": "紧身裤"
+      },
+      {
+        "t": "bell-bottoms",
+        "z": "喇叭裤"
+      },
+      {
+        "t": "cargo pants",
+        "z": "工装裤"
+      },
+      {
+        "t": "overalls",
+        "z": "背带裤"
+      },
+      {
+        "t": "jumpsuit",
+        "z": "连体裤"
+      },
+      {
+        "t": "bodysuit",
+        "z": "紧身连体衣"
+      },
+      {
+        "t": "corset",
+        "z": "束腰"
+      },
+      {
+        "t": "suspenders",
+        "z": "背带"
+      },
+      {
+        "t": "belt",
+        "z": "腰带"
+      },
+      {
+        "t": "knee socks",
+        "z": "及膝袜"
+      },
+      {
+        "t": "ankle socks",
+        "z": "短袜"
+      },
+      {
+        "t": "loose socks",
+        "z": "泡泡袜"
+      },
+      {
+        "t": "stockings",
+        "z": "长筒袜"
+      },
+      {
+        "t": "high heels",
+        "z": "高跟鞋"
+      },
+      {
+        "t": "pumps",
+        "z": "浅口鞋"
+      },
+      {
+        "t": "boots",
+        "z": "靴子"
+      },
+      {
+        "t": "thigh boots",
+        "z": "过膝靴"
+      },
+      {
+        "t": "sneakers",
+        "z": "运动鞋"
+      },
+      {
+        "t": "sandals",
+        "z": "凉鞋"
+      },
+      {
+        "t": "loafers",
+        "z": "乐福鞋"
+      },
+      {
+        "t": "wedding dress",
+        "z": "婚纱"
+      },
+      {
+        "t": "evening gown",
+        "z": "晚礼服"
+      },
+      {
+        "t": "ball gown",
+        "z": "舞会长裙"
+      },
+      {
+        "t": "sundress",
+        "z": "太阳裙"
+      },
+      {
+        "t": "maxi dress",
+        "z": "及踝长裙"
+      },
+      {
+        "t": "slip dress",
+        "z": "吊带睡裙"
+      },
+      {
+        "t": "pinafore dress",
+        "z": "背心裙"
+      },
+      {
+        "t": "cape",
+        "z": "披风"
+      },
+      {
+        "t": "cloak",
+        "z": "斗篷"
+      },
+      {
+        "t": "poncho",
+        "z": "雨披"
+      },
+      {
+        "t": "parka",
+        "z": "派克大衣"
+      },
+      {
+        "t": "trench coat",
+        "z": "风衣"
+      },
+      {
+        "t": "leather jacket",
+        "z": "皮夹克"
+      },
+      {
+        "t": "denim jacket",
+        "z": "牛仔外套"
+      },
+      {
+        "t": "bomber jacket",
+        "z": "飞行员夹克"
+      },
+      {
+        "t": "puffer jacket",
+        "z": "羽绒服"
+      },
+      {
+        "t": "fur coat",
+        "z": "皮草大衣"
+      },
+      {
+        "t": "raincoat",
+        "z": "雨衣"
+      },
+      {
+        "t": "scarf",
+        "z": "围巾"
+      },
+      {
+        "t": "mittens",
+        "z": "连指手套"
+      },
+      {
+        "t": "arm warmers",
+        "z": "护臂"
+      },
+      {
+        "t": "fingerless gloves",
+        "z": "露指手套"
+      },
+      {
+        "t": "wristband",
+        "z": "腕带"
+      },
+      {
+        "t": "watch",
+        "z": "手表"
+      },
+      {
+        "t": "bracelet",
+        "z": "手链"
+      },
+      {
+        "t": "anklet",
+        "z": "脚链"
+      },
+      {
+        "t": "earrings",
+        "z": "耳环"
+      },
+      {
+        "t": "necklace",
+        "z": "项链"
+      },
+      {
+        "t": "pendant",
+        "z": "吊坠"
+      },
+      {
+        "t": "ring",
+        "z": "戒指"
+      },
+      {
+        "t": "brooch",
+        "z": "胸针"
+      },
+      {
+        "t": "sunglasses",
+        "z": "墨镜"
+      },
+      {
+        "t": "monocle",
+        "z": "单片眼镜"
+      },
+      {
+        "t": "mask",
+        "z": "面具"
+      },
+      {
+        "t": "veil",
+        "z": "头纱"
+      },
+      {
+        "t": "crown",
+        "z": "王冠"
+      },
+      {
+        "t": "tiara",
+        "z": "头冠"
+      },
+      {
+        "t": "halo",
+        "z": "光环"
+      },
+      {
+        "t": "bowtie",
+        "z": "蝴蝶结领结"
+      },
+      {
+        "t": "wet",
+        "z": "湿身"
+      },
+      {
+        "t": "drenched",
+        "z": "湿透"
+      },
+      {
+        "t": "torn clothes",
+        "z": "撕裂的衣服"
+      },
+      {
+        "t": "loose clothes",
+        "z": "宽松衣着"
+      },
+      {
+        "t": "baggy",
+        "z": "松垮"
+      },
+      {
+        "t": "oversized",
+        "z": "超大码"
+      },
+      {
+        "t": "tight clothes",
+        "z": "紧身衣着"
+      },
+      {
+        "t": "fitted",
+        "z": "合身"
+      },
+      {
+        "t": "wrinkles",
+        "z": "衣褶"
+      },
+      {
+        "t": "hanbok",
+        "z": "韩服"
+      },
+      {
+        "t": "ao dai",
+        "z": "奥黛"
+      },
+      {
+        "t": "sari",
+        "z": "纱丽"
+      },
+      {
+        "t": "high slit china dress",
+        "z": "高叉旗袍"
+      },
+      {
+        "t": "side slit",
+        "z": "侧开叉"
+      },
+      {
+        "t": "slit skirt",
+        "z": "开叉裙"
+      },
+      {
+        "t": "hakama",
+        "z": "袴"
+      },
+      {
+        "t": "furisode",
+        "z": "振袖"
+      },
+      {
+        "t": "obi",
+        "z": "和服腰带"
+      },
+      {
+        "t": "ruqun",
+        "z": "襦裙"
+      },
+      {
+        "t": "black pantyhose",
+        "z": "黑色连裤袜"
+      },
+      {
+        "t": "black thighhighs",
+        "z": "黑色过膝袜"
+      },
+      {
+        "t": "black stockings",
+        "z": "黑色长筒袜"
+      },
+      {
+        "t": "white pantyhose",
+        "z": "白色连裤袜"
+      },
+      {
+        "t": "white thighhighs",
+        "z": "白色过膝袜"
+      },
+      {
+        "t": "white stockings",
+        "z": "白色长筒袜"
+      },
+      {
+        "t": "garter straps",
+        "z": "吊袜带"
+      },
+      {
+        "t": "thigh strap",
+        "z": "大腿环"
+      },
+      {
+        "t": "leg ring",
+        "z": "腿环"
+      },
+      {
+        "t": "leg warmers",
+        "z": "腿套"
+      },
+      {
+        "t": "pencil skirt",
+        "z": "铅笔裙"
+      },
+      {
+        "t": "long skirt",
+        "z": "长裙"
+      },
+      {
+        "t": "tutu",
+        "z": "芭蕾舞裙"
+      },
+      {
+        "t": "backless dress",
+        "z": "露背连衣裙"
+      },
+      {
+        "t": "halter dress",
+        "z": "挂脖连衣裙"
+      },
+      {
+        "t": "tube dress",
+        "z": "抹胸连衣裙"
+      },
+      {
+        "t": "sweater dress",
+        "z": "毛衣连衣裙"
+      },
+      {
+        "t": "shirt dress",
+        "z": "衬衫连衣裙"
+      },
+      {
+        "t": "backless top",
+        "z": "露背上衣"
+      },
+      {
+        "t": "shawl",
+        "z": "披肩"
+      },
+      {
+        "t": "bolero",
+        "z": "短开衫"
+      },
+      {
+        "t": "capelet",
+        "z": "短披风"
+      },
+      {
+        "t": "hood",
+        "z": "兜帽"
+      },
+      {
+        "t": "hot pants",
+        "z": "热裤"
+      },
+      {
+        "t": "denim shorts",
+        "z": "牛仔短裤"
+      },
+      {
+        "t": "skort",
+        "z": "裙裤"
+      },
+      {
+        "t": "yoga pants",
+        "z": "瑜伽裤"
+      },
+      {
+        "t": "track pants",
+        "z": "运动长裤"
+      },
+      {
+        "t": "bunny suit",
+        "z": "兔女郎装"
+      },
+      {
+        "t": "bunny ears",
+        "z": "兔耳"
+      },
+      {
+        "t": "cheerleader uniform",
+        "z": "啦啦队服"
+      },
+      {
+        "t": "school swimsuit",
+        "z": "学校泳装"
+      },
+      {
+        "t": "sports bra",
+        "z": "运动内衣"
+      },
+      {
+        "t": "idol costume",
+        "z": "偶像服"
+      },
+      {
+        "t": "magical girl outfit",
+        "z": "魔法少女服"
+      },
+      {
+        "t": "race queen outfit",
+        "z": "赛车女郎服"
+      },
+      {
+        "t": "lab coat",
+        "z": "白大褂"
+      },
+      {
+        "t": "maid headdress",
+        "z": "女仆头饰"
+      },
+      {
+        "t": "nurse cap",
+        "z": "护士帽"
+      },
+      {
+        "t": "witch outfit",
+        "z": "女巫装"
+      },
+      {
+        "t": "knight armor",
+        "z": "骑士盔甲"
+      },
+      {
+        "t": "mary janes",
+        "z": "玛丽珍鞋"
+      },
+      {
+        "t": "platform shoes",
+        "z": "厚底鞋"
+      },
+      {
+        "t": "stiletto heels",
+        "z": "细高跟鞋"
+      },
+      {
+        "t": "ankle boots",
+        "z": "短靴"
+      },
+      {
+        "t": "knee boots",
+        "z": "及膝靴"
+      },
+      {
+        "t": "combat boots",
+        "z": "战斗靴"
+      },
+      {
+        "t": "ballet flats",
+        "z": "芭蕾平底鞋"
+      },
+      {
+        "t": "baseball cap",
+        "z": "棒球帽"
+      },
+      {
+        "t": "beanie",
+        "z": "毛线帽"
+      },
+      {
+        "t": "top hat",
+        "z": "礼帽"
+      },
+      {
+        "t": "witch hat",
+        "z": "女巫帽"
+      },
+      {
+        "t": "eyepatch",
+        "z": "眼罩"
+      },
+      {
+        "t": "armband",
+        "z": "臂章"
+      },
+      {
+        "t": "sash",
+        "z": "绶带"
+      },
+      {
+        "t": "body chain",
+        "z": "身体链"
+      },
+      {
+        "t": "lingerie",
+        "z": "情趣内衣"
+      },
+      {
+        "t": "bra and panties",
+        "z": "胸衣内裤"
+      },
+      {
+        "t": "matching underwear",
+        "z": "成套内衣"
+      },
+      {
+        "t": "teddy",
+        "z": "连体情趣衣"
+      },
+      {
+        "t": "babydoll",
+        "z": "娃娃睡裙"
+      },
+      {
+        "t": "negligee",
+        "z": "薄纱睡裙"
+      },
+      {
+        "t": "silk robe",
+        "z": "丝质睡袍"
+      },
+      {
+        "t": "panties",
+        "z": "内裤"
+      },
+      {
+        "t": "thong",
+        "z": "丁字裤"
+      },
+      {
+        "t": "bikini panties",
+        "z": "三角内裤"
+      },
+      {
+        "t": "boyshorts",
+        "z": "平角内裤"
+      },
+      {
+        "t": "cheeky panties",
+        "z": "露臀内裤"
+      },
+      {
+        "t": "crotchless panties",
+        "z": "开裆内裤"
+      },
+      {
+        "t": "lacy lingerie",
+        "z": "蕾丝内衣"
+      },
+      {
+        "t": "silk lingerie",
+        "z": "丝绸内衣"
+      },
+      {
+        "t": "strapless bra",
+        "z": "无肩带胸衣"
+      },
+      {
+        "t": "push-up bra",
+        "z": "聚拢胸衣"
+      },
+      {
+        "t": "bralette",
+        "z": "无钢圈胸衣"
+      },
+      {
+        "t": "cupless bra",
+        "z": "露乳文胸"
+      },
+      {
+        "t": "garter belt",
+        "z": "吊袜腰带"
+      },
+      {
+        "t": "fishnet stockings",
+        "z": "渔网袜"
+      },
+      {
+        "t": "fishnet tights",
+        "z": "渔网连裤袜"
+      },
+      {
+        "t": "nightgown",
+        "z": "睡裙"
+      },
+      {
+        "t": "chemise",
+        "z": "吊带衬裙"
+      },
+      {
+        "t": "slip",
+        "z": "衬裙"
+      },
+      {
+        "t": "stockings and garter",
+        "z": "吊带长袜"
+      },
+      {
+        "t": "naked apron",
+        "z": "裸体围裙"
+      },
+      {
+        "t": "towel wrap",
+        "z": "浴巾裹身"
+      },
+      {
+        "t": "revealing outfit",
+        "z": "暴露装束"
+      },
+      {
+        "t": "see-through clothes",
+        "z": "透视装"
+      },
+      {
+        "t": "wet clothes",
+        "z": "湿透的衣物"
+      },
+      {
+        "t": "oversized sweater",
+        "z": "宽松毛衣",
+        "z2": "男友风毛衣"
+      },
+      {
+        "t": "off-shoulder sweater",
+        "z": "露肩毛衣"
+      },
+      {
+        "t": "turtleneck sweater",
+        "z": "高领针织衫"
+      },
+      {
+        "t": "cropped jacket",
+        "z": "短款夹克"
+      },
+      {
+        "t": "varsity jacket",
+        "z": "棒球夹克"
+      },
+      {
+        "t": "knit cardigan",
+        "z": "针织开衫"
+      },
+      {
+        "t": "a-line skirt",
+        "z": "A字裙"
+      },
+      {
+        "t": "wrap skirt",
+        "z": "裹身裙"
+      },
+      {
+        "t": "tiered skirt",
+        "z": "蛋糕层裙"
+      },
+      {
+        "t": "high-waisted shorts",
+        "z": "高腰短裤"
+      },
+      {
+        "t": "wide-leg pants",
+        "z": "阔腿裤"
+      },
+      {
+        "t": "ripped jeans",
+        "z": "破洞牛仔裤"
+      },
+      {
+        "t": "romper",
+        "z": "连体短裤"
+      },
+      {
+        "t": "culottes",
+        "z": "裙裤/阔腿短裤"
+      },
+      {
+        "t": "suspender skirt",
+        "z": "背带裙"
+      },
+      {
+        "t": "mamianqun",
+        "z": "马面裙",
+        "z2": "明制马面裙"
+      },
+      {
+        "t": "tangzhuang",
+        "z": "唐装"
+      },
+      {
+        "t": "jinruqun",
+        "z": "晋襦裙"
+      },
+      {
+        "t": "haori",
+        "z": "羽织"
+      },
+      {
+        "t": "sweet lolita",
+        "z": "甜系洛丽塔"
+      },
+      {
+        "t": "classic lolita",
+        "z": "古典洛丽塔"
+      },
+      {
+        "t": "steampunk outfit",
+        "z": "蒸汽朋克服饰"
+      },
+      {
+        "t": "cyberpunk outfit",
+        "z": "赛博朋克服饰"
+      },
+      {
+        "t": "techwear",
+        "z": "机能风穿搭",
+        "z2": "战术机能风"
+      },
+      {
+        "t": "tactical gear",
+        "z": "战术装备"
+      },
+      {
+        "t": "fantasy armor",
+        "z": "奇幻盔甲"
+      },
+      {
+        "t": "plate armor",
+        "z": "全身板甲"
+      },
+      {
+        "t": "mage robe",
+        "z": "法师长袍"
+      },
+      {
+        "t": "mermaid dress",
+        "z": "鱼尾礼服裙"
+      },
+      {
+        "t": "cocktail dress",
+        "z": "鸡尾酒小礼服"
+      },
+      {
+        "t": "sailor dress",
+        "z": "水手服连衣裙"
+      },
+      {
+        "t": "blazer uniform",
+        "z": "西式学院制服"
+      },
+      {
+        "t": "stirrup legwear",
+        "z": "踩脚袜"
+      },
+      {
+        "t": "lace-trimmed thighhighs",
+        "z": "蕾丝边过膝袜"
+      },
+      {
+        "t": "striped thighhighs",
+        "z": "条纹过膝袜"
+      },
+      {
+        "t": "sheer pantyhose",
+        "z": "薄款透肉丝袜"
+      },
+      {
+        "t": "torn pantyhose",
+        "z": "破损丝袜"
+      },
+      {
+        "t": "chelsea boots",
+        "z": "切尔西靴"
+      },
+      {
+        "t": "platform boots",
+        "z": "厚底长靴"
+      },
+      {
+        "t": "strappy heels",
+        "z": "细带高跟凉鞋"
+      },
+      {
+        "t": "hair bow",
+        "z": "蝴蝶结发饰"
+      },
+      {
+        "t": "cat ears headband",
+        "z": "猫耳发箍"
+      },
+      {
+        "t": "ribbon choker",
+        "z": "丝带颈环"
+      },
+      {
+        "t": "bell choker",
+        "z": "铃铛项圈"
+      },
+      {
+        "t": "velvet choker",
+        "z": "丝绒颈饰"
+      },
+      {
+        "t": "pearl necklace",
+        "z": "珍珠项链"
+      },
+      {
+        "t": "cross necklace",
+        "z": "十字架项链"
+      },
+      {
+        "t": "newsboy cap",
+        "z": "报童帽"
+      },
+      {
+        "t": "sun hat",
+        "z": "遮阳宽檐帽"
+      },
+      {
+        "t": "bucket hat",
+        "z": "渔夫帽"
+      },
+      {
+        "t": "hoodie up",
+        "z": "戴上兜帽"
+      },
+      {
+        "t": "glasses on head",
+        "z": "眼镜架头顶"
+      },
+      {
+        "t": "crossbody bag",
+        "z": "斜挎包"
+      },
+      {
+        "t": "waist bag",
+        "z": "腰包"
+      },
+      {
+        "t": "lace gloves",
+        "z": "蕾丝手套"
+      },
+      {
+        "t": "latex gloves",
+        "z": "乳胶手套"
+      },
+      {
+        "t": "detached sleeves",
+        "z": "分离袖套",
+        "z2": "露肩袖"
+      },
+      {
+        "t": "detached collar",
+        "z": "装饰立领/假领"
+      },
+      {
+        "t": "lace trim",
+        "z": "蕾丝花边"
+      },
+      {
+        "t": "gold trim",
+        "z": "金色镶边"
+      },
+      {
+        "t": "fur trim",
+        "z": "毛领镶边"
+      },
+      {
+        "t": "asymmetrical clothes",
+        "z": "不对称剪裁服饰"
+      },
+      {
+        "t": "layered clothes",
+        "z": "叠穿层次穿搭"
+      },
+      {
+        "t": "strappy lingerie set",
+        "z": "多带式情趣内衣套装"
+      },
+      {
+        "t": "sheer mesh lingerie set",
+        "z": "透视网纱内衣套装"
+      },
+      {
+        "t": "lace-up lingerie set",
+        "z": "绑带式情趣内衣套装"
+      },
+      {
+        "t": "lace balconette bra",
+        "z": "蕾丝半罩杯文胸"
+      },
+      {
+        "t": "longline lace bralette",
+        "z": "长版蕾丝软杯文胸"
+      },
+      {
+        "t": "lace-trimmed satin panties",
+        "z": "蕾丝滚边缎面内裤"
+      },
+      {
+        "t": "lace garter shorts",
+        "z": "蕾丝吊袜短裤"
+      },
+      {
+        "t": "lace babydoll nightdress",
+        "z": "蕾丝娃娃款情趣睡裙"
+      },
+      {
+        "t": "sheer chiffon peignoir",
+        "z": "透视雪纺晨袍"
+      },
+      {
+        "t": "feather-trimmed boudoir robe",
+        "z": "羽毛滚边闺房睡袍"
+      },
+      {
+        "t": "strappy teddy lingerie",
+        "z": "多带式连体情趣内衣"
+      },
+      {
+        "t": "deep-v lace teddy",
+        "z": "深V蕾丝连体内衣"
+      },
+      {
+        "t": "garter teddy",
+        "z": "带吊袜扣的连体内衣"
+      },
+      {
+        "t": "side-laced bodysuit",
+        "z": "侧边系带连体衣"
+      },
+      {
+        "t": "lace-up bustier top",
+        "z": "系带紧身胸衣"
+      },
+      {
+        "t": "satin underbust corset",
+        "z": "缎面胸下束腰"
+      },
+      {
+        "t": "sheer-paneled corset",
+        "z": "透纱拼接束身衣"
+      },
+      {
+        "t": "high-waisted harness briefs",
+        "z": "高腰多带式内裤"
+      },
+      {
+        "t": "plunging backless gown",
+        "z": "深V露背长礼服"
+      },
+      {
+        "t": "lace-up open-back dress",
+        "z": "系带式露背连衣裙"
+      },
+      {
+        "t": "side-cutout mini dress",
+        "z": "侧腰镂空迷你裙"
+      },
+      {
+        "t": "cutout halter mini dress",
+        "z": "挂脖镂空迷你裙"
+      },
+      {
+        "t": "double-slit maxi dress",
+        "z": "双侧开衩长裙"
+      },
+      {
+        "t": "waist-high slit gown",
+        "z": "开衩至腰的礼服"
+      },
+      {
+        "t": "sheer mesh overlay dress",
+        "z": "网纱罩层连衣裙"
+      },
+      {
+        "t": "chainmail halter top",
+        "z": "金属链甲挂脖上衣"
+      },
+      {
+        "t": "tie-front micro crop top",
+        "z": "前系带超短上衣"
+      },
+      {
+        "t": "backless cowl-neck top",
+        "z": "荡领露背上衣"
+      },
+      {
+        "t": "underbust cutout top",
+        "z": "胸下挖空上衣"
+      },
+      {
+        "t": "asymmetric cutout top",
+        "z": "不对称镂空上衣"
+      },
+      {
+        "t": "ruched micro skirt",
+        "z": "抽褶超短裙"
+      },
+      {
+        "t": "lace-up side shorts",
+        "z": "侧边系带短裤"
+      },
+      {
+        "t": "high-cut one-piece swimsuit",
+        "z": "高叉连体泳装"
+      },
+      {
+        "t": "plunging one-piece swimsuit",
+        "z": "深V连体泳装"
+      },
+      {
+        "t": "side-cutout monokini",
+        "z": "侧腰镂空连体泳衣"
+      },
+      {
+        "t": "side-tie string bikini",
+        "z": "侧绑带细绳比基尼"
+      },
+      {
+        "t": "high-leg bandeau bikini",
+        "z": "抹胸高叉比基尼"
+      },
+      {
+        "t": "ring-connector bikini",
+        "z": "圆环连接比基尼"
+      },
+      {
+        "t": "wraparound strap bikini",
+        "z": "绕腰绑带比基尼"
+      },
+      {
+        "t": "asymmetric one-shoulder swimsuit",
+        "z": "不对称单肩泳衣"
+      },
+      {
+        "t": "mesh-panel monokini",
+        "z": "网纱拼接镂空连体泳衣"
+      },
+      {
+        "t": "rhinestone fringe bodysuit",
+        "z": "水钻流苏连体舞台装"
+      },
+      {
+        "t": "burlesque corset and bustle",
+        "z": "艳舞秀束身衣配后裙撑"
+      },
+      {
+        "t": "patent leather bustier",
+        "z": "漆皮紧身胸衣"
+      },
+      {
+        "t": "vinyl zip-front bodysuit",
+        "z": "前拉链亮面连体衣"
+      },
+      {
+        "t": "cutout catsuit",
+        "z": "镂空连体紧身衣"
+      },
+      {
+        "t": "wide-mesh thigh-high stockings",
+        "z": "大网眼过膝丝袜"
+      },
+      {
+        "t": "seamed thigh-high stockings",
+        "z": "后缝线过膝丝袜"
+      },
+      {
+        "t": "opaque black pantyhose",
+        "z": "厚黑连裤袜",
+        "z2": "厚黑丝"
+      },
+      {
+        "t": "semi-opaque black pantyhose",
+        "z": "半透黑丝袜"
+      },
+      {
+        "t": "ultra-sheer black pantyhose",
+        "z": "超薄透黑丝袜"
+      },
+      {
+        "t": "matte black pantyhose",
+        "z": "哑光黑丝袜"
+      },
+      {
+        "t": "wet-look glossy pantyhose",
+        "z": "马油丝袜",
+        "z2": "湿亮油光连裤袜"
+      },
+      {
+        "t": "satin-finish pantyhose",
+        "z": "缎光丝袜"
+      },
+      {
+        "t": "pearlescent pantyhose",
+        "z": "珠光丝袜"
+      },
+      {
+        "t": "shimmering nude pantyhose",
+        "z": "微闪肤色丝袜"
+      },
+      {
+        "t": "smoke-gray sheer pantyhose",
+        "z": "烟灰色薄透丝袜"
+      },
+      {
+        "t": "velvet-touch opaque tights",
+        "z": "天鹅绒触感厚连裤袜"
+      },
+      {
+        "t": "fleece-lined sheer-effect tights",
+        "z": "加绒假透肉连裤袜",
+        "z2": "光腿神器"
+      },
+      {
+        "t": "fine-mesh fishnet tights",
+        "z": "细网眼连裤袜"
+      },
+      {
+        "t": "polka-dot sheer tights",
+        "z": "薄透波点丝袜"
+      },
+      {
+        "t": "diamond-pattern sheer tights",
+        "z": "菱格纹薄透丝袜"
+      },
+      {
+        "t": "floral lace pantyhose",
+        "z": "花卉蕾丝连裤袜"
+      },
+      {
+        "t": "pinstripe sheer tights",
+        "z": "细竖条纹薄透丝袜"
+      },
+      {
+        "t": "two-tone pantyhose",
+        "z": "双色拼接连裤袜"
+      },
+      {
+        "t": "ombre tights",
+        "z": "渐变色连裤袜"
+      },
+      {
+        "t": "sheer knee-high stockings",
+        "z": "薄透及膝丝袜"
+      },
+      {
+        "t": "sheer ankle socks",
+        "z": "薄透及踝丝袜"
+      },
+      {
+        "t": "stay-up stockings with silicone bands",
+        "z": "硅胶防滑自持式长筒丝袜"
+      },
+      {
+        "t": "mock thigh-high tights",
+        "z": "假过膝拼接连裤袜"
+      },
+      {
+        "t": "open-toe pantyhose",
+        "z": "露趾连裤袜"
+      },
+      {
+        "t": "stirrup tights",
+        "z": "踩脚连裤袜"
+      },
+      {
+        "t": "sheer pantyhose with reinforced toes",
+        "z": "加固袜尖薄透连裤袜"
+      },
+      {
+        "t": "surgical mask",
+        "z": "口罩"
+      },
+      {
+        "t": "kanzashi",
+        "z": "和风簪花"
+      },
+      {
+        "t": "half apron",
+        "z": "半身围裙"
+      },
+      {
+        "t": "waistcoat",
+        "z": "西式马甲"
+      },
+      {
+        "t": "bangle",
+        "z": "手镯"
+      },
+      {
+        "t": "armlet",
+        "z": "臂环"
+      },
+      {
+        "t": "geta",
+        "z": "木屐"
+      },
+      {
+        "t": "zori",
+        "z": "草履"
+      },
+      {
+        "t": "tabi",
+        "z": "足袋"
+      },
+      {
+        "t": "uwabaki",
+        "z": "室内鞋"
+      },
+      {
+        "t": "sock garters",
+        "z": "袜口束带"
+      },
+      {
+        "t": "jersey",
+        "z": "球衣"
+      },
+      {
+        "t": "pea coat",
+        "z": "双排扣呢大衣"
+      },
+      {
+        "t": "windbreaker",
+        "z": "防风夹克"
+      },
+      {
+        "t": "bike shorts",
+        "z": "骑行短裤"
+      },
+      {
+        "t": "bloomers",
+        "z": "布鲁玛短裤"
+      },
+      {
+        "t": "fundoshi",
+        "z": "兜裆布"
+      },
+      {
+        "t": "spats",
+        "z": "护腿短套"
+      },
+      {
+        "t": "competition swimsuit",
+        "z": "竞技泳衣"
+      },
+      {
+        "t": "rash guard",
+        "z": "冲浪防晒衣"
+      },
+      {
+        "t": "swim cap",
+        "z": "泳帽"
+      },
+      {
+        "t": "goggles",
+        "z": "泳镜"
+      },
+      {
+        "t": "pareo",
+        "z": "沙滩裹裙"
+      },
+      {
+        "t": "sarong",
+        "z": "纱笼"
+      },
+      {
+        "t": "nun habit",
+        "z": "修女服"
+      },
+      {
+        "t": "nun headdress",
+        "z": "修女头巾"
+      },
+      {
+        "t": "junihitoe",
+        "z": "十二单"
+      },
+      {
+        "t": "kebaya",
+        "z": "可巴雅"
+      },
+      {
+        "t": "dirndl",
+        "z": "阿尔卑斯传统连衣裙"
+      },
+      {
+        "t": "abaya",
+        "z": "阿拉伯长袍"
+      },
+      {
+        "t": "happi",
+        "z": "法被"
+      },
+      {
+        "t": "chainmail armor",
+        "z": "锁子甲"
+      },
+      {
+        "t": "breastplate",
+        "z": "胸甲"
+      },
+      {
+        "t": "pauldrons",
+        "z": "肩甲"
+      },
+      {
+        "t": "greaves",
+        "z": "胫甲"
+      },
+      {
+        "t": "horned helmet",
+        "z": "角盔"
+      },
+      {
+        "t": "bandage",
+        "z": "绷带"
+      },
+      {
+        "t": "band-aid",
+        "z": "创可贴"
+      },
+      {
+        "t": "earmuffs",
+        "z": "耳包"
+      },
+      {
+        "t": "slingshot swimsuit",
+        "z": "V字高叉泳衣"
+      },
+      {
+        "t": "pasties",
+        "z": "乳贴"
+      },
+      {
+        "t": "nipple tassels",
+        "z": "乳头流苏贴"
+      },
+      {
+        "t": "bralette and garter belt",
+        "z": "软杯内衣配吊袜带"
+      },
+      {
+        "t": "lace bodysuit",
+        "z": "蕾丝连体内衣"
+      },
+      {
+        "t": "lace-trimmed negligee",
+        "z": "蕾丝滚边薄睡衣"
+      },
+      {
+        "t": "satin slip with open back",
+        "z": "露背缎面吊带裙"
+      },
+      {
+        "t": "high-waisted lace lingerie",
+        "z": "高腰蕾丝内衣"
+      },
+      {
+        "t": "one garter strap unclipped",
+        "z": "一侧吊袜带解开"
+      },
+      {
+        "t": "corset lacing detail",
+        "z": "束身衣系带特写"
+      },
+      {
+        "t": "unbuttoned shirt over lingerie",
+        "z": "敞开的衬衫罩着内衣"
+      },
+      {
+        "t": "ribbon choker and lace gloves",
+        "z": "丝带颈饰与蕾丝手套"
+      },
+      {
+        "t": "bare shoulder under a silk sheet",
+        "z": "丝绸床单外露出单肩"
+      },
+      {
+        "t": "sharing a robe after a bath",
+        "z": "浴后共披一件浴袍"
+      },
+      {
+        "t": "reverse bunny suit",
+        "z": "逆兔女郎装"
+      },
+      {
+        "t": "satin blindfold",
+        "z": "缎面眼罩"
+      },
+      {
+        "t": "lace eye mask",
+        "z": "蕾丝眼罩"
+      },
+      {
+        "t": "burlesque stage costume",
+        "z": "歌舞秀舞台装"
+      }
+    ]
+  }
+}

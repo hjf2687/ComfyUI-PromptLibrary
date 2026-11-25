@@ -1,0 +1,409 @@
+{
+  "tags": {
+    "材质": [
+      {
+        "t": "silk",
+        "z": "丝绸"
+      },
+      {
+        "t": "satin",
+        "z": "缎面"
+      },
+      {
+        "t": "velvet",
+        "z": "天鹅绒"
+      },
+      {
+        "t": "leather",
+        "z": "皮革"
+      },
+      {
+        "t": "denim",
+        "z": "牛仔布"
+      },
+      {
+        "t": "fur",
+        "z": "毛皮"
+      },
+      {
+        "t": "wool",
+        "z": "羊毛"
+      },
+      {
+        "t": "cotton",
+        "z": "棉布"
+      },
+      {
+        "t": "linen",
+        "z": "亚麻"
+      },
+      {
+        "t": "chiffon",
+        "z": "雪纺"
+      },
+      {
+        "t": "tulle",
+        "z": "薄纱"
+      },
+      {
+        "t": "sequins",
+        "z": "亮片"
+      },
+      {
+        "t": "rhinestones",
+        "z": "水钻"
+      },
+      {
+        "t": "pearls",
+        "z": "珍珠"
+      },
+      {
+        "t": "beads",
+        "z": "串珠"
+      },
+      {
+        "t": "embroidery",
+        "z": "刺绣"
+      },
+      {
+        "t": "brocade",
+        "z": "织锦"
+      },
+      {
+        "t": "transparent",
+        "z": "透明"
+      },
+      {
+        "t": "translucent",
+        "z": "半透明"
+      },
+      {
+        "t": "see-through",
+        "z": "透视"
+      },
+      {
+        "t": "shiny",
+        "z": "亮面"
+      },
+      {
+        "t": "glossy",
+        "z": "光泽"
+      },
+      {
+        "t": "matte",
+        "z": "哑光"
+      },
+      {
+        "t": "metallic",
+        "z": "金属质感"
+      },
+      {
+        "t": "glitter",
+        "z": "闪粉"
+      },
+      {
+        "t": "holographic",
+        "z": "全息"
+      },
+      {
+        "t": "patent leather",
+        "z": "漆皮"
+      },
+      {
+        "t": "suede",
+        "z": "绒面"
+      },
+      {
+        "t": "knitwear",
+        "z": "针织"
+      },
+      {
+        "t": "organza",
+        "z": "欧根纱"
+      },
+      {
+        "t": "tweed",
+        "z": "粗花呢"
+      },
+      {
+        "t": "corduroy",
+        "z": "灯芯绒"
+      },
+      {
+        "t": "reflective material",
+        "z": "反光材质"
+      },
+      {
+        "t": "frosted",
+        "z": "磨砂"
+      },
+      {
+        "t": "pearlescent",
+        "z": "珠光"
+      },
+      {
+        "t": "woven texture",
+        "z": "编织纹理"
+      },
+      {
+        "t": "fluffy",
+        "z": "毛绒"
+      },
+      {
+        "t": "fringe",
+        "z": "流苏"
+      },
+      {
+        "t": "studs",
+        "z": "铆钉"
+      },
+      {
+        "t": "glass",
+        "z": "玻璃"
+      },
+      {
+        "t": "crystal",
+        "z": "水晶"
+      },
+      {
+        "t": "ceramic",
+        "z": "陶瓷"
+      },
+      {
+        "t": "wood grain",
+        "z": "木纹"
+      },
+      {
+        "t": "marble",
+        "z": "大理石"
+      },
+      {
+        "t": "rusted metal",
+        "z": "锈蚀金属"
+      },
+      {
+        "t": "brushed metal",
+        "z": "拉丝金属"
+      },
+      {
+        "t": "concrete",
+        "z": "混凝土"
+      },
+      {
+        "t": "paper texture",
+        "z": "纸张质感"
+      },
+      {
+        "t": "latex",
+        "z": "乳胶"
+      },
+      {
+        "t": "mesh",
+        "z": "网纱"
+      },
+      {
+        "t": "sheer fabric",
+        "z": "轻薄透纱",
+        "z2": "薄透面料"
+      },
+      {
+        "t": "cashmere",
+        "z": "羊绒"
+      },
+      {
+        "t": "mohair",
+        "z": "马海毛"
+      },
+      {
+        "t": "flannel",
+        "z": "法兰绒"
+      },
+      {
+        "t": "pleather",
+        "z": "仿皮/PU革"
+      },
+      {
+        "t": "fishnet",
+        "z": "渔网织物"
+      },
+      {
+        "t": "neoprene",
+        "z": "氯丁橡胶/潜水料"
+      },
+      {
+        "t": "carbon fiber",
+        "z": "碳纤维"
+      },
+      {
+        "t": "chrome",
+        "z": "镀铬镜面"
+      },
+      {
+        "t": "brushed aluminum",
+        "z": "拉丝铝"
+      },
+      {
+        "t": "polished gold",
+        "z": "抛光黄金"
+      },
+      {
+        "t": "tarnished silver",
+        "z": "做旧银饰"
+      },
+      {
+        "t": "bronze",
+        "z": "青铜"
+      },
+      {
+        "t": "copper",
+        "z": "红铜"
+      },
+      {
+        "t": "jade",
+        "z": "翡翠玉石",
+        "z2": "玉质"
+      },
+      {
+        "t": "porcelain",
+        "z": "青花/瓷器质感"
+      },
+      {
+        "t": "stained glass",
+        "z": "彩色花窗玻璃"
+      },
+      {
+        "t": "frosted glass",
+        "z": "磨砂玻璃"
+      },
+      {
+        "t": "amber",
+        "z": "琥珀质感"
+      },
+      {
+        "t": "obsidian",
+        "z": "黑曜石"
+      },
+      {
+        "t": "iridescent",
+        "z": "虹彩渐变光泽",
+        "z2": "激光炫彩"
+      },
+      {
+        "t": "opalescent",
+        "z": "乳白蛋白石光泽"
+      },
+      {
+        "t": "translucent resin",
+        "z": "半透明树脂"
+      },
+      {
+        "t": "bamboo",
+        "z": "竹材纹理"
+      },
+      {
+        "t": "mossy stone",
+        "z": "青苔石面"
+      },
+      {
+        "t": "ice",
+        "z": "冰晶质感"
+      },
+      {
+        "t": "liquid metal",
+        "z": "液态金属"
+      },
+      {
+        "t": "matte black",
+        "z": "哑光纯黑"
+      },
+      {
+        "t": "embossed leather",
+        "z": "压花皮革"
+      },
+      {
+        "t": "quilted fabric",
+        "z": "菱格衍缝面料"
+      },
+      {
+        "t": "jacquard",
+        "z": "提花织物"
+      },
+      {
+        "t": "plaid",
+        "z": "苏格兰格纹"
+      },
+      {
+        "t": "houndstooth",
+        "z": "千鸟格纹"
+      },
+      {
+        "t": "burlap",
+        "z": "麻布"
+      },
+      {
+        "t": "snakeskin",
+        "z": "蛇皮"
+      },
+      {
+        "t": "crocodile leather",
+        "z": "鳄鱼皮"
+      },
+      {
+        "t": "angora",
+        "z": "安哥拉兔毛"
+      },
+      {
+        "t": "spandex",
+        "z": "氨纶"
+      },
+      {
+        "t": "rayon",
+        "z": "人造丝"
+      },
+      {
+        "t": "anodized metal",
+        "z": "阳极氧化金属"
+      },
+      {
+        "t": "damascus steel",
+        "z": "大马士革钢"
+      },
+      {
+        "t": "tortoiseshell",
+        "z": "玳瑁纹理"
+      },
+      {
+        "t": "milk glass",
+        "z": "乳白玻璃"
+      }
+    ]
+  },
+  "_note": "面料与表面质感，适用于服装、道具、场景",
+  "order": [
+    "画质",
+    "人物",
+    "身体",
+    "表情",
+    "动作",
+    "服饰",
+    "材质",
+    "道具",
+    "食物",
+    "动物",
+    "场景",
+    "天气",
+    "时间",
+    "特效",
+    "光照",
+    "色调",
+    "摄影",
+    "画风",
+    "氛围",
+    "题材",
+    "NSFW·身体",
+    "NSFW·行为",
+    "NSFW·特殊",
+    "写实负面",
+    "负面"
+  ]
+}

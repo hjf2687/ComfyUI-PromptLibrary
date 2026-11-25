@@ -1,0 +1,26 @@
+{
+  "id": "dialect-tag",
+  "name": "通用 · 英文 tag 式",
+  "order": 10,
+  "language": "en",
+  "negative": true,
+  "negative_fallback": "lowres, bad anatomy, bad hands, extra digits, fewer digits, cropped, worst quality, low quality, jpeg artifacts, signature, watermark, username, blurry",
+  "rules": [
+    "全部用英文 booru tag（danbooru 风格标签），逗号加一个空格分隔，统一小写，不要写成完整句子。",
+    "顺序按：风格与媒介 → 角色 tag（用户指定了角色时）→ 主体数量 → 外貌（发色、发型、眼睛、体型）→ 服装与配饰 → 表情 → 动作与姿势 → 与其它主体的互动 → 场景环境 → 光线 → 视角与构图 → 其它视觉细节。",
+    "数量控制在 15~35 个 tag：太少信息不足，太多会互相污染。",
+    "只写画得出来的视觉元素。不要写剧情、心理活动、比喻或抽象形容——要写 crying，不要写 heartbroken。",
+    "需要强调某个 tag 时用 (tag:1.2) 语法，倍率取 1.05~1.4，整段最多用 3 处。",
+    "不要输出 nsfw / safe / rating 这类分级 tag，分级由用户自己控制。",
+    "用户提到已知角色时，必须写出角色 tag —— 这是硬要求。不许只用外貌描述（发色 / 瞳色 / 发型 / 瞳孔形状）代替，光靠外貌模型认不出是谁。",
+    "角色 tag 用「角色名 (作品名)」格式：hu tao (genshin impact)、frieren (sousou no frieren)；角色专属名可省略括号（hatsune miku）。作品名的英文写法拿不准就只写角色名，不要编。",
+    "用户没提到的角色、作品、画师、商标，一概不要凭空添加。",
+    "不要输出同义重复的 tag，也不要让 tag 互相矛盾（例如同时写 indoors 和 outdoors）。"
+  ],
+  "negative_rules": [
+    "负面词同样用英文 booru tag 形式，逗号加一个空格分隔。",
+    "只写画面里不希望出现的东西，例如低质量、解剖错误、多手多脚、水印、文字、压缩噪点。",
+    "不要写 nsfw / safe 这类分级 tag。",
+    "10~25 个 tag 就够，不要堆成长串抄一遍通用词表。"
+  ]
+}

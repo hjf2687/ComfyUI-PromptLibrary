@@ -1,0 +1,238 @@
+{
+  "tags": {
+    "写实负面": [
+      {
+        "t": "plastic skin",
+        "z": "塑料感肌肤"
+      },
+      {
+        "t": "airbrushed",
+        "z": "气笔涂抹"
+      },
+      {
+        "t": "over-smoothed skin",
+        "z": "过度磨皮"
+      },
+      {
+        "t": "waxy skin",
+        "z": "蜡质皮肤"
+      },
+      {
+        "t": "excessive makeup",
+        "z": "妆感过重"
+      },
+      {
+        "t": "fake looking",
+        "z": "假人感"
+      },
+      {
+        "t": "unnatural skin texture",
+        "z": "皮肤质感不自然"
+      },
+      {
+        "t": "overly retouched",
+        "z": "过度修图"
+      },
+      {
+        "t": "3d look",
+        "z": "3D感"
+      },
+      {
+        "t": "cgi look",
+        "z": "CGI感"
+      },
+      {
+        "t": "overprocessed",
+        "z": "处理过度"
+      },
+      {
+        "t": "grey and dull",
+        "z": "灰暗沉闷"
+      },
+      {
+        "t": "flat lighting",
+        "z": "平淡打光"
+      },
+      {
+        "t": "harsh shadows",
+        "z": "生硬阴影"
+      },
+      {
+        "t": "anime",
+        "z": "动画"
+      },
+      {
+        "t": "cartoon",
+        "z": "卡通"
+      },
+      {
+        "t": "illustration",
+        "z": "插画"
+      },
+      {
+        "t": "digital art",
+        "z": "数码绘画感"
+      },
+      {
+        "t": "manga",
+        "z": "漫画感"
+      },
+      {
+        "t": "chibi",
+        "z": "Q版"
+      },
+      {
+        "t": "blender render",
+        "z": "Blender渲染"
+      },
+      {
+        "t": "unreal engine",
+        "z": "虚幻引擎"
+      },
+      {
+        "t": "vray render",
+        "z": "V-Ray渲染"
+      },
+      {
+        "t": "pixel art",
+        "z": "像素画"
+      },
+      {
+        "t": "bad composition",
+        "z": "构图差"
+      },
+      {
+        "t": "bad perspective",
+        "z": "透视错误"
+      },
+      {
+        "t": "skewed",
+        "z": "歪斜"
+      },
+      {
+        "t": "tilted horizon",
+        "z": "地平线倾斜"
+      },
+      {
+        "t": "cluttered background",
+        "z": "背景杂乱"
+      },
+      {
+        "t": "subject too small",
+        "z": "主体过小"
+      },
+      {
+        "t": "distracting elements",
+        "z": "干扰元素"
+      },
+      {
+        "t": "inconsistent style",
+        "z": "风格不一致"
+      },
+      {
+        "t": "date stamp",
+        "z": "日期戳"
+      },
+      {
+        "t": "border",
+        "z": "边框"
+      },
+      {
+        "t": "frame",
+        "z": "画框"
+      },
+      {
+        "t": "dust spots",
+        "z": "尘点"
+      },
+      {
+        "t": "scratches",
+        "z": "划痕"
+      },
+      {
+        "t": "over-sharpened",
+        "z": "过度锐化"
+      },
+      {
+        "t": "uncanny valley",
+        "z": "恐怖谷效应"
+      },
+      {
+        "t": "mannequin",
+        "z": "假人模特感"
+      },
+      {
+        "t": "doll-like",
+        "z": "人偶塑料脸"
+      },
+      {
+        "t": "synthetic skin",
+        "z": "人造合成皮肤感"
+      },
+      {
+        "t": "weird eyes",
+        "z": "怪异眼神"
+      },
+      {
+        "t": "stiff pose",
+        "z": "姿势僵硬"
+      },
+      {
+        "t": "floating limbs",
+        "z": "悬浮肢体"
+      },
+      {
+        "t": "color banding",
+        "z": "色彩断层"
+      },
+      {
+        "t": "lens distortion",
+        "z": "镜头畸变"
+      },
+      {
+        "t": "motion blur",
+        "z": "运动拖影模糊"
+      },
+      {
+        "t": "logo",
+        "z": "徽标Logo"
+      },
+      {
+        "t": "low contrast",
+        "z": "低对比发灰"
+      },
+      {
+        "t": "washed out",
+        "z": "褪色发白"
+      }
+    ]
+  },
+  "_note": "写实 / 摄影向负面词，与二次元向的「负面」分开，按需二选一",
+  "order": [
+    "画质",
+    "人物",
+    "身体",
+    "表情",
+    "动作",
+    "服饰",
+    "材质",
+    "道具",
+    "食物",
+    "动物",
+    "场景",
+    "天气",
+    "时间",
+    "特效",
+    "光照",
+    "色调",
+    "摄影",
+    "画风",
+    "氛围",
+    "题材",
+    "NSFW·身体",
+    "NSFW·行为",
+    "NSFW·特殊",
+    "写实负面",
+    "负面"
+  ]
+}

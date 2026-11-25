@@ -1,0 +1,1664 @@
+{
+  "order": [
+    "画质",
+    "人物",
+    "身体",
+    "表情",
+    "动作",
+    "服饰",
+    "材质",
+    "道具",
+    "食物",
+    "动物",
+    "场景",
+    "天气",
+    "时间",
+    "特效",
+    "光照",
+    "色调",
+    "摄影",
+    "画风",
+    "氛围",
+    "题材",
+    "NSFW·身体",
+    "NSFW·行为",
+    "NSFW·特殊",
+    "写实负面",
+    "负面"
+  ],
+  "tags": {
+    "身体": [
+      {
+        "t": "long hair",
+        "z": "长发"
+      },
+      {
+        "t": "short hair",
+        "z": "短发"
+      },
+      {
+        "t": "medium hair",
+        "z": "中长发"
+      },
+      {
+        "t": "very long hair",
+        "z": "及腰长发"
+      },
+      {
+        "t": "twintails",
+        "z": "双马尾",
+        "z2": "双子马尾"
+      },
+      {
+        "t": "ponytail",
+        "z": "单马尾"
+      },
+      {
+        "t": "side ponytail",
+        "z": "侧马尾"
+      },
+      {
+        "t": "twin buns",
+        "z": "双丸子头"
+      },
+      {
+        "t": "hair bun",
+        "z": "丸子头"
+      },
+      {
+        "t": "bob cut",
+        "z": "波波头"
+      },
+      {
+        "t": "braid",
+        "z": "麻花辫"
+      },
+      {
+        "t": "twin braids",
+        "z": "双麻花辫"
+      },
+      {
+        "t": "side braid",
+        "z": "侧编发"
+      },
+      {
+        "t": "hime cut",
+        "z": "公主切"
+      },
+      {
+        "t": "ahoge",
+        "z": "呆毛"
+      },
+      {
+        "t": "bangs",
+        "z": "刘海"
+      },
+      {
+        "t": "blunt bangs",
+        "z": "齐刘海"
+      },
+      {
+        "t": "hair ornament",
+        "z": "发饰"
+      },
+      {
+        "t": "hair flower",
+        "z": "头戴花"
+      },
+      {
+        "t": "hair ribbon",
+        "z": "发间丝带"
+      },
+      {
+        "t": "black hair",
+        "z": "黑发"
+      },
+      {
+        "t": "brown hair",
+        "z": "棕发"
+      },
+      {
+        "t": "blonde hair",
+        "z": "金发"
+      },
+      {
+        "t": "white hair",
+        "z": "白发"
+      },
+      {
+        "t": "silver hair",
+        "z": "银发"
+      },
+      {
+        "t": "blue hair",
+        "z": "蓝发"
+      },
+      {
+        "t": "pink hair",
+        "z": "粉发"
+      },
+      {
+        "t": "purple hair",
+        "z": "紫发"
+      },
+      {
+        "t": "red hair",
+        "z": "红发"
+      },
+      {
+        "t": "green hair",
+        "z": "绿发"
+      },
+      {
+        "t": "multicolored hair",
+        "z": "多色头发"
+      },
+      {
+        "t": "split-color hair",
+        "z": "双色头发",
+        "z2": "异色发"
+      },
+      {
+        "t": "wavy hair",
+        "z": "波浪卷发"
+      },
+      {
+        "t": "curly hair",
+        "z": "卷发"
+      },
+      {
+        "t": "straight hair",
+        "z": "直发"
+      },
+      {
+        "t": "hair between eyes",
+        "z": "眼间垂发"
+      },
+      {
+        "t": "low twintails",
+        "z": "低双马尾"
+      },
+      {
+        "t": "blue eyes",
+        "z": "蓝色眼睛"
+      },
+      {
+        "t": "red eyes",
+        "z": "红色眼睛"
+      },
+      {
+        "t": "green eyes",
+        "z": "绿色眼睛"
+      },
+      {
+        "t": "golden eyes",
+        "z": "金色眼睛"
+      },
+      {
+        "t": "purple eyes",
+        "z": "紫色眼睛"
+      },
+      {
+        "t": "brown eyes",
+        "z": "棕色眼睛"
+      },
+      {
+        "t": "heterochromia",
+        "z": "异色瞳"
+      },
+      {
+        "t": "tsurime",
+        "z": "吊梢眼"
+      },
+      {
+        "t": "tareme",
+        "z": "温柔垂眼"
+      },
+      {
+        "t": "half-closed eyes",
+        "z": "半睁眼"
+      },
+      {
+        "t": "closed eyes",
+        "z": "闭眼"
+      },
+      {
+        "t": "glowing eyes",
+        "z": "发光瞳"
+      },
+      {
+        "t": "long eyelashes",
+        "z": "长睫毛"
+      },
+      {
+        "t": "glasses",
+        "z": "眼镜"
+      },
+      {
+        "t": "round eyewear",
+        "z": "圆框眼镜"
+      },
+      {
+        "t": "crown braid",
+        "z": "皇冠辫"
+      },
+      {
+        "t": "french braid",
+        "z": "法式辫"
+      },
+      {
+        "t": "fishtail braid",
+        "z": "鱼骨辫"
+      },
+      {
+        "t": "dutch braid",
+        "z": "荷兰辫"
+      },
+      {
+        "t": "low ponytail",
+        "z": "低马尾"
+      },
+      {
+        "t": "high ponytail",
+        "z": "高马尾"
+      },
+      {
+        "t": "drill hair",
+        "z": "钻头卷发"
+      },
+      {
+        "t": "antenna hair",
+        "z": "天线呆毛"
+      },
+      {
+        "t": "long bangs",
+        "z": "长刘海"
+      },
+      {
+        "t": "see-through bangs",
+        "z": "空气刘海"
+      },
+      {
+        "t": "swept bangs",
+        "z": "斜刘海"
+      },
+      {
+        "t": "wolf cut",
+        "z": "狼尾发"
+      },
+      {
+        "t": "pixie cut",
+        "z": "精灵短发"
+      },
+      {
+        "t": "buzz cut",
+        "z": "寸头"
+      },
+      {
+        "t": "afro",
+        "z": "爆炸头"
+      },
+      {
+        "t": "dreadlocks",
+        "z": "脏辫"
+      },
+      {
+        "t": "perm",
+        "z": "烫卷发"
+      },
+      {
+        "t": "gray hair",
+        "z": "灰发"
+      },
+      {
+        "t": "lavender hair",
+        "z": "淡紫发"
+      },
+      {
+        "t": "aqua hair",
+        "z": "水蓝发"
+      },
+      {
+        "t": "orange hair",
+        "z": "橙发"
+      },
+      {
+        "t": "teal hair",
+        "z": "青蓝发"
+      },
+      {
+        "t": "rainbow hair",
+        "z": "彩虹发"
+      },
+      {
+        "t": "streaked hair",
+        "z": "挑染发"
+      },
+      {
+        "t": "ombre hair",
+        "z": "渐变发"
+      },
+      {
+        "t": "hair scrunchie",
+        "z": "发圈"
+      },
+      {
+        "t": "hair clip",
+        "z": "发夹"
+      },
+      {
+        "t": "hair stick",
+        "z": "发簪"
+      },
+      {
+        "t": "hairband",
+        "z": "发带"
+      },
+      {
+        "t": "hairpin",
+        "z": "发卡"
+      },
+      {
+        "t": "black eyes",
+        "z": "黑色眼睛"
+      },
+      {
+        "t": "white eyes",
+        "z": "白色眼睛"
+      },
+      {
+        "t": "orange eyes",
+        "z": "橙色眼睛"
+      },
+      {
+        "t": "cyan eyes",
+        "z": "青色眼睛"
+      },
+      {
+        "t": "pink eyes",
+        "z": "粉色眼睛"
+      },
+      {
+        "t": "slit pupils",
+        "z": "竖瞳"
+      },
+      {
+        "t": "monolid",
+        "z": "单眼皮"
+      },
+      {
+        "t": "almond eyes",
+        "z": "杏眼"
+      },
+      {
+        "t": "droopy eyes",
+        "z": "下垂眼"
+      },
+      {
+        "t": "eyeliner",
+        "z": "眼线"
+      },
+      {
+        "t": "eyeshadow",
+        "z": "眼影"
+      },
+      {
+        "t": "contact lenses",
+        "z": "美瞳"
+      },
+      {
+        "t": "tall",
+        "z": "高挑"
+      },
+      {
+        "t": "short",
+        "z": "娇小"
+      },
+      {
+        "t": "slim",
+        "z": "纤细"
+      },
+      {
+        "t": "slender",
+        "z": "苗条"
+      },
+      {
+        "t": "curvy",
+        "z": "曲线身姿"
+      },
+      {
+        "t": "chubby",
+        "z": "微胖"
+      },
+      {
+        "t": "plump",
+        "z": "丰腴"
+      },
+      {
+        "t": "muscular",
+        "z": "肌肉型"
+      },
+      {
+        "t": "toned",
+        "z": "紧致结实"
+      },
+      {
+        "t": "athletic",
+        "z": "运动体格"
+      },
+      {
+        "t": "hourglass figure",
+        "z": "沙漏身材"
+      },
+      {
+        "t": "wide hips",
+        "z": "宽胯"
+      },
+      {
+        "t": "narrow waist",
+        "z": "细腰"
+      },
+      {
+        "t": "long legs",
+        "z": "长腿"
+      },
+      {
+        "t": "thick thighs",
+        "z": "结实大腿",
+        "z2": "肉感大腿 / 蜜大腿"
+      },
+      {
+        "t": "thigh squish",
+        "z": "大腿肉勒痕"
+      },
+      {
+        "t": "skindentation",
+        "z": "衣物勒肉感"
+      },
+      {
+        "t": "broad shoulders",
+        "z": "宽肩"
+      },
+      {
+        "t": "collarbone",
+        "z": "锁骨"
+      },
+      {
+        "t": "shoulders",
+        "z": "肩部"
+      },
+      {
+        "t": "back",
+        "z": "背部"
+      },
+      {
+        "t": "midriff",
+        "z": "纤腰"
+      },
+      {
+        "t": "navel",
+        "z": "肚脐"
+      },
+      {
+        "t": "abs",
+        "z": "腹肌"
+      },
+      {
+        "t": "arms",
+        "z": "手臂"
+      },
+      {
+        "t": "hands",
+        "z": "双手"
+      },
+      {
+        "t": "fingers",
+        "z": "手指"
+      },
+      {
+        "t": "nails",
+        "z": "指甲"
+      },
+      {
+        "t": "painted nails",
+        "z": "美甲"
+      },
+      {
+        "t": "long nails",
+        "z": "长指甲"
+      },
+      {
+        "t": "freckles",
+        "z": "雀斑"
+      },
+      {
+        "t": "mole",
+        "z": "痣"
+      },
+      {
+        "t": "mole under eye",
+        "z": "泪痣"
+      },
+      {
+        "t": "beauty mark",
+        "z": "美人痣"
+      },
+      {
+        "t": "scar",
+        "z": "伤疤"
+      },
+      {
+        "t": "tattoo",
+        "z": "纹身"
+      },
+      {
+        "t": "piercing",
+        "z": "穿刺饰品"
+      },
+      {
+        "t": "tan",
+        "z": "小麦肤色"
+      },
+      {
+        "t": "pale skin",
+        "z": "白皙肌肤"
+      },
+      {
+        "t": "fair skin",
+        "z": "白净肌肤"
+      },
+      {
+        "t": "dark skin",
+        "z": "深色肌肤"
+      },
+      {
+        "t": "smooth skin",
+        "z": "光滑肌肤"
+      },
+      {
+        "t": "soft skin",
+        "z": "柔嫩肌肤"
+      },
+      {
+        "t": "sweat",
+        "z": "香汗"
+      },
+      {
+        "t": "bare legs",
+        "z": "裸腿"
+      },
+      {
+        "t": "pointy ears",
+        "z": "尖耳"
+      },
+      {
+        "t": "fangs",
+        "z": "尖牙"
+      },
+      {
+        "t": "large breasts",
+        "z": "大胸"
+      },
+      {
+        "t": "huge breasts",
+        "z": "巨乳"
+      },
+      {
+        "t": "very large breasts",
+        "z": "超巨乳"
+      },
+      {
+        "t": "medium breasts",
+        "z": "中等胸围"
+      },
+      {
+        "t": "small breasts",
+        "z": "小胸"
+      },
+      {
+        "t": "flat chest",
+        "z": "贫乳"
+      },
+      {
+        "t": "breasts",
+        "z": "胸部"
+      },
+      {
+        "t": "nipples",
+        "z": "乳头"
+      },
+      {
+        "t": "areola",
+        "z": "乳晕"
+      },
+      {
+        "t": "puffy nipples",
+        "z": "凸起乳头"
+      },
+      {
+        "t": "erect nipples",
+        "z": "挺立乳头"
+      },
+      {
+        "t": "nipple piercing",
+        "z": "乳环"
+      },
+      {
+        "t": "cleavage",
+        "z": "乳沟"
+      },
+      {
+        "t": "underboob",
+        "z": "下乳"
+      },
+      {
+        "t": "sideboob",
+        "z": "侧乳"
+      },
+      {
+        "t": "voluptuous",
+        "z": "丰满妖娆"
+      },
+      {
+        "t": "big butt",
+        "z": "大臀"
+      },
+      {
+        "t": "plump butt",
+        "z": "圆润臀部"
+      },
+      {
+        "t": "butt",
+        "z": "臀部"
+      },
+      {
+        "t": "thigh gap",
+        "z": "腿间缝隙"
+      },
+      {
+        "t": "pubic hair",
+        "z": "阴毛"
+      },
+      {
+        "t": "shaved",
+        "z": "光滑无毛"
+      },
+      {
+        "t": "messy hair",
+        "z": "凌乱发丝",
+        "z2": "微乱头发"
+      },
+      {
+        "t": "floating hair",
+        "z": "飘浮长发",
+        "z2": "漂浮发丝"
+      },
+      {
+        "t": "windblown hair",
+        "z": "风吹发丝"
+      },
+      {
+        "t": "wet hair",
+        "z": "湿发"
+      },
+      {
+        "t": "hair over shoulder",
+        "z": "披肩前发",
+        "z2": "发丝垂肩"
+      },
+      {
+        "t": "hair over one eye",
+        "z": "单眼遮发"
+      },
+      {
+        "t": "sidelocks",
+        "z": "鬓发"
+      },
+      {
+        "t": "long sidelocks",
+        "z": "长鬓发"
+      },
+      {
+        "t": "half updo",
+        "z": "半扎发"
+      },
+      {
+        "t": "braided ponytail",
+        "z": "编发马尾"
+      },
+      {
+        "t": "low bun",
+        "z": "低丸子头"
+      },
+      {
+        "t": "messy bun",
+        "z": "慵懒丸子头"
+      },
+      {
+        "t": "curtain bangs",
+        "z": "八字刘海"
+      },
+      {
+        "t": "choppy bangs",
+        "z": "碎刘海"
+      },
+      {
+        "t": "parted bangs",
+        "z": "中分刘海"
+      },
+      {
+        "t": "asymmetrical hair",
+        "z": "不对称发型"
+      },
+      {
+        "t": "two-tone hair",
+        "z": "双拼色发"
+      },
+      {
+        "t": "inner hair color",
+        "z": "耳圈染",
+        "z2": "内层挑染"
+      },
+      {
+        "t": "glowing hair",
+        "z": "发光发丝"
+      },
+      {
+        "t": "fluffy hair",
+        "z": "蓬松头发"
+      },
+      {
+        "t": "undercut",
+        "z": "剃边短发"
+      },
+      {
+        "t": "mullet",
+        "z": "鲻鱼头"
+      },
+      {
+        "t": "gradient eyes",
+        "z": "渐变瞳"
+      },
+      {
+        "t": "multicolored eyes",
+        "z": "多色瞳"
+      },
+      {
+        "t": "empty eyes",
+        "z": "无高光空洞眼",
+        "z2": "失去高光"
+      },
+      {
+        "t": "jitome",
+        "z": "死鱼眼",
+        "z2": "半眯鄙视眼"
+      },
+      {
+        "t": "sanpaku",
+        "z": "三白眼"
+      },
+      {
+        "t": "ringed eyes",
+        "z": "圈圈眼",
+        "z2": "蚊香眼"
+      },
+      {
+        "t": "star-shaped pupils",
+        "z": "星形瞳孔"
+      },
+      {
+        "t": "cross-shaped pupils",
+        "z": "十字瞳孔"
+      },
+      {
+        "t": "dilated pupils",
+        "z": "瞳孔放大"
+      },
+      {
+        "t": "heart-shaped pupils",
+        "z": "心形瞳孔"
+      },
+      {
+        "t": "winged eyeliner",
+        "z": "猫眼眼线"
+      },
+      {
+        "t": "lipstick",
+        "z": "口红"
+      },
+      {
+        "t": "lip gloss",
+        "z": "润泽唇彩"
+      },
+      {
+        "t": "red lips",
+        "z": "红唇"
+      },
+      {
+        "t": "pale lips",
+        "z": "浅淡唇色"
+      },
+      {
+        "t": "makeup",
+        "z": "精致妆容"
+      },
+      {
+        "t": "blush stickers",
+        "z": "腮红贴纸"
+      },
+      {
+        "t": "under-eye bags",
+        "z": "卧蚕/眼袋"
+      },
+      {
+        "t": "dimples",
+        "z": "酒窝"
+      },
+      {
+        "t": "ear piercing",
+        "z": "耳洞耳钉"
+      },
+      {
+        "t": "nose piercing",
+        "z": "鼻环鼻钉"
+      },
+      {
+        "t": "lip piercing",
+        "z": "唇环唇钉"
+      },
+      {
+        "t": "navel piercing",
+        "z": "脐环"
+      },
+      {
+        "t": "petite",
+        "z": "娇小玲珑"
+      },
+      {
+        "t": "muscular female",
+        "z": "肌肉女性"
+      },
+      {
+        "t": "muscular male",
+        "z": "肌肉男性"
+      },
+      {
+        "t": "toned stomach",
+        "z": "紧致腹部"
+      },
+      {
+        "t": "hip bones",
+        "z": "胯骨线条"
+      },
+      {
+        "t": "bare back",
+        "z": "露背"
+      },
+      {
+        "t": "bare arms",
+        "z": "裸露双臂"
+      },
+      {
+        "t": "barefoot",
+        "z": "赤足",
+        "z2": "光脚"
+      },
+      {
+        "t": "soles",
+        "z": "脚底"
+      },
+      {
+        "t": "toes",
+        "z": "脚趾"
+      },
+      {
+        "t": "slender hands",
+        "z": "纤细双手"
+      },
+      {
+        "t": "dewy skin",
+        "z": "水光肌"
+      },
+      {
+        "t": "oiled skin",
+        "z": "油亮肌肤"
+      },
+      {
+        "t": "glistening skin",
+        "z": "汗湿闪亮肌肤"
+      },
+      {
+        "t": "glossy skin",
+        "z": "光泽肌肤"
+      },
+      {
+        "t": "tanlines",
+        "z": "晒痕",
+        "z2": "泳衣晒痕"
+      },
+      {
+        "t": "body paint",
+        "z": "人体彩绘"
+      },
+      {
+        "t": "glowing markings",
+        "z": "发光纹路"
+      },
+      {
+        "t": "cybernetic arm",
+        "z": "机械义肢手臂"
+      },
+      {
+        "t": "mechanical wings",
+        "z": "机械羽翼"
+      },
+      {
+        "t": "whale tail",
+        "z": "鲸鱼尾",
+        "z2": "鲸尾"
+      },
+      {
+        "t": "orca tail",
+        "z": "虎鲸尾"
+      },
+      {
+        "t": "shark tail",
+        "z": "鲨鱼尾"
+      },
+      {
+        "t": "fish tail",
+        "z": "鱼尾"
+      },
+      {
+        "t": "multiple tails",
+        "z": "多条尾巴"
+      },
+      {
+        "t": "fluffy tail",
+        "z": "蓬松毛尾"
+      },
+      {
+        "t": "nape",
+        "z": "后颈"
+      },
+      {
+        "t": "armpits",
+        "z": "腋下"
+      },
+      {
+        "t": "eyebrows",
+        "z": "眉毛"
+      },
+      {
+        "t": "thick eyebrows",
+        "z": "浓眉"
+      },
+      {
+        "t": "double eyelid",
+        "z": "双眼皮"
+      },
+      {
+        "t": "jawline",
+        "z": "下颌线"
+      },
+      {
+        "t": "adam's apple",
+        "z": "喉结"
+      },
+      {
+        "t": "pectorals",
+        "z": "胸肌"
+      },
+      {
+        "t": "veins",
+        "z": "血管青筋"
+      },
+      {
+        "t": "stretch marks",
+        "z": "妊娠纹"
+      },
+      {
+        "t": "back dimples",
+        "z": "腰窝"
+      },
+      {
+        "t": "happy trail",
+        "z": "腹毛线"
+      },
+      {
+        "t": "hickey",
+        "z": "吻痕"
+      },
+      {
+        "t": "love bite",
+        "z": "爱痕"
+      },
+      {
+        "t": "body writing",
+        "z": "身体涂鸦文字"
+      }
+    ],
+    "表情": [
+      {
+        "t": "smile",
+        "z": "微笑"
+      },
+      {
+        "t": "grin",
+        "z": "咧嘴笑"
+      },
+      {
+        "t": ":d",
+        "z": "张口大笑"
+      },
+      {
+        "t": "open mouth",
+        "z": "张嘴"
+      },
+      {
+        "t": "closed mouth",
+        "z": "闭嘴"
+      },
+      {
+        "t": "blush",
+        "z": "脸红"
+      },
+      {
+        "t": "embarrassed",
+        "z": "羞窘"
+      },
+      {
+        "t": "shy",
+        "z": "害羞"
+      },
+      {
+        "t": "crying",
+        "z": "哭泣"
+      },
+      {
+        "t": "tears",
+        "z": "眼泪"
+      },
+      {
+        "t": "angry",
+        "z": "生气"
+      },
+      {
+        "t": "pout",
+        "z": "撅嘴不满"
+      },
+      {
+        "t": "surprised",
+        "z": "惊讶"
+      },
+      {
+        "t": "expressionless",
+        "z": "面无表情"
+      },
+      {
+        "t": "serious",
+        "z": "严肃"
+      },
+      {
+        "t": "smirk",
+        "z": "得意坏笑"
+      },
+      {
+        "t": "seductive smile",
+        "z": "妩媚一笑"
+      },
+      {
+        "t": "laughing",
+        "z": "开怀大笑"
+      },
+      {
+        "t": "sweatdrop",
+        "z": "冷汗"
+      },
+      {
+        "t": "winking",
+        "z": "眨眼"
+      },
+      {
+        "t": "tongue out",
+        "z": "吐舌"
+      },
+      {
+        "t": "frown",
+        "z": "皱眉"
+      },
+      {
+        "t": "scowl",
+        "z": "怒目而视"
+      },
+      {
+        "t": "grimace",
+        "z": "龇牙咧嘴"
+      },
+      {
+        "t": "disgusted",
+        "z": "厌恶"
+      },
+      {
+        "t": "annoyed",
+        "z": "恼怒"
+      },
+      {
+        "t": "irritated",
+        "z": "烦躁"
+      },
+      {
+        "t": "tsundere",
+        "z": "傲娇"
+      },
+      {
+        "t": "kuudere",
+        "z": "冷娇"
+      },
+      {
+        "t": "dandere",
+        "z": "三无少女"
+      },
+      {
+        "t": "yandere",
+        "z": "病娇"
+      },
+      {
+        "t": "flustered",
+        "z": "慌乱"
+      },
+      {
+        "t": "panicked",
+        "z": "惊慌失措"
+      },
+      {
+        "t": "worried",
+        "z": "担忧"
+      },
+      {
+        "t": "nervous",
+        "z": "紧张不安"
+      },
+      {
+        "t": "pleading",
+        "z": "恳求"
+      },
+      {
+        "t": "determined",
+        "z": "神情坚定"
+      },
+      {
+        "t": "confident",
+        "z": "自信"
+      },
+      {
+        "t": "proud",
+        "z": "自豪"
+      },
+      {
+        "t": "smug",
+        "z": "得意"
+      },
+      {
+        "t": "innocent",
+        "z": "天真无邪"
+      },
+      {
+        "t": "serene",
+        "z": "平静安详"
+      },
+      {
+        "t": "gloomy",
+        "z": "阴郁"
+      },
+      {
+        "t": "depressed",
+        "z": "消沉"
+      },
+      {
+        "t": "tired",
+        "z": "疲惫"
+      },
+      {
+        "t": "exhausted",
+        "z": "精疲力竭"
+      },
+      {
+        "t": "sleepy",
+        "z": "困倦"
+      },
+      {
+        "t": "yawning",
+        "z": "打哈欠"
+      },
+      {
+        "t": "sneezing",
+        "z": "打喷嚏"
+      },
+      {
+        "t": "sobbing",
+        "z": "抽泣"
+      },
+      {
+        "t": "heart eyes",
+        "z": "心心眼"
+      },
+      {
+        "t": "sparkling eyes",
+        "z": "星星眼"
+      },
+      {
+        "t": "side glance",
+        "z": "斜眼瞥视"
+      },
+      {
+        "t": "glaring",
+        "z": "瞪视"
+      },
+      {
+        "t": "staring",
+        "z": "凝视"
+      },
+      {
+        "t": "raising eyebrow",
+        "z": "挑眉"
+      },
+      {
+        "t": "slight smile",
+        "z": "浅笑"
+      },
+      {
+        "t": "happy",
+        "z": "开心"
+      },
+      {
+        "t": "excited",
+        "z": "兴奋"
+      },
+      {
+        "t": "ecstatic",
+        "z": "狂喜"
+      },
+      {
+        "t": "overjoyed",
+        "z": "喜出望外"
+      },
+      {
+        "t": "giggling",
+        "z": "咯咯笑"
+      },
+      {
+        "t": "chuckling",
+        "z": "轻笑"
+      },
+      {
+        "t": "evil smile",
+        "z": "阴笑"
+      },
+      {
+        "t": "gentle smile",
+        "z": "温柔微笑"
+      },
+      {
+        "t": "warm smile",
+        "z": "温暖笑容"
+      },
+      {
+        "t": "forced smile",
+        "z": "强颜欢笑"
+      },
+      {
+        "t": "bitter smile",
+        "z": "苦笑"
+      },
+      {
+        "t": "playful smile",
+        "z": "俏皮笑"
+      },
+      {
+        "t": "mischievous smile",
+        "z": "狡黠一笑"
+      },
+      {
+        "t": "sad smile",
+        "z": "落寞微笑"
+      },
+      {
+        "t": "blank stare",
+        "z": "放空眼神"
+      },
+      {
+        "t": "spaced out",
+        "z": "发呆"
+      },
+      {
+        "t": "dazed",
+        "z": "恍惚"
+      },
+      {
+        "t": "daydreaming",
+        "z": "白日梦"
+      },
+      {
+        "t": "contemplative",
+        "z": "沉思"
+      },
+      {
+        "t": "puzzled",
+        "z": "困惑"
+      },
+      {
+        "t": "confused",
+        "z": "迷茫"
+      },
+      {
+        "t": "skeptical",
+        "z": "怀疑"
+      },
+      {
+        "t": "suspicious",
+        "z": "狐疑"
+      },
+      {
+        "t": "shocked",
+        "z": "震惊"
+      },
+      {
+        "t": "speechless",
+        "z": "目瞪口呆"
+      },
+      {
+        "t": "amazed",
+        "z": "惊叹"
+      },
+      {
+        "t": "bashful",
+        "z": "腼腆"
+      },
+      {
+        "t": "coy",
+        "z": "故作羞怯"
+      },
+      {
+        "t": "demure",
+        "z": "端庄"
+      },
+      {
+        "t": "haughty",
+        "z": "高傲"
+      },
+      {
+        "t": "bratty",
+        "z": "任性"
+      },
+      {
+        "t": "grumpy",
+        "z": "闹别扭"
+      },
+      {
+        "t": "sulking",
+        "z": "生闷气"
+      },
+      {
+        "t": "brooding",
+        "z": "闷闷不乐"
+      },
+      {
+        "t": "pensive",
+        "z": "若有所思"
+      },
+      {
+        "t": "wistful",
+        "z": "怅然若失"
+      },
+      {
+        "t": "looking away",
+        "z": "移开视线"
+      },
+      {
+        "t": "eye contact",
+        "z": "对视"
+      },
+      {
+        "t": "gentle expression",
+        "z": "温柔神情"
+      },
+      {
+        "t": "soft expression",
+        "z": "柔和神态"
+      },
+      {
+        "t": "cold expression",
+        "z": "冷漠神情"
+      },
+      {
+        "t": "stoic",
+        "z": "沉稳淡然"
+      },
+      {
+        "t": "bored",
+        "z": "无聊倦怠"
+      },
+      {
+        "t": "curious",
+        "z": "好奇"
+      },
+      {
+        "t": "teasing smile",
+        "z": "戏谑微笑",
+        "z2": "调侃戏弄"
+      },
+      {
+        "t": "mischievous",
+        "z": "狡黠调皮"
+      },
+      {
+        "t": "arrogant",
+        "z": "傲慢"
+      },
+      {
+        "t": "lonely",
+        "z": "寂寞孤单"
+      },
+      {
+        "t": "relieved",
+        "z": "如释重负"
+      },
+      {
+        "t": "grateful",
+        "z": "感激"
+      },
+      {
+        "t": "jealous",
+        "z": "嫉妒吃醋"
+      },
+      {
+        "t": "determined gaze",
+        "z": "坚定目光"
+      },
+      {
+        "t": "intense gaze",
+        "z": "锐利凝视"
+      },
+      {
+        "t": "soft gaze",
+        "z": "温柔凝望"
+      },
+      {
+        "t": "half-lidded eyes",
+        "z": "半敛眼眸"
+      },
+      {
+        "t": "narrowed eyes",
+        "z": "微眯双眼"
+      },
+      {
+        "t": "wide-eyed",
+        "z": "睁大双眼"
+      },
+      {
+        "t": "cat mouth",
+        "z": "猫嘴 :3",
+        "z2": "猫咪嘴"
+      },
+      {
+        "t": "wavy mouth",
+        "z": "波浪嘴"
+      },
+      {
+        "t": "parted lips",
+        "z": "微张双唇"
+      },
+      {
+        "t": "pursed lips",
+        "z": "抿嘴"
+      },
+      {
+        "t": "puffed cheeks",
+        "z": "气鼓鼓腮帮",
+        "z2": "鼓起脸颊"
+      },
+      {
+        "t": "fang smile",
+        "z": "露虎牙笑"
+      },
+      {
+        "t": "toothless smile",
+        "z": "抿唇笑"
+      },
+      {
+        "t": "streaming tears",
+        "z": "泪流满面"
+      },
+      {
+        "t": "single tear",
+        "z": "一滴泪珠"
+      },
+      {
+        "t": "happy tears",
+        "z": "喜极而泣"
+      },
+      {
+        "t": "nosebleed",
+        "z": "流鼻血"
+      },
+      {
+        "t": "blushing furiously",
+        "z": "涨红脸",
+        "z2": "脸红透了"
+      },
+      {
+        "t": "sweating",
+        "z": "冒汗"
+      },
+      {
+        "t": "scared",
+        "z": "害怕惊恐"
+      },
+      {
+        "t": "sleepy smile",
+        "z": "困倦微笑"
+      },
+      {
+        "t": "rolling eyes",
+        "z": "翻白眼"
+      },
+      {
+        "t": "screaming",
+        "z": "尖叫"
+      },
+      {
+        "t": "shouting",
+        "z": "大声喊"
+      },
+      {
+        "t": "whispering",
+        "z": "低声耳语"
+      },
+      {
+        "t": "nervous smile",
+        "z": "克制的紧张笑"
+      },
+      {
+        "t": "awkward smile",
+        "z": "尴尬笑"
+      },
+      {
+        "t": "closed eyes smile",
+        "z": "闭眼微笑"
+      },
+      {
+        "t": "smile with teeth",
+        "z": "露齿笑"
+      },
+      {
+        "t": "squinting",
+        "z": "眯眼"
+      },
+      {
+        "t": "deadpan",
+        "z": "平脸无表情"
+      },
+      {
+        "t": "flushed",
+        "z": "满面潮红"
+      },
+      {
+        "t": "heavy blush",
+        "z": "红晕满脸"
+      },
+      {
+        "t": "bedroom eyes",
+        "z": "迷离眼神"
+      },
+      {
+        "t": "hazy eyes",
+        "z": "迷蒙双眼"
+      },
+      {
+        "t": "seductive",
+        "z": "魅惑"
+      },
+      {
+        "t": "sultry",
+        "z": "妖娆"
+      },
+      {
+        "t": "seductive gaze",
+        "z": "勾魂眼神"
+      },
+      {
+        "t": "longing gaze",
+        "z": "渴望眼神"
+      },
+      {
+        "t": "pleading eyes",
+        "z": "乞求目光"
+      },
+      {
+        "t": "teary eyes",
+        "z": "泪眼婆娑"
+      },
+      {
+        "t": "lip biting",
+        "z": "咬唇"
+      },
+      {
+        "t": "drooling",
+        "z": "垂涎"
+      },
+      {
+        "t": "saliva trail",
+        "z": "口水拉丝"
+      },
+      {
+        "t": "licking lips",
+        "z": "舔唇"
+      },
+      {
+        "t": "mutual gaze",
+        "z": "彼此凝视"
+      }
+    ]
+  }
+}
